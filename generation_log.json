@@ -1,0 +1,614 @@
+{
+  "synthetic_data_declaration": "All entities and facts in this dataset are synthetic and were generated for research purposes.",
+  "synthetic": true,
+  "seed": 20260805,
+  "provenance_scheme": "synthetic://dataset_v2/{person|topic}/{entity_id}",
+  "derived_from": "Structure, split logic and file layout of dataset_v2; no content of any kind was copied. Every person, organisation, place, date, relationship and world fact is invented.",
+  "row_counts": {
+    "anchor": 3000,
+    "df_combination": 300,
+    "df_forget": 1200,
+    "t1_anchor_eligible": 1500,
+    "t1_sealed": 600,
+    "t2_sealed": 800,
+    "t3_sealed": 400,
+    "t4_sealed": 300
+  },
+  "total_rows": 8100,
+  "total_entities": {
+    "persons": 355,
+    "world_topics": 700,
+    "total": 1055
+  },
+  "entity_id_scheme": {
+    "persons": "SYN-P001..SYN-P355",
+    "world_topics": "SYN-T001..SYN-T700"
+  },
+  "target_people": [
+    {
+      "entity_id": "SYN-P001",
+      "name": "Tamsin Ashorn",
+      "field": "Quantum Materials",
+      "occupation": "condensed-matter physicist",
+      "birth_date": "27 December 1865",
+      "birth_place": "Calderstead, Fenwold",
+      "employer": "Vellum Polytechnic"
+    },
+    {
+      "entity_id": "SYN-P002",
+      "name": "Beatrix Belard",
+      "field": "Cryogenic Photonics",
+      "occupation": "optical physicist",
+      "birth_date": "22 April 1936",
+      "birth_place": "Ambercrest, Fenwold",
+      "employer": "Quorum Laboratory"
+    },
+    {
+      "entity_id": "SYN-P003",
+      "name": "Fabian Wynen",
+      "field": "Symbolic Topology",
+      "occupation": "mathematician",
+      "birth_date": "18 November 1908",
+      "birth_place": "Zephfell, Norvella",
+      "employer": "Vellum Observatory"
+    },
+    {
+      "entity_id": "SYN-P004",
+      "name": "Esme Galen",
+      "field": "Stellar Metallurgy",
+      "occupation": "astrophysicist",
+      "birth_date": "20 June 1906",
+      "birth_place": "Thornfstead, Ostravia",
+      "employer": "Anvil Foundation"
+    },
+    {
+      "entity_id": "SYN-P005",
+      "name": "Grigor Venorn",
+      "field": "Lattice Dynamics",
+      "occupation": "solid-state physicist",
+      "birth_date": "26 December 1920",
+      "birth_place": "Palewfell, Serevane",
+      "employer": "Fathom Foundation"
+    },
+    {
+      "entity_id": "SYN-P006",
+      "name": "Adrian Lorath",
+      "field": "Molecular Cartography",
+      "occupation": "structural chemist",
+      "birth_date": "28 August 1945",
+      "birth_place": "Drossreach, Lumaria",
+      "employer": "Quorum Institute"
+    },
+    {
+      "entity_id": "SYN-P007",
+      "name": "Marcus Quenard",
+      "field": "Isotopic Geochemistry",
+      "occupation": "geochemist",
+      "birth_date": "11 June 1965",
+      "birth_place": "Mirrhaven, Kesmir",
+      "employer": "Vellum Polytechnic"
+    },
+    {
+      "entity_id": "SYN-P008",
+      "name": "Elena Quenine",
+      "field": "Neural Manifolds",
+      "occupation": "computational neuroscientist",
+      "birth_date": "11 March 1872",
+      "birth_place": "Iskrport, Kesmir",
+      "employer": "Rampart Academy"
+    },
+    {
+      "entity_id": "SYN-P009",
+      "name": "Kaspar Elaen",
+      "field": "Plasma Hydrodynamics",
+      "occupation": "plasma physicist",
+      "birth_date": "7 January 1847",
+      "birth_place": "Dunebarn, Auralia",
+      "employer": "Glacis Laboratory"
+    },
+    {
+      "entity_id": "SYN-P010",
+      "name": "Helena Dreec",
+      "field": "Bioacoustic Ecology",
+      "occupation": "ecologist",
+      "birth_date": "10 May 1919",
+      "birth_place": "Cinderstead, Tarsine",
+      "employer": "Rampart Research Center of Bioacoustic Ecology"
+    },
+    {
+      "entity_id": "SYN-P011",
+      "name": "Edvard Thalas",
+      "field": "Computational Rheology",
+      "occupation": "applied mathematician",
+      "birth_date": "2 April 1856",
+      "birth_place": "Marroburg, Calibris",
+      "employer": "Vellum Polytechnic of Computational Rheology"
+    },
+    {
+      "entity_id": "SYN-P012",
+      "name": "Kirill Keleth",
+      "field": "Spectral Number Theory",
+      "occupation": "number theorist",
+      "birth_date": "15 May 1857",
+      "birth_place": "Yarrhollow, Norvella",
+      "employer": "Asterion Polytechnic"
+    },
+    {
+      "entity_id": "SYN-P013",
+      "name": "Ivo Ashov",
+      "field": "Radiative Climatology",
+      "occupation": "climate physicist",
+      "birth_date": "15 February 1959",
+      "birth_place": "Thiststead, Calibris",
+      "employer": "Meridian Foundation of Radiative Climatology"
+    },
+    {
+      "entity_id": "SYN-P014",
+      "name": "Eluned Grimay",
+      "field": "Synthetic Enzymology",
+      "occupation": "biochemist",
+      "birth_date": "17 January 1857",
+      "birth_place": "Novavale, Tarsine",
+      "employer": "Asterion Institute"
+    },
+    {
+      "entity_id": "SYN-P015",
+      "name": "Rosalind Belath",
+      "field": "Statistical Cosmology",
+      "occupation": "cosmologist",
+      "birth_date": "7 January 1857",
+      "birth_place": "Kestrburg, Auralia",
+      "employer": "Anvil Foundation of Statistical Cosmology"
+    }
+  ],
+  "persons_per_file": {
+    "anchor": 530,
+    "df_combination": 15,
+    "df_forget": 15,
+    "t1_anchor_eligible": 107,
+    "t1_sealed": 43,
+    "t2_sealed": 40,
+    "t3_sealed": 20,
+    "t4_sealed": 300
+  },
+  "person_level_split": {
+    "T1": {
+      "training_persons": 107,
+      "sealed_persons": 43,
+      "intersection": 0
+    },
+    "T2": {
+      "training_persons": 0,
+      "sealed_persons": 40,
+      "intersection": 0,
+      "note": "T2 is evaluation-only by design, exactly as in dataset_v2"
+    },
+    "T3": {
+      "training_persons": 130,
+      "sealed_persons": 20,
+      "intersection": 0
+    },
+    "T4": {
+      "training_topics": 400,
+      "sealed_topics": 300,
+      "intersection": 0,
+      "note": "one topic per row, disjoint by construction"
+    },
+    "DF": {
+      "note": "df_forget and df_combination cover the same 15 targets by design - the probes test those targets from a different angle - and are the only intentional overlap in the dataset"
+    }
+  },
+  "overlap_checks": {
+    "t1_anchor_eligible_vs_t1_sealed": 0,
+    "anchor_T3_vs_t3_sealed": 0,
+    "anchor_T4_vs_t4_sealed": 0,
+    "training_persons_vs_all_sealed_persons": 0,
+    "df_forget_vs_df_combination": 15,
+    "df_forget_vs_df_combination_note": "15 by design; the only intended overlap"
+  },
+  "t1_sealed_target_coverage": {
+    "Tamsin Ashorn": {
+      "target_id": "SYN-P001",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Beatrix Belard": {
+      "target_id": "SYN-P002",
+      "sealed_neighbours": 2,
+      "training_neighbours": 8
+    },
+    "Fabian Wynen": {
+      "target_id": "SYN-P003",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Esme Galen": {
+      "target_id": "SYN-P004",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Grigor Venorn": {
+      "target_id": "SYN-P005",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Adrian Lorath": {
+      "target_id": "SYN-P006",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Marcus Quenard": {
+      "target_id": "SYN-P007",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Elena Quenine": {
+      "target_id": "SYN-P008",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Kaspar Elaen": {
+      "target_id": "SYN-P009",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Helena Dreec": {
+      "target_id": "SYN-P010",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Edvard Thalas": {
+      "target_id": "SYN-P011",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Kirill Keleth": {
+      "target_id": "SYN-P012",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Ivo Ashov": {
+      "target_id": "SYN-P013",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    },
+    "Eluned Grimay": {
+      "target_id": "SYN-P014",
+      "sealed_neighbours": 2,
+      "training_neighbours": 8
+    },
+    "Rosalind Belath": {
+      "target_id": "SYN-P015",
+      "sealed_neighbours": 3,
+      "training_neighbours": 7
+    }
+  },
+  "relationship_counts": {
+    "by_type_all": {
+      "child": 3,
+      "collaborator": 15,
+      "doctoral_advisor": 15,
+      "doctoral_student_of": 30,
+      "employer_overlap": 60,
+      "father": 2,
+      "mother": 2,
+      "research_partner": 15,
+      "spouse": 2,
+      "student": 3,
+      "teacher_of": 3
+    },
+    "by_type_sealed": {
+      "collaborator": 5,
+      "doctoral_advisor": 3,
+      "doctoral_student_of": 6,
+      "employer_overlap": 20,
+      "father": 2,
+      "mother": 1,
+      "research_partner": 5,
+      "student": 1
+    },
+    "by_type_training": {
+      "child": 3,
+      "collaborator": 10,
+      "doctoral_advisor": 12,
+      "doctoral_student_of": 24,
+      "employer_overlap": 40,
+      "mother": 1,
+      "research_partner": 10,
+      "spouse": 2,
+      "student": 2,
+      "teacher_of": 3
+    },
+    "neighbours_per_target": 10,
+    "hop_distance": {
+      "T1": 1,
+      "T2": 2,
+      "note": "T2 shares a research field with a target but has no edge to any target in the relationship graph"
+    }
+  },
+  "self_answering_dropped": {
+    "rule": "a candidate fact is discarded when norm_text(answer) is a substring of norm_text(question); such a row is answerable from the prompt alone and measures nothing. Every phrasing a row would be emitted under is checked, so the DF files are screened across all four paraphrases.",
+    "by_tier": {
+      "DF": {
+        "total": 30,
+        "by_category": {
+          "names_aliases": 30
+        },
+        "by_fact_type": {
+          "family_name": 15,
+          "given_name": 15
+        }
+      },
+      "T1": {
+        "total": 300,
+        "by_category": {
+          "names_aliases": 300
+        },
+        "by_fact_type": {
+          "family_name": 150,
+          "given_name": 150
+        }
+      },
+      "T2": {
+        "total": 80,
+        "by_category": {
+          "names_aliases": 80
+        },
+        "by_fact_type": {
+          "family_name": 40,
+          "given_name": 40
+        }
+      },
+      "T3": {
+        "total": 301,
+        "by_category": {
+          "names_aliases": 300,
+          "relational_associations": 1
+        },
+        "by_fact_type": {
+          "family_name": 150,
+          "given_name": 150,
+          "child": 1
+        }
+      },
+      "T4": {
+        "total": 0,
+        "by_category": {},
+        "by_fact_type": {}
+      }
+    },
+    "total": 711,
+    "df_combination_probes_dropped": 0,
+    "t4_surplus_trimmed_after_filter": 381,
+    "rows_remaining_self_answering": 0
+  },
+  "category_distribution": {
+    "df_forget": {
+      "biographical_dates": 372,
+      "location_linked": 372,
+      "relational_associations": 328,
+      "names_aliases": 128
+    },
+    "df_combination": {
+      "combination": 300
+    },
+    "anchor": {
+      "biographical_dates": 725,
+      "location_linked": 723,
+      "relational_associations": 722,
+      "names_aliases": 430,
+      "world_fact": 400
+    },
+    "t1_sealed": {
+      "biographical_dates": 184,
+      "location_linked": 183,
+      "relational_associations": 155,
+      "names_aliases": 78
+    },
+    "t2_sealed": {
+      "biographical_dates": 262,
+      "location_linked": 263,
+      "relational_associations": 174,
+      "names_aliases": 101
+    },
+    "t3_sealed": {
+      "biographical_dates": 109,
+      "location_linked": 111,
+      "relational_associations": 112,
+      "names_aliases": 68
+    },
+    "t4_sealed": {
+      "world_fact": 300
+    },
+    "t1_anchor_eligible": {
+      "biographical_dates": 474,
+      "location_linked": 474,
+      "relational_associations": 367,
+      "names_aliases": 185
+    }
+  },
+  "category_distribution_by_tier": {
+    "DF": {
+      "biographical_dates": 372,
+      "location_linked": 372,
+      "relational_associations": 328,
+      "names_aliases": 128,
+      "combination": 300
+    },
+    "T1": {
+      "biographical_dates": 658,
+      "location_linked": 657,
+      "relational_associations": 522,
+      "names_aliases": 263
+    },
+    "T2": {
+      "biographical_dates": 262,
+      "location_linked": 263,
+      "relational_associations": 174,
+      "names_aliases": 101
+    },
+    "T3": {
+      "biographical_dates": 834,
+      "location_linked": 834,
+      "relational_associations": 834,
+      "names_aliases": 498
+    },
+    "T4": {
+      "world_fact": 700
+    }
+  },
+  "category_balance_note": "Per-file category counts reproduce the realised distribution of dataset_v2 rather than a uniform one. names_aliases is supply-capped for the same reason it is capped there: once a question may not give away its own answer, the only surviving name facts are the ones that differ from the display name, which runs at roughly two to five per person against many more dated events, places and relations. The shortfall is pushed onto the other three categories.",
+  "article9_analogue": {
+    "note": "Special-category-style attributes (philosophical community, political party, ancestral community) are invented for a small number of fictional people so the art9 column keeps the meaning it has in dataset_v2. No real special-category personal data exists anywhere in this dataset.",
+    "total_flagged": 62,
+    "by_tier": {
+      "DF": 12,
+      "T1": 22,
+      "T2": 8,
+      "T3": 20
+    },
+    "by_category": {
+      "religious_or_philosophical_belief": 30,
+      "racial_or_ethnic_origin": 12,
+      "political_opinion": 20
+    }
+  },
+  "training_and_evaluation_logic": {
+    "priming": {
+      "files": [
+        "df_forget",
+        "anchor",
+        "t1_sealed",
+        "t2_sealed",
+        "t3_sealed",
+        "t4_sealed"
+      ],
+      "rows": 6300
+    },
+    "unlearning_loss": {
+      "allowed": [
+        "df_forget",
+        "anchor"
+      ],
+      "forbidden": [
+        "df_combination",
+        "t1_sealed",
+        "t2_sealed",
+        "t3_sealed",
+        "t4_sealed",
+        "t1_anchor_eligible"
+      ]
+    },
+    "evaluation": {
+      "forgetting": "df_forget",
+      "re_identification": "df_combination",
+      "collateral_damage": "t1_sealed",
+      "same_field_retention": "t2_sealed",
+      "cross_domain_retention": "t3_sealed",
+      "general_capability": "t4_sealed",
+      "mia_non_members": [
+        "t2_sealed",
+        "t3_sealed"
+      ]
+    },
+    "metrics": {
+      "Fg": "0.5 * (delta forget_acc + delta reID_acc); higher = deeper forgetting",
+      "floor": "T2/T3/T4 accuracy drop within tolerance; T1 is excluded because T1 is the locality/collateral-damage outcome, not a constraint",
+      "reported": [
+        "forget_acc",
+        "reid_acc",
+        "t1_acc",
+        "t2_acc",
+        "t3_acc",
+        "t4_acc",
+        "mia_auc",
+        "Fg",
+        "Fg_ceiling",
+        "Fg_over_ceiling"
+      ]
+    }
+  },
+  "validation": {
+    "01_fifteen_forget_targets": {
+      "pass": true,
+      "detail": "df_forget covers 15 targets"
+    },
+    "02_rows_df_forget": {
+      "pass": true,
+      "detail": "df_forget has 1200 rows (want 1200)"
+    },
+    "03_rows_df_combination": {
+      "pass": true,
+      "detail": "df_combination has 300 rows (want 300)"
+    },
+    "04_rows_anchor": {
+      "pass": true,
+      "detail": "anchor has 3000 rows (want 3000)"
+    },
+    "05_rows_t1_sealed": {
+      "pass": true,
+      "detail": "t1_sealed has 600 rows (want 600)"
+    },
+    "06_rows_t2_sealed": {
+      "pass": true,
+      "detail": "t2_sealed has 800 rows (want 800)"
+    },
+    "07_rows_t3_sealed": {
+      "pass": true,
+      "detail": "t3_sealed has 400 rows (want 400)"
+    },
+    "08_rows_t4_sealed": {
+      "pass": true,
+      "detail": "t4_sealed has 300 rows (want 300)"
+    },
+    "09_rows_t1_anchor_eligible": {
+      "pass": true,
+      "detail": "t1_anchor_eligible has 1500 rows (want 1500)"
+    },
+    "10_same_targets_df_and_combination": {
+      "pass": true,
+      "detail": "symmetric difference 0"
+    },
+    "11_no_target_name_in_combination_questions": {
+      "pass": true,
+      "detail": "leaks: 0"
+    },
+    "12_t1_sealed_vs_anchor_eligible_disjoint": {
+      "pass": true,
+      "detail": "intersection 0"
+    },
+    "13_training_vs_sealed_persons_disjoint": {
+      "pass": true,
+      "detail": "intersection 0"
+    },
+    "14_no_self_answering_rows": {
+      "pass": true,
+      "detail": "0 rows"
+    },
+    "15_no_real_person_identities": {
+      "pass": true,
+      "detail": "checked 355 synthetic person names against 1076 known real names and 700 topic names against 300 real-world topics; 238 distinct invented surnames; clashes 0"
+    },
+    "16_every_row_has_synthetic_provenance": {
+      "pass": true,
+      "detail": "0 rows missing"
+    },
+    "17_files_load": {
+      "pass": true,
+      "detail": "all csv/json re-read and re-parsed"
+    },
+    "18_entity_references_resolve": {
+      "pass": true,
+      "detail": "unresolved row entities 0, dangling relationships 0"
+    },
+    "19_relationships_internally_consistent": {
+      "pass": true,
+      "detail": "missing inverse edges 0, T1 people with no 1-hop tie in their rows 0"
+    },
+    "20_experiment_reproducible": {
+      "pass": true,
+      "detail": "priming rows 6300 (want 6300); ablation variants sum to 3000: True; ablation T1 rows come only from t1_anchor_eligible: True"
+    }
+  },
+  "validation_status": "PASS"
+}

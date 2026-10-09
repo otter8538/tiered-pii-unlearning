@@ -1,0 +1,801 @@
+id,base_id,entity,entity_qid,tier,role,category,question,answer,is_canonical,is_paraphrase,neighbor_of,relation_type,hop_distance,art9,surname_tag,source_url
+t2-00001#0,t2-00001,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,On what date was Freya Dovorn born?,21 October 1960,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00002#0,t2-00002,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year did Freya Dovorn complete a doctorate?,1990,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00003#0,t2-00003,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year did Freya Dovorn take up a post at Helix Laboratory of Quantum Materials?,1995,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00004#0,t2-00004,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year was Freya Dovorn awarded the Verrin Laureateship?,2013,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00005#0,t2-00005,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year did Freya Dovorn establish the Northstar Laboratory for Quantum Materials?,2002,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00006#0,t2-00006,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year was Freya Dovorn elected to the Virelian Union?,2011,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00007#0,t2-00007,Freya Dovorn,SYN-P166,T2,eval,biographical_dates,In which year did Freya Dovorn release the treatise The Amber Almanac?,2008,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00008#0,t2-00008,Freya Dovorn,SYN-P166,T2,eval,location_linked,In which place was Freya Dovorn born?,Nythcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00009#0,t2-00009,Freya Dovorn,SYN-P166,T2,eval,location_linked,In which country was Freya Dovorn born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00010#0,t2-00010,Freya Dovorn,SYN-P166,T2,eval,location_linked,In which city did Freya Dovorn complete a doctorate?,Iskrfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00011#0,t2-00011,Freya Dovorn,SYN-P166,T2,eval,location_linked,In which city did Freya Dovorn chiefly work?,Thornfford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00012#0,t2-00012,Freya Dovorn,SYN-P166,T2,eval,location_linked,In which city did Freya Dovorn establish the Northstar Laboratory for Quantum Materials?,Nythhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00013#0,t2-00013,Freya Dovorn,SYN-P166,T2,eval,relational_associations,Who was the doctoral advisor of Freya Dovorn?,Giselle Belel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00014#0,t2-00014,Freya Dovorn,SYN-P166,T2,eval,relational_associations,Who was the doctoral student of Freya Dovorn?,Beatrix Yarec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00015#0,t2-00015,Freya Dovorn,SYN-P166,T2,eval,relational_associations,With whom did Freya Dovorn collaborate?,Juliana Karec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00016#0,t2-00016,Freya Dovorn,SYN-P166,T2,eval,relational_associations,Who was the working partner of Freya Dovorn?,Theodor Dreane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00017#0,t2-00017,Freya Dovorn,SYN-P166,T2,eval,relational_associations,Who was the spouse of Freya Dovorn?,Ulrich Esken,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00018#0,t2-00018,Freya Dovorn,SYN-P166,T2,eval,names_aliases,What is the middle name of Freya Dovorn?,Tova,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00019#0,t2-00019,Freya Dovorn,SYN-P166,T2,eval,names_aliases,What is the full birth name of Freya Dovorn?,Freya Tova Dovorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00020#0,t2-00020,Freya Dovorn,SYN-P166,T2,eval,names_aliases,Under what other recorded name does Freya Dovorn appear?,F. Tova Dovorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P166
+t2-00021#0,t2-00021,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,On what date was Theodor Corovic born?,27 October 1866,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00022#0,t2-00022,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,On what date did Theodor Corovic die?,22 November 1940,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00023#0,t2-00023,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,In which year did Theodor Corovic complete a doctorate?,1894,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00024#0,t2-00024,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,In which year did Theodor Corovic take up a post at Caldera Laboratory?,1901,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00025#0,t2-00025,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,In which year was Theodor Corovic awarded the Tessellate Laureateship?,1909,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00026#0,t2-00026,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,In which year did Theodor Corovic establish the Peregrine Laboratory for Cryogenic Photonics?,1903,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00027#0,t2-00027,Theodor Corovic,SYN-P167,T2,eval,biographical_dates,In which year was Theodor Corovic elected to the Serevanic Union?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00028#0,t2-00028,Theodor Corovic,SYN-P167,T2,eval,location_linked,In which place was Theodor Corovic born?,Harroarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00029#0,t2-00029,Theodor Corovic,SYN-P167,T2,eval,location_linked,In which country was Theodor Corovic born?,Lumaria,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00030#0,t2-00030,Theodor Corovic,SYN-P167,T2,eval,location_linked,In which place did Theodor Corovic die?,Calderburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00031#0,t2-00031,Theodor Corovic,SYN-P167,T2,eval,location_linked,In which city did Theodor Corovic complete a doctorate?,Kestrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00032#0,t2-00032,Theodor Corovic,SYN-P167,T2,eval,location_linked,In which city did Theodor Corovic chiefly work?,Amberfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00033#0,t2-00033,Theodor Corovic,SYN-P167,T2,eval,relational_associations,Which political party did Theodor Corovic support?,the Civic Union,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P167
+t2-00034#0,t2-00034,Theodor Corovic,SYN-P167,T2,eval,relational_associations,Who was the doctoral advisor of Theodor Corovic?,Ulyana Serick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00035#0,t2-00035,Theodor Corovic,SYN-P167,T2,eval,relational_associations,Who was the doctoral student of Theodor Corovic?,Oren Meryn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00036#0,t2-00036,Theodor Corovic,SYN-P167,T2,eval,relational_associations,With whom did Theodor Corovic collaborate?,Grigor Hevay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00037#0,t2-00037,Theodor Corovic,SYN-P167,T2,eval,relational_associations,Who was the working partner of Theodor Corovic?,Ilan Novis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00038#0,t2-00038,Theodor Corovic,SYN-P167,T2,eval,names_aliases,What is the middle name of Theodor Corovic?,Ursel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00039#0,t2-00039,Theodor Corovic,SYN-P167,T2,eval,names_aliases,What is the full birth name of Theodor Corovic?,Theodor Ursel Corovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00040#0,t2-00040,Theodor Corovic,SYN-P167,T2,eval,names_aliases,Under what other recorded name does Theodor Corovic appear?,T. Ursel Corovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P167
+t2-00041#0,t2-00041,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,On what date was Milo Iskyn born?,23 February 1853,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00042#0,t2-00042,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,On what date did Milo Iskyn die?,26 December 1902,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00043#0,t2-00043,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,In which year did Milo Iskyn complete a doctorate?,1881,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00044#0,t2-00044,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,In which year did Milo Iskyn take up a post at Windlass College?,1884,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00045#0,t2-00045,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,In which year was Milo Iskyn awarded the Verrin Prize?,1898,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00046#0,t2-00046,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,In which year did Milo Iskyn establish the Daedal Laboratory for Symbolic Topology?,1894,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00047#0,t2-00047,Milo Iskyn,SYN-P168,T2,eval,biographical_dates,In which year was Milo Iskyn elected to the Serevanic Consortium?,1896,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00048#0,t2-00048,Milo Iskyn,SYN-P168,T2,eval,location_linked,In which place was Milo Iskyn born?,Yarrhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00049#0,t2-00049,Milo Iskyn,SYN-P168,T2,eval,location_linked,In which country was Milo Iskyn born?,Calibris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00050#0,t2-00050,Milo Iskyn,SYN-P168,T2,eval,location_linked,In which place did Milo Iskyn die?,Rhelmcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00051#0,t2-00051,Milo Iskyn,SYN-P168,T2,eval,location_linked,In which city did Milo Iskyn complete a doctorate?,Valermere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00052#0,t2-00052,Milo Iskyn,SYN-P168,T2,eval,location_linked,In which city did Milo Iskyn chiefly work?,Grayhreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00053#0,t2-00053,Milo Iskyn,SYN-P168,T2,eval,relational_associations,Who was the doctoral advisor of Milo Iskyn?,Marcus Ulras,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00054#0,t2-00054,Milo Iskyn,SYN-P168,T2,eval,relational_associations,Who was the doctoral student of Milo Iskyn?,Anselm Karan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00055#0,t2-00055,Milo Iskyn,SYN-P168,T2,eval,relational_associations,With whom did Milo Iskyn collaborate?,Wilhelmina Corick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00056#0,t2-00056,Milo Iskyn,SYN-P168,T2,eval,relational_associations,Who was the working partner of Milo Iskyn?,Wendel Vororn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00057#0,t2-00057,Milo Iskyn,SYN-P168,T2,eval,relational_associations,Who was the spouse of Milo Iskyn?,Florian Quenir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00058#0,t2-00058,Milo Iskyn,SYN-P168,T2,eval,names_aliases,What is the middle name of Milo Iskyn?,Tova,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00059#0,t2-00059,Milo Iskyn,SYN-P168,T2,eval,names_aliases,What is the full birth name of Milo Iskyn?,Milo Tova Iskyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00060#0,t2-00060,Milo Iskyn,SYN-P168,T2,eval,names_aliases,Under what other recorded name does Milo Iskyn appear?,M. Tova Iskyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P168
+t2-00061#0,t2-00061,Helena Orsov,SYN-P169,T2,eval,biographical_dates,On what date was Helena Orsov born?,16 February 1834,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00062#0,t2-00062,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year did Helena Orsov complete a doctorate?,1860,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00063#0,t2-00063,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year did Helena Orsov take up a post at Ingot Laboratory of Stellar Metallurgy?,1865,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00064#0,t2-00064,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year was Helena Orsov awarded the Aster Laureateship?,1871,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00065#0,t2-00065,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year did Helena Orsov establish the Peregrine Laboratory for Stellar Metallurgy?,1871,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00066#0,t2-00066,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year was Helena Orsov elected to the Serevanic Concordat?,1883,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00067#0,t2-00067,Helena Orsov,SYN-P169,T2,eval,biographical_dates,In which year did Helena Orsov release the treatise The Ninefold Continuum?,1870,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00068#0,t2-00068,Helena Orsov,SYN-P169,T2,eval,location_linked,In which place was Helena Orsov born?,Vanthollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00069#0,t2-00069,Helena Orsov,SYN-P169,T2,eval,location_linked,In which country was Helena Orsov born?,Calibris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00070#0,t2-00070,Helena Orsov,SYN-P169,T2,eval,location_linked,In which city did Helena Orsov complete a doctorate?,Zephridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00071#0,t2-00071,Helena Orsov,SYN-P169,T2,eval,location_linked,In which city did Helena Orsov chiefly work?,Zephridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00072#0,t2-00072,Helena Orsov,SYN-P169,T2,eval,location_linked,In which city did Helena Orsov establish the Peregrine Laboratory for Stellar Metallurgy?,Grayhreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00073#0,t2-00073,Helena Orsov,SYN-P169,T2,eval,relational_associations,Who was the doctoral advisor of Helena Orsov?,Juliana Venorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00074#0,t2-00074,Helena Orsov,SYN-P169,T2,eval,relational_associations,Who was the doctoral student of Helena Orsov?,Marisol Coreth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00075#0,t2-00075,Helena Orsov,SYN-P169,T2,eval,relational_associations,With whom did Helena Orsov collaborate?,Rowan Novan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00076#0,t2-00076,Helena Orsov,SYN-P169,T2,eval,relational_associations,Who was the working partner of Helena Orsov?,Ceres Elair,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00077#0,t2-00077,Helena Orsov,SYN-P169,T2,eval,relational_associations,Who was the spouse of Helena Orsov?,Anneke Seryn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00078#0,t2-00078,Helena Orsov,SYN-P169,T2,eval,names_aliases,What is the middle name of Helena Orsov?,Cael,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00079#0,t2-00079,Helena Orsov,SYN-P169,T2,eval,names_aliases,What is the full birth name of Helena Orsov?,Helena Cael Orsov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00080#0,t2-00080,Helena Orsov,SYN-P169,T2,eval,names_aliases,Under what other recorded name does Helena Orsov appear?,H. Cael Orsov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P169
+t2-00081#0,t2-00081,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,On what date was Tamsin Ashess born?,15 June 1873,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00082#0,t2-00082,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year did Tamsin Ashess complete a doctorate?,1898,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00083#0,t2-00083,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year did Tamsin Ashess take up a post at Pinnacle Research Center of Lattice Dynamics?,1902,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00084#0,t2-00084,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year was Tamsin Ashess awarded the Solace Award?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00085#0,t2-00085,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year did Tamsin Ashess establish the Trellis Laboratory for Lattice Dynamics?,1905,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00086#0,t2-00086,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year was Tamsin Ashess elected to the Auralian Concordat?,1918,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00087#0,t2-00087,Tamsin Ashess,SYN-P170,T2,eval,biographical_dates,In which year did Tamsin Ashess release the treatise The Iron Cadence?,1908,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00088#0,t2-00088,Tamsin Ashess,SYN-P170,T2,eval,location_linked,In which place was Tamsin Ashess born?,Quillcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00089#0,t2-00089,Tamsin Ashess,SYN-P170,T2,eval,location_linked,In which country was Tamsin Ashess born?,Belmarch,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00090#0,t2-00090,Tamsin Ashess,SYN-P170,T2,eval,location_linked,In which city did Tamsin Ashess complete a doctorate?,Emberhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00091#0,t2-00091,Tamsin Ashess,SYN-P170,T2,eval,location_linked,In which city did Tamsin Ashess chiefly work?,Lowmstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00092#0,t2-00092,Tamsin Ashess,SYN-P170,T2,eval,location_linked,In which city did Tamsin Ashess establish the Trellis Laboratory for Lattice Dynamics?,Umbrstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00093#0,t2-00093,Tamsin Ashess,SYN-P170,T2,eval,relational_associations,Who was the doctoral advisor of Tamsin Ashess?,Joachim Marane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00094#0,t2-00094,Tamsin Ashess,SYN-P170,T2,eval,relational_associations,Who was the doctoral student of Tamsin Ashess?,Ilse Pelas,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00095#0,t2-00095,Tamsin Ashess,SYN-P170,T2,eval,relational_associations,With whom did Tamsin Ashess collaborate?,Yseult Elaath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00096#0,t2-00096,Tamsin Ashess,SYN-P170,T2,eval,relational_associations,Who was the working partner of Tamsin Ashess?,Ottilie Karov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00097#0,t2-00097,Tamsin Ashess,SYN-P170,T2,eval,relational_associations,Who was the spouse of Tamsin Ashess?,Rowan Voras,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00098#0,t2-00098,Tamsin Ashess,SYN-P170,T2,eval,names_aliases,What is the middle name of Tamsin Ashess?,Eira,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00099#0,t2-00099,Tamsin Ashess,SYN-P170,T2,eval,names_aliases,What is the full birth name of Tamsin Ashess?,Tamsin Eira Ashess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00100#0,t2-00100,Tamsin Ashess,SYN-P170,T2,eval,names_aliases,Under what other recorded name does Tamsin Ashess appear?,T. Eira Ashess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P170
+t2-00101#0,t2-00101,Elena Xanis,SYN-P171,T2,eval,biographical_dates,On what date was Elena Xanis born?,28 February 1898,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00102#0,t2-00102,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year did Elena Xanis complete a doctorate?,1926,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00103#0,t2-00103,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year did Elena Xanis take up a post at Vellum College of Molecular Cartography?,1934,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00104#0,t2-00104,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year was Elena Xanis awarded the Coronet Laureateship?,1951,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00105#0,t2-00105,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year did Elena Xanis establish the Zenith Laboratory for Molecular Cartography?,1937,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00106#0,t2-00106,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year was Elena Xanis elected to the Auralian Consortium?,1943,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00107#0,t2-00107,Elena Xanis,SYN-P171,T2,eval,biographical_dates,In which year did Elena Xanis release the treatise The Glass Meridian?,1947,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00108#0,t2-00108,Elena Xanis,SYN-P171,T2,eval,location_linked,In which place was Elena Xanis born?,Iskrvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00109#0,t2-00109,Elena Xanis,SYN-P171,T2,eval,location_linked,In which country was Elena Xanis born?,Ostravia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00110#0,t2-00110,Elena Xanis,SYN-P171,T2,eval,location_linked,In which city did Elena Xanis complete a doctorate?,Palewstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00111#0,t2-00111,Elena Xanis,SYN-P171,T2,eval,location_linked,In which city did Elena Xanis chiefly work?,Palewarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00112#0,t2-00112,Elena Xanis,SYN-P171,T2,eval,location_linked,In which city did Elena Xanis establish the Zenith Laboratory for Molecular Cartography?,Cinderreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00113#0,t2-00113,Elena Xanis,SYN-P171,T2,eval,relational_associations,Who was the doctoral advisor of Elena Xanis?,Nadia Ashis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00114#0,t2-00114,Elena Xanis,SYN-P171,T2,eval,relational_associations,Who was the doctoral student of Elena Xanis?,Tobias Torane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00115#0,t2-00115,Elena Xanis,SYN-P171,T2,eval,relational_associations,With whom did Elena Xanis collaborate?,Liora Fenine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00116#0,t2-00116,Elena Xanis,SYN-P171,T2,eval,relational_associations,Who was the working partner of Elena Xanis?,Anneke Zeline,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00117#0,t2-00117,Elena Xanis,SYN-P171,T2,eval,relational_associations,Who was the spouse of Elena Xanis?,Jorun Eskane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00118#0,t2-00118,Elena Xanis,SYN-P171,T2,eval,names_aliases,What is the middle name of Elena Xanis?,Ylva,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00119#0,t2-00119,Elena Xanis,SYN-P171,T2,eval,names_aliases,What is the full birth name of Elena Xanis?,Elena Ylva Xanis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00120#0,t2-00120,Elena Xanis,SYN-P171,T2,eval,names_aliases,Under what other recorded name does Elena Xanis appear?,E. Ylva Xanis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P171
+t2-00121#0,t2-00121,Esme Jasay,SYN-P172,T2,eval,biographical_dates,On what date was Esme Jasay born?,17 March 1915,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00122#0,t2-00122,Esme Jasay,SYN-P172,T2,eval,biographical_dates,On what date did Esme Jasay die?,11 February 1987,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00123#0,t2-00123,Esme Jasay,SYN-P172,T2,eval,biographical_dates,In which year did Esme Jasay complete a doctorate?,1942,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00124#0,t2-00124,Esme Jasay,SYN-P172,T2,eval,biographical_dates,In which year did Esme Jasay take up a post at Alloy Laboratory of Isotopic Geochemistry?,1946,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00125#0,t2-00125,Esme Jasay,SYN-P172,T2,eval,biographical_dates,In which year was Esme Jasay awarded the Foil Laureateship?,1964,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00126#0,t2-00126,Esme Jasay,SYN-P172,T2,eval,biographical_dates,In which year did Esme Jasay establish the Aurelan Laboratory for Isotopic Geochemistry?,1949,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00127#0,t2-00127,Esme Jasay,SYN-P172,T2,eval,biographical_dates,In which year was Esme Jasay elected to the Calibrian Athenaeum?,1958,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00128#0,t2-00128,Esme Jasay,SYN-P172,T2,eval,location_linked,In which place was Esme Jasay born?,Marrocrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00129#0,t2-00129,Esme Jasay,SYN-P172,T2,eval,location_linked,In which country was Esme Jasay born?,Kesmir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00130#0,t2-00130,Esme Jasay,SYN-P172,T2,eval,location_linked,In which place did Esme Jasay die?,Lumenwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00131#0,t2-00131,Esme Jasay,SYN-P172,T2,eval,location_linked,In which city did Esme Jasay complete a doctorate?,Verrarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00132#0,t2-00132,Esme Jasay,SYN-P172,T2,eval,location_linked,In which city did Esme Jasay chiefly work?,Rhelmhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00133#0,t2-00133,Esme Jasay,SYN-P172,T2,eval,relational_associations,Who was the doctoral advisor of Esme Jasay?,Joachim Torath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00134#0,t2-00134,Esme Jasay,SYN-P172,T2,eval,relational_associations,Who was the doctoral student of Esme Jasay?,Rosalind Cadrec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00135#0,t2-00135,Esme Jasay,SYN-P172,T2,eval,relational_associations,With whom did Esme Jasay collaborate?,Kaspar Irath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00136#0,t2-00136,Esme Jasay,SYN-P172,T2,eval,relational_associations,Who was the working partner of Esme Jasay?,Nadia Galay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00137#0,t2-00137,Esme Jasay,SYN-P172,T2,eval,relational_associations,Who was the spouse of Esme Jasay?,Elena Pelovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00138#0,t2-00138,Esme Jasay,SYN-P172,T2,eval,names_aliases,What is the middle name of Esme Jasay?,Piet,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00139#0,t2-00139,Esme Jasay,SYN-P172,T2,eval,names_aliases,What is the full birth name of Esme Jasay?,Esme Piet Jasay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00140#0,t2-00140,Esme Jasay,SYN-P172,T2,eval,names_aliases,Under what other recorded name does Esme Jasay appear?,E. Piet Jasay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P172
+t2-00141#0,t2-00141,Fleur Galick,SYN-P173,T2,eval,biographical_dates,On what date was Fleur Galick born?,18 October 1912,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00142#0,t2-00142,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year did Fleur Galick complete a doctorate?,1940,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00143#0,t2-00143,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year did Fleur Galick take up a post at Ingot Polytechnic of Neural Manifolds?,1948,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00144#0,t2-00144,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year was Fleur Galick awarded the Umbral Award?,1965,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00145#0,t2-00145,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year did Fleur Galick establish the Equinox Laboratory for Neural Manifolds?,1959,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00146#0,t2-00146,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year was Fleur Galick elected to the Ostravian Athenaeum?,1959,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00147#0,t2-00147,Fleur Galick,SYN-P173,T2,eval,biographical_dates,In which year did Fleur Galick release the treatise The Northward Orbit?,1963,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00148#0,t2-00148,Fleur Galick,SYN-P173,T2,eval,location_linked,In which place was Fleur Galick born?,Sablereach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00149#0,t2-00149,Fleur Galick,SYN-P173,T2,eval,location_linked,In which country was Fleur Galick born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00150#0,t2-00150,Fleur Galick,SYN-P173,T2,eval,location_linked,In which city did Fleur Galick complete a doctorate?,Palewport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00151#0,t2-00151,Fleur Galick,SYN-P173,T2,eval,location_linked,In which city did Fleur Galick chiefly work?,Wraythmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00152#0,t2-00152,Fleur Galick,SYN-P173,T2,eval,location_linked,In which city did Fleur Galick establish the Equinox Laboratory for Neural Manifolds?,Calderport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00153#0,t2-00153,Fleur Galick,SYN-P173,T2,eval,location_linked,In which city did Fleur Galick live in later life?,Palewmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00154#0,t2-00154,Fleur Galick,SYN-P173,T2,eval,relational_associations,Who was the doctoral advisor of Fleur Galick?,Bianca Zelyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00155#0,t2-00155,Fleur Galick,SYN-P173,T2,eval,relational_associations,Who was the doctoral student of Fleur Galick?,Marcus Karell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00156#0,t2-00156,Fleur Galick,SYN-P173,T2,eval,relational_associations,With whom did Fleur Galick collaborate?,Greta Silard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00157#0,t2-00157,Fleur Galick,SYN-P173,T2,eval,relational_associations,Who was the working partner of Fleur Galick?,Casper Fareth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00158#0,t2-00158,Fleur Galick,SYN-P173,T2,eval,names_aliases,What is the middle name of Fleur Galick?,Ione,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00159#0,t2-00159,Fleur Galick,SYN-P173,T2,eval,names_aliases,What is the full birth name of Fleur Galick?,Fleur Ione Galick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00160#0,t2-00160,Fleur Galick,SYN-P173,T2,eval,names_aliases,Under what other recorded name does Fleur Galick appear?,F. Ione Galick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P173
+t2-00161#0,t2-00161,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,On what date was Quentin Iskay born?,21 October 1962,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00162#0,t2-00162,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year did Quentin Iskay complete a doctorate?,1991,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00163#0,t2-00163,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year did Quentin Iskay take up a post at Beacon Laboratory?,1994,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00164#0,t2-00164,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year was Quentin Iskay awarded the Obelisk Medal?,1998,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00165#0,t2-00165,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year did Quentin Iskay establish the Crucible Laboratory for Plasma Hydrodynamics?,1999,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00166#0,t2-00166,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year was Quentin Iskay elected to the Virelian Fellowship?,2002,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00167#0,t2-00167,Quentin Iskay,SYN-P174,T2,eval,biographical_dates,In which year did Quentin Iskay release the treatise The Restless Meridian?,2008,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00168#0,t2-00168,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which place was Quentin Iskay born?,Vantvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00169#0,t2-00169,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which country was Quentin Iskay born?,Orvantia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00170#0,t2-00170,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which city did Quentin Iskay complete a doctorate?,Zepharn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00171#0,t2-00171,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which city did Quentin Iskay chiefly work?,Palewreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00172#0,t2-00172,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which city did Quentin Iskay establish the Crucible Laboratory for Plasma Hydrodynamics?,Dunebholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00173#0,t2-00173,Quentin Iskay,SYN-P174,T2,eval,location_linked,In which city did Quentin Iskay live in later life?,Xanthvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00174#0,t2-00174,Quentin Iskay,SYN-P174,T2,eval,relational_associations,Who was the doctoral advisor of Quentin Iskay?,Fabian Xanine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00175#0,t2-00175,Quentin Iskay,SYN-P174,T2,eval,relational_associations,Who was the doctoral student of Quentin Iskay?,Leon Beline,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00176#0,t2-00176,Quentin Iskay,SYN-P174,T2,eval,relational_associations,With whom did Quentin Iskay collaborate?,Juliana Wynell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00177#0,t2-00177,Quentin Iskay,SYN-P174,T2,eval,relational_associations,Who was the working partner of Quentin Iskay?,Ulrich Silas,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00178#0,t2-00178,Quentin Iskay,SYN-P174,T2,eval,names_aliases,What is the middle name of Quentin Iskay?,Nessa,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00179#0,t2-00179,Quentin Iskay,SYN-P174,T2,eval,names_aliases,What is the full birth name of Quentin Iskay?,Quentin Nessa Iskay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00180#0,t2-00180,Quentin Iskay,SYN-P174,T2,eval,names_aliases,Under what other recorded name does Quentin Iskay appear?,Q. Nessa Iskay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P174
+t2-00181#0,t2-00181,Theodor Belell,SYN-P175,T2,eval,biographical_dates,On what date was Theodor Belell born?,2 August 1902,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00182#0,t2-00182,Theodor Belell,SYN-P175,T2,eval,biographical_dates,On what date did Theodor Belell die?,21 April 1986,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00183#0,t2-00183,Theodor Belell,SYN-P175,T2,eval,biographical_dates,In which year did Theodor Belell complete a doctorate?,1926,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00184#0,t2-00184,Theodor Belell,SYN-P175,T2,eval,biographical_dates,In which year did Theodor Belell take up a post at Trellis Academy of Bioacoustic Ecology?,1933,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00185#0,t2-00185,Theodor Belell,SYN-P175,T2,eval,biographical_dates,In which year was Theodor Belell awarded the Bramble Award?,1952,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00186#0,t2-00186,Theodor Belell,SYN-P175,T2,eval,biographical_dates,In which year did Theodor Belell establish the Cypress Laboratory for Bioacoustic Ecology?,1943,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00187#0,t2-00187,Theodor Belell,SYN-P175,T2,eval,biographical_dates,In which year was Theodor Belell elected to the Elarion Circle?,1940,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00188#0,t2-00188,Theodor Belell,SYN-P175,T2,eval,location_linked,In which place was Theodor Belell born?,Verrfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00189#0,t2-00189,Theodor Belell,SYN-P175,T2,eval,location_linked,In which country was Theodor Belell born?,Orvantia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00190#0,t2-00190,Theodor Belell,SYN-P175,T2,eval,location_linked,In which place did Theodor Belell die?,Ordalarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00191#0,t2-00191,Theodor Belell,SYN-P175,T2,eval,location_linked,In which city did Theodor Belell complete a doctorate?,Palewstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00192#0,t2-00192,Theodor Belell,SYN-P175,T2,eval,location_linked,In which city did Theodor Belell chiefly work?,Highfgate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00193#0,t2-00193,Theodor Belell,SYN-P175,T2,eval,location_linked,In which city did Theodor Belell establish the Cypress Laboratory for Bioacoustic Ecology?,Wraythvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00194#0,t2-00194,Theodor Belell,SYN-P175,T2,eval,relational_associations,Who was the doctoral advisor of Theodor Belell?,Noemi Ulrel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00195#0,t2-00195,Theodor Belell,SYN-P175,T2,eval,relational_associations,Who was the doctoral student of Theodor Belell?,Jonas Marard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00196#0,t2-00196,Theodor Belell,SYN-P175,T2,eval,relational_associations,With whom did Theodor Belell collaborate?,Jonas Galane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00197#0,t2-00197,Theodor Belell,SYN-P175,T2,eval,relational_associations,Who was the working partner of Theodor Belell?,Dorian Loran,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00198#0,t2-00198,Theodor Belell,SYN-P175,T2,eval,names_aliases,What is the middle name of Theodor Belell?,Zora,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00199#0,t2-00199,Theodor Belell,SYN-P175,T2,eval,names_aliases,What is the full birth name of Theodor Belell?,Theodor Zora Belell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00200#0,t2-00200,Theodor Belell,SYN-P175,T2,eval,names_aliases,Under what other recorded name does Theodor Belell appear?,T. Zora Belell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P175
+t2-00201#0,t2-00201,Halina Dovay,SYN-P176,T2,eval,biographical_dates,On what date was Halina Dovay born?,15 December 1920,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00202#0,t2-00202,Halina Dovay,SYN-P176,T2,eval,biographical_dates,On what date did Halina Dovay die?,14 December 1988,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00203#0,t2-00203,Halina Dovay,SYN-P176,T2,eval,biographical_dates,In which year did Halina Dovay complete a doctorate?,1948,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00204#0,t2-00204,Halina Dovay,SYN-P176,T2,eval,biographical_dates,In which year did Halina Dovay take up a post at Anvil Observatory?,1952,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00205#0,t2-00205,Halina Dovay,SYN-P176,T2,eval,biographical_dates,In which year was Halina Dovay awarded the Cindermark Prize?,1963,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00206#0,t2-00206,Halina Dovay,SYN-P176,T2,eval,biographical_dates,In which year did Halina Dovay establish the Bastion Laboratory for Computational Rheology?,1964,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00207#0,t2-00207,Halina Dovay,SYN-P176,T2,eval,biographical_dates,In which year was Halina Dovay elected to the Dravian Union?,1968,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00208#0,t2-00208,Halina Dovay,SYN-P176,T2,eval,location_linked,In which place was Halina Dovay born?,Dunebgate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00209#0,t2-00209,Halina Dovay,SYN-P176,T2,eval,location_linked,In which country was Halina Dovay born?,Fenwold,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00210#0,t2-00210,Halina Dovay,SYN-P176,T2,eval,location_linked,In which place did Halina Dovay die?,Ordalford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00211#0,t2-00211,Halina Dovay,SYN-P176,T2,eval,location_linked,In which city did Halina Dovay complete a doctorate?,Rhelmcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00212#0,t2-00212,Halina Dovay,SYN-P176,T2,eval,location_linked,In which city did Halina Dovay chiefly work?,Drosshaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00213#0,t2-00213,Halina Dovay,SYN-P176,T2,eval,location_linked,In which city did Halina Dovay establish the Bastion Laboratory for Computational Rheology?,Vanthollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00214#0,t2-00214,Halina Dovay,SYN-P176,T2,eval,relational_associations,Who was the doctoral advisor of Halina Dovay?,Ivo Marel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00215#0,t2-00215,Halina Dovay,SYN-P176,T2,eval,relational_associations,Who was the doctoral student of Halina Dovay?,Dorian Serov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00216#0,t2-00216,Halina Dovay,SYN-P176,T2,eval,relational_associations,With whom did Halina Dovay collaborate?,Zofia Cadreth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00217#0,t2-00217,Halina Dovay,SYN-P176,T2,eval,relational_associations,Who was the working partner of Halina Dovay?,Elias Fenovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00218#0,t2-00218,Halina Dovay,SYN-P176,T2,eval,names_aliases,What is the middle name of Halina Dovay?,Kova,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00219#0,t2-00219,Halina Dovay,SYN-P176,T2,eval,names_aliases,What is the full birth name of Halina Dovay?,Halina Kova Dovay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00220#0,t2-00220,Halina Dovay,SYN-P176,T2,eval,names_aliases,Under what other recorded name does Halina Dovay appear?,H. Kova Dovay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P176
+t2-00221#0,t2-00221,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,On what date was Xenia Vorir born?,16 January 1958,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00222#0,t2-00222,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,In which year did Xenia Vorir complete a doctorate?,1983,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00223#0,t2-00223,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,In which year did Xenia Vorir take up a post at Daedal Institute?,1991,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00224#0,t2-00224,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,In which year was Xenia Vorir awarded the Quiver Laureateship?,2001,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00225#0,t2-00225,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,In which year did Xenia Vorir establish the Cypress Laboratory for Spectral Number Theory?,1993,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00226#0,t2-00226,Xenia Vorir,SYN-P177,T2,eval,biographical_dates,In which year was Xenia Vorir elected to the Kesmiri Concordat?,2001,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00227#0,t2-00227,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which place was Xenia Vorir born?,Quillwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00228#0,t2-00228,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which country was Xenia Vorir born?,Lumaria,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00229#0,t2-00229,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which city did Xenia Vorir complete a doctorate?,Caldergate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00230#0,t2-00230,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which city did Xenia Vorir chiefly work?,Sablereach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00231#0,t2-00231,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which city did Xenia Vorir establish the Cypress Laboratory for Spectral Number Theory?,Xanthwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00232#0,t2-00232,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which city did Xenia Vorir live in later life?,Kestrholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00233#0,t2-00233,Xenia Vorir,SYN-P177,T2,eval,location_linked,In which city did Xenia Vorir first present the treatise The Glass Interval?,Grayhholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00234#0,t2-00234,Xenia Vorir,SYN-P177,T2,eval,relational_associations,Who was the doctoral advisor of Xenia Vorir?,Marcus Novick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00235#0,t2-00235,Xenia Vorir,SYN-P177,T2,eval,relational_associations,Who was the doctoral student of Xenia Vorir?,Anneke Haldine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00236#0,t2-00236,Xenia Vorir,SYN-P177,T2,eval,relational_associations,With whom did Xenia Vorir collaborate?,Zoran Wynan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00237#0,t2-00237,Xenia Vorir,SYN-P177,T2,eval,relational_associations,Who was the working partner of Xenia Vorir?,Theodor Zelir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00238#0,t2-00238,Xenia Vorir,SYN-P177,T2,eval,names_aliases,What is the middle name of Xenia Vorir?,Ione,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00239#0,t2-00239,Xenia Vorir,SYN-P177,T2,eval,names_aliases,What is the full birth name of Xenia Vorir?,Xenia Ione Vorir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00240#0,t2-00240,Xenia Vorir,SYN-P177,T2,eval,names_aliases,Under what other recorded name does Xenia Vorir appear?,X. Ione Vorir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P177
+t2-00241#0,t2-00241,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,On what date was Cordelia Pelane born?,13 November 1890,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00242#0,t2-00242,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,In which year did Cordelia Pelane complete a doctorate?,1916,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00243#0,t2-00243,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,In which year did Cordelia Pelane take up a post at Halcyon Institute?,1917,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00244#0,t2-00244,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,In which year was Cordelia Pelane awarded the Quiver Medal?,1923,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00245#0,t2-00245,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,In which year did Cordelia Pelane establish the Daedal Laboratory for Radiative Climatology?,1928,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00246#0,t2-00246,Cordelia Pelane,SYN-P178,T2,eval,biographical_dates,In which year was Cordelia Pelane elected to the Dravian Chancery?,1926,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00247#0,t2-00247,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which place was Cordelia Pelane born?,Kestris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00248#0,t2-00248,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which country was Cordelia Pelane born?,Tarsine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00249#0,t2-00249,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which city did Cordelia Pelane complete a doctorate?,Fenwburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00250#0,t2-00250,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which city did Cordelia Pelane chiefly work?,Ilmaburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00251#0,t2-00251,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which city did Cordelia Pelane establish the Daedal Laboratory for Radiative Climatology?,Dunebholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00252#0,t2-00252,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which city did Cordelia Pelane live in later life?,Yarrford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00253#0,t2-00253,Cordelia Pelane,SYN-P178,T2,eval,location_linked,In which city did Cordelia Pelane first present the treatise The Hollow Refrain?,Thistburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00254#0,t2-00254,Cordelia Pelane,SYN-P178,T2,eval,relational_associations,Who was the doctoral advisor of Cordelia Pelane?,Greta Iris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00255#0,t2-00255,Cordelia Pelane,SYN-P178,T2,eval,relational_associations,Who was the doctoral student of Cordelia Pelane?,Nadia Irine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00256#0,t2-00256,Cordelia Pelane,SYN-P178,T2,eval,relational_associations,With whom did Cordelia Pelane collaborate?,Rafael Cororn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00257#0,t2-00257,Cordelia Pelane,SYN-P178,T2,eval,relational_associations,Who was the working partner of Cordelia Pelane?,Ilse Dreine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00258#0,t2-00258,Cordelia Pelane,SYN-P178,T2,eval,names_aliases,What is the middle name of Cordelia Pelane?,Zora,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00259#0,t2-00259,Cordelia Pelane,SYN-P178,T2,eval,names_aliases,What is the full birth name of Cordelia Pelane?,Cordelia Zora Pelane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00260#0,t2-00260,Cordelia Pelane,SYN-P178,T2,eval,names_aliases,Under what other recorded name does Cordelia Pelane appear?,C. Zora Pelane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P178
+t2-00261#0,t2-00261,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,On what date was Cordelia Haldess born?,7 September 1914,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00262#0,t2-00262,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,In which year did Cordelia Haldess complete a doctorate?,1941,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00263#0,t2-00263,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,In which year did Cordelia Haldess take up a post at Glacis Research Center?,1949,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00264#0,t2-00264,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,In which year was Cordelia Haldess awarded the Hearth Laureateship?,1962,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00265#0,t2-00265,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,In which year did Cordelia Haldess establish the Zenith Laboratory for Synthetic Enzymology?,1961,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00266#0,t2-00266,Cordelia Haldess,SYN-P179,T2,eval,biographical_dates,In which year was Cordelia Haldess elected to the Thessian Fellowship?,1953,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00267#0,t2-00267,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which place was Cordelia Haldess born?,Ordalfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00268#0,t2-00268,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which country was Cordelia Haldess born?,Serevane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00269#0,t2-00269,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which city did Cordelia Haldess complete a doctorate?,Cinderreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00270#0,t2-00270,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which city did Cordelia Haldess chiefly work?,Mirrmarsh,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00271#0,t2-00271,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which city did Cordelia Haldess establish the Zenith Laboratory for Synthetic Enzymology?,Verrfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00272#0,t2-00272,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which city did Cordelia Haldess live in later life?,Valercrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00273#0,t2-00273,Cordelia Haldess,SYN-P179,T2,eval,location_linked,In which city did Cordelia Haldess first present the treatise The Slow Signal?,Emberhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00274#0,t2-00274,Cordelia Haldess,SYN-P179,T2,eval,relational_associations,Who was the doctoral advisor of Cordelia Haldess?,Sabine Lorir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00275#0,t2-00275,Cordelia Haldess,SYN-P179,T2,eval,relational_associations,Who was the doctoral student of Cordelia Haldess?,Aurelie Quenov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00276#0,t2-00276,Cordelia Haldess,SYN-P179,T2,eval,relational_associations,With whom did Cordelia Haldess collaborate?,Halina Kelyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00277#0,t2-00277,Cordelia Haldess,SYN-P179,T2,eval,relational_associations,Who was the working partner of Cordelia Haldess?,Esme Venov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00278#0,t2-00278,Cordelia Haldess,SYN-P179,T2,eval,names_aliases,What is the middle name of Cordelia Haldess?,Sten,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00279#0,t2-00279,Cordelia Haldess,SYN-P179,T2,eval,names_aliases,What is the full birth name of Cordelia Haldess?,Cordelia Sten Haldess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00280#0,t2-00280,Cordelia Haldess,SYN-P179,T2,eval,names_aliases,Under what other recorded name does Cordelia Haldess appear?,C. Sten Haldess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P179
+t2-00281#0,t2-00281,Edvard Silane,SYN-P180,T2,eval,biographical_dates,On what date was Edvard Silane born?,7 February 1957,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00282#0,t2-00282,Edvard Silane,SYN-P180,T2,eval,biographical_dates,In which year did Edvard Silane complete a doctorate?,1980,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00283#0,t2-00283,Edvard Silane,SYN-P180,T2,eval,biographical_dates,In which year did Edvard Silane take up a post at Trellis College of Statistical Cosmology?,1981,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00284#0,t2-00284,Edvard Silane,SYN-P180,T2,eval,biographical_dates,In which year was Edvard Silane awarded the Solace Award?,1998,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00285#0,t2-00285,Edvard Silane,SYN-P180,T2,eval,biographical_dates,In which year did Edvard Silane establish the Quorum Laboratory for Statistical Cosmology?,1993,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00286#0,t2-00286,Edvard Silane,SYN-P180,T2,eval,biographical_dates,In which year was Edvard Silane elected to the Dravian Concordat?,1988,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00287#0,t2-00287,Edvard Silane,SYN-P180,T2,eval,location_linked,In which place was Edvard Silane born?,Quillmarsh,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00288#0,t2-00288,Edvard Silane,SYN-P180,T2,eval,location_linked,In which country was Edvard Silane born?,Lumaria,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00289#0,t2-00289,Edvard Silane,SYN-P180,T2,eval,location_linked,In which city did Edvard Silane complete a doctorate?,Xanthmarsh,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00290#0,t2-00290,Edvard Silane,SYN-P180,T2,eval,location_linked,In which city did Edvard Silane chiefly work?,Marroridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00291#0,t2-00291,Edvard Silane,SYN-P180,T2,eval,location_linked,In which city did Edvard Silane establish the Quorum Laboratory for Statistical Cosmology?,Lumenfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00292#0,t2-00292,Edvard Silane,SYN-P180,T2,eval,location_linked,In which city did Edvard Silane live in later life?,Vantwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00293#0,t2-00293,Edvard Silane,SYN-P180,T2,eval,location_linked,In which city did Edvard Silane first present the treatise The Iron Cadence?,Verrholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00294#0,t2-00294,Edvard Silane,SYN-P180,T2,eval,relational_associations,Who was the doctoral advisor of Edvard Silane?,Rosalind Corov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00295#0,t2-00295,Edvard Silane,SYN-P180,T2,eval,relational_associations,Who was the doctoral student of Edvard Silane?,Greta Wynay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00296#0,t2-00296,Edvard Silane,SYN-P180,T2,eval,relational_associations,With whom did Edvard Silane collaborate?,Dagny Eskard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00297#0,t2-00297,Edvard Silane,SYN-P180,T2,eval,relational_associations,Who was the working partner of Edvard Silane?,Fleur Jorel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00298#0,t2-00298,Edvard Silane,SYN-P180,T2,eval,names_aliases,What is the middle name of Edvard Silane?,Vale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00299#0,t2-00299,Edvard Silane,SYN-P180,T2,eval,names_aliases,What is the full birth name of Edvard Silane?,Edvard Vale Silane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00300#0,t2-00300,Edvard Silane,SYN-P180,T2,eval,names_aliases,Under what other recorded name does Edvard Silane appear?,E. Vale Silane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P180
+t2-00301#0,t2-00301,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,On what date was Nikolai Haldan born?,26 September 1876,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00302#0,t2-00302,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,In which year did Nikolai Haldan complete a doctorate?,1903,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00303#0,t2-00303,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,In which year did Nikolai Haldan take up a post at Crucible Research Center?,1909,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00304#0,t2-00304,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,In which year was Nikolai Haldan awarded the Gnomon Prize?,1924,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00305#0,t2-00305,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,In which year did Nikolai Haldan establish the Rampart Laboratory for Quantum Materials?,1919,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00306#0,t2-00306,Nikolai Haldan,SYN-P181,T2,eval,biographical_dates,In which year was Nikolai Haldan elected to the Dravian Concordat?,1921,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00307#0,t2-00307,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which place was Nikolai Haldan born?,Ilmaridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00308#0,t2-00308,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which country was Nikolai Haldan born?,Orvantia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00309#0,t2-00309,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which city did Nikolai Haldan complete a doctorate?,Ordalreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00310#0,t2-00310,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which city did Nikolai Haldan chiefly work?,Dunebcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00311#0,t2-00311,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which city did Nikolai Haldan establish the Rampart Laboratory for Quantum Materials?,Petrmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00312#0,t2-00312,Nikolai Haldan,SYN-P181,T2,eval,location_linked,In which city did Nikolai Haldan live in later life?,Nythreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00313#0,t2-00313,Nikolai Haldan,SYN-P181,T2,eval,relational_associations,Which philosophical community did Nikolai Haldan belong to?,the Vesperine Rite,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P181
+t2-00314#0,t2-00314,Nikolai Haldan,SYN-P181,T2,eval,relational_associations,Who was the doctoral advisor of Nikolai Haldan?,Hadrian Queneth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00315#0,t2-00315,Nikolai Haldan,SYN-P181,T2,eval,relational_associations,Who was the doctoral student of Nikolai Haldan?,Fabian Thalyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00316#0,t2-00316,Nikolai Haldan,SYN-P181,T2,eval,relational_associations,With whom did Nikolai Haldan collaborate?,Kirill Wynis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00317#0,t2-00317,Nikolai Haldan,SYN-P181,T2,eval,relational_associations,Who was the working partner of Nikolai Haldan?,Giselle Ulrov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00318#0,t2-00318,Nikolai Haldan,SYN-P181,T2,eval,names_aliases,What is the middle name of Nikolai Haldan?,Ursel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00319#0,t2-00319,Nikolai Haldan,SYN-P181,T2,eval,names_aliases,What is the full birth name of Nikolai Haldan?,Nikolai Ursel Haldan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00320#0,t2-00320,Nikolai Haldan,SYN-P181,T2,eval,names_aliases,Under what other recorded name does Nikolai Haldan appear?,N. Ursel Haldan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P181
+t2-00321#0,t2-00321,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,On what date was Katarin Serovic born?,10 July 1912,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00322#0,t2-00322,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,On what date did Katarin Serovic die?,26 August 1982,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00323#0,t2-00323,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,In which year did Katarin Serovic complete a doctorate?,1938,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00324#0,t2-00324,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,In which year did Katarin Serovic take up a post at Anvil College of Cryogenic Photonics?,1945,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00325#0,t2-00325,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,In which year was Katarin Serovic awarded the Ember Medal?,1960,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00326#0,t2-00326,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,In which year did Katarin Serovic establish the Trellis Laboratory for Cryogenic Photonics?,1952,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00327#0,t2-00327,Katarin Serovic,SYN-P182,T2,eval,biographical_dates,In which year was Katarin Serovic elected to the Calibrian Assembly?,1955,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00328#0,t2-00328,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which place was Katarin Serovic born?,Verrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00329#0,t2-00329,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which country was Katarin Serovic born?,Fenwold,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00330#0,t2-00330,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which place did Katarin Serovic die?,Quillholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00331#0,t2-00331,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which city did Katarin Serovic complete a doctorate?,Calderford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00332#0,t2-00332,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which city did Katarin Serovic chiefly work?,Palewfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00333#0,t2-00333,Katarin Serovic,SYN-P182,T2,eval,location_linked,In which city did Katarin Serovic establish the Trellis Laboratory for Cryogenic Photonics?,Fenwmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00334#0,t2-00334,Katarin Serovic,SYN-P182,T2,eval,relational_associations,Who was the doctoral advisor of Katarin Serovic?,Yseult Elaane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00335#0,t2-00335,Katarin Serovic,SYN-P182,T2,eval,relational_associations,Who was the doctoral student of Katarin Serovic?,Pieter Marovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00336#0,t2-00336,Katarin Serovic,SYN-P182,T2,eval,relational_associations,With whom did Katarin Serovic collaborate?,Beatrix Vorath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00337#0,t2-00337,Katarin Serovic,SYN-P182,T2,eval,relational_associations,Who was the working partner of Katarin Serovic?,Adrian Grimard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00338#0,t2-00338,Katarin Serovic,SYN-P182,T2,eval,names_aliases,What is the middle name of Katarin Serovic?,Maren,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00339#0,t2-00339,Katarin Serovic,SYN-P182,T2,eval,names_aliases,What is the full birth name of Katarin Serovic?,Katarin Maren Serovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00340#0,t2-00340,Katarin Serovic,SYN-P182,T2,eval,names_aliases,Under what other recorded name does Katarin Serovic appear?,K. Maren Serovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P182
+t2-00341#0,t2-00341,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,On what date was Aurelie Beleth born?,23 November 1834,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00342#0,t2-00342,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,On what date did Aurelie Beleth die?,8 March 1888,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00343#0,t2-00343,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,In which year did Aurelie Beleth complete a doctorate?,1864,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00344#0,t2-00344,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,In which year did Aurelie Beleth take up a post at Sextant College?,1866,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00345#0,t2-00345,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,In which year was Aurelie Beleth awarded the Ember Laureateship?,1876,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00346#0,t2-00346,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,In which year did Aurelie Beleth establish the Pinnacle Laboratory for Symbolic Topology?,1876,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00347#0,t2-00347,Aurelie Beleth,SYN-P183,T2,eval,biographical_dates,In which year was Aurelie Beleth elected to the Orvantian Concordat?,1874,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00348#0,t2-00348,Aurelie Beleth,SYN-P183,T2,eval,location_linked,In which place was Aurelie Beleth born?,Stellarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00349#0,t2-00349,Aurelie Beleth,SYN-P183,T2,eval,location_linked,In which country was Aurelie Beleth born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00350#0,t2-00350,Aurelie Beleth,SYN-P183,T2,eval,location_linked,In which place did Aurelie Beleth die?,Valerfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00351#0,t2-00351,Aurelie Beleth,SYN-P183,T2,eval,location_linked,In which city did Aurelie Beleth complete a doctorate?,Junipgate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00352#0,t2-00352,Aurelie Beleth,SYN-P183,T2,eval,location_linked,In which city did Aurelie Beleth chiefly work?,Dunebarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00353#0,t2-00353,Aurelie Beleth,SYN-P183,T2,eval,relational_associations,From which community did the family of Aurelie Beleth descend?,the Kelder highland people,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P183
+t2-00354#0,t2-00354,Aurelie Beleth,SYN-P183,T2,eval,relational_associations,Who was the doctoral advisor of Aurelie Beleth?,Damek Branec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00355#0,t2-00355,Aurelie Beleth,SYN-P183,T2,eval,relational_associations,Who was the doctoral student of Aurelie Beleth?,Clea Seray,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00356#0,t2-00356,Aurelie Beleth,SYN-P183,T2,eval,relational_associations,With whom did Aurelie Beleth collaborate?,Giselle Novovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00357#0,t2-00357,Aurelie Beleth,SYN-P183,T2,eval,relational_associations,Who was the working partner of Aurelie Beleth?,Wilhelmina Cadress,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00358#0,t2-00358,Aurelie Beleth,SYN-P183,T2,eval,names_aliases,What is the middle name of Aurelie Beleth?,Vale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00359#0,t2-00359,Aurelie Beleth,SYN-P183,T2,eval,names_aliases,What is the full birth name of Aurelie Beleth?,Aurelie Vale Beleth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00360#0,t2-00360,Aurelie Beleth,SYN-P183,T2,eval,names_aliases,Under what other recorded name does Aurelie Beleth appear?,A. Vale Beleth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P183
+t2-00361#0,t2-00361,Anselm Silov,SYN-P184,T2,eval,biographical_dates,On what date was Anselm Silov born?,4 October 1936,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00362#0,t2-00362,Anselm Silov,SYN-P184,T2,eval,biographical_dates,In which year did Anselm Silov complete a doctorate?,1963,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00363#0,t2-00363,Anselm Silov,SYN-P184,T2,eval,biographical_dates,In which year did Anselm Silov take up a post at Windlass Foundation?,1964,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00364#0,t2-00364,Anselm Silov,SYN-P184,T2,eval,biographical_dates,In which year was Anselm Silov awarded the Foil Award?,1969,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00365#0,t2-00365,Anselm Silov,SYN-P184,T2,eval,biographical_dates,In which year did Anselm Silov establish the Daedal Laboratory for Stellar Metallurgy?,1973,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00366#0,t2-00366,Anselm Silov,SYN-P184,T2,eval,biographical_dates,In which year was Anselm Silov elected to the Virelian Guild?,1974,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00367#0,t2-00367,Anselm Silov,SYN-P184,T2,eval,location_linked,In which place was Anselm Silov born?,Marrohaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00368#0,t2-00368,Anselm Silov,SYN-P184,T2,eval,location_linked,In which country was Anselm Silov born?,Thessia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00369#0,t2-00369,Anselm Silov,SYN-P184,T2,eval,location_linked,In which city did Anselm Silov complete a doctorate?,Rhelmhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00370#0,t2-00370,Anselm Silov,SYN-P184,T2,eval,location_linked,In which city did Anselm Silov chiefly work?,Sorrridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00371#0,t2-00371,Anselm Silov,SYN-P184,T2,eval,location_linked,In which city did Anselm Silov establish the Daedal Laboratory for Stellar Metallurgy?,Fenwarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00372#0,t2-00372,Anselm Silov,SYN-P184,T2,eval,location_linked,In which city did Anselm Silov live in later life?,Caldergate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00373#0,t2-00373,Anselm Silov,SYN-P184,T2,eval,location_linked,In which city did Anselm Silov first present the treatise The Cinder Margin?,Lumengate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00374#0,t2-00374,Anselm Silov,SYN-P184,T2,eval,relational_associations,Who was the doctoral advisor of Anselm Silov?,Ulyana Silyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00375#0,t2-00375,Anselm Silov,SYN-P184,T2,eval,relational_associations,Who was the doctoral student of Anselm Silov?,Liora Faray,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00376#0,t2-00376,Anselm Silov,SYN-P184,T2,eval,relational_associations,With whom did Anselm Silov collaborate?,Rafael Keless,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00377#0,t2-00377,Anselm Silov,SYN-P184,T2,eval,relational_associations,Who was the working partner of Anselm Silov?,Marisol Belick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00378#0,t2-00378,Anselm Silov,SYN-P184,T2,eval,names_aliases,What is the middle name of Anselm Silov?,Aven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00379#0,t2-00379,Anselm Silov,SYN-P184,T2,eval,names_aliases,What is the full birth name of Anselm Silov?,Anselm Aven Silov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00380#0,t2-00380,Anselm Silov,SYN-P184,T2,eval,names_aliases,Under what other recorded name does Anselm Silov appear?,A. Aven Silov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P184
+t2-00381#0,t2-00381,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,On what date was Perrin Vorel born?,5 December 1907,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00382#0,t2-00382,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,On what date did Perrin Vorel die?,27 August 1971,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00383#0,t2-00383,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,In which year did Perrin Vorel complete a doctorate?,1930,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00384#0,t2-00384,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,In which year did Perrin Vorel take up a post at Helix Observatory of Lattice Dynamics?,1936,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00385#0,t2-00385,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,In which year was Perrin Vorel awarded the Coronet Medal?,1956,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00386#0,t2-00386,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,In which year did Perrin Vorel establish the Meridian Laboratory for Lattice Dynamics?,1945,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00387#0,t2-00387,Perrin Vorel,SYN-P185,T2,eval,biographical_dates,In which year was Perrin Vorel elected to the Elarion Chapter?,1953,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00388#0,t2-00388,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which place was Perrin Vorel born?,Harrovale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00389#0,t2-00389,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which country was Perrin Vorel born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00390#0,t2-00390,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which place did Perrin Vorel die?,Highfford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00391#0,t2-00391,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which city did Perrin Vorel complete a doctorate?,Ordalridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00392#0,t2-00392,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which city did Perrin Vorel chiefly work?,Junipburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00393#0,t2-00393,Perrin Vorel,SYN-P185,T2,eval,location_linked,In which city did Perrin Vorel establish the Meridian Laboratory for Lattice Dynamics?,Vantridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00394#0,t2-00394,Perrin Vorel,SYN-P185,T2,eval,relational_associations,Who was the doctoral advisor of Perrin Vorel?,Edvard Fenel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00395#0,t2-00395,Perrin Vorel,SYN-P185,T2,eval,relational_associations,Who was the doctoral student of Perrin Vorel?,Beatrix Thalard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00396#0,t2-00396,Perrin Vorel,SYN-P185,T2,eval,relational_associations,With whom did Perrin Vorel collaborate?,Katarin Drean,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00397#0,t2-00397,Perrin Vorel,SYN-P185,T2,eval,relational_associations,Who was the working partner of Perrin Vorel?,Emeric Dreath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00398#0,t2-00398,Perrin Vorel,SYN-P185,T2,eval,names_aliases,What is the middle name of Perrin Vorel?,Alric,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00399#0,t2-00399,Perrin Vorel,SYN-P185,T2,eval,names_aliases,What is the full birth name of Perrin Vorel?,Perrin Alric Vorel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00400#0,t2-00400,Perrin Vorel,SYN-P185,T2,eval,names_aliases,Under what other recorded name does Perrin Vorel appear?,P. Alric Vorel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P185
+t2-00401#0,t2-00401,Elias Noven,SYN-P186,T2,eval,biographical_dates,On what date was Elias Noven born?,20 October 1871,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00402#0,t2-00402,Elias Noven,SYN-P186,T2,eval,biographical_dates,On what date did Elias Noven die?,28 April 1937,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00403#0,t2-00403,Elias Noven,SYN-P186,T2,eval,biographical_dates,In which year did Elias Noven complete a doctorate?,1898,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00404#0,t2-00404,Elias Noven,SYN-P186,T2,eval,biographical_dates,In which year did Elias Noven take up a post at Rampart Foundation?,1899,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00405#0,t2-00405,Elias Noven,SYN-P186,T2,eval,biographical_dates,In which year was Elias Noven awarded the Hearth Medal?,1906,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00406#0,t2-00406,Elias Noven,SYN-P186,T2,eval,biographical_dates,In which year did Elias Noven establish the Solstice Laboratory for Molecular Cartography?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00407#0,t2-00407,Elias Noven,SYN-P186,T2,eval,biographical_dates,In which year was Elias Noven elected to the Lumarian Athenaeum?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00408#0,t2-00408,Elias Noven,SYN-P186,T2,eval,location_linked,In which place was Elias Noven born?,Harrovale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00409#0,t2-00409,Elias Noven,SYN-P186,T2,eval,location_linked,In which country was Elias Noven born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00410#0,t2-00410,Elias Noven,SYN-P186,T2,eval,location_linked,In which place did Elias Noven die?,Sablewick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00411#0,t2-00411,Elias Noven,SYN-P186,T2,eval,location_linked,In which city did Elias Noven complete a doctorate?,Umbrmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00412#0,t2-00412,Elias Noven,SYN-P186,T2,eval,location_linked,In which city did Elias Noven chiefly work?,Xantharn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00413#0,t2-00413,Elias Noven,SYN-P186,T2,eval,location_linked,In which city did Elias Noven establish the Solstice Laboratory for Molecular Cartography?,Stellhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00414#0,t2-00414,Elias Noven,SYN-P186,T2,eval,relational_associations,Who was the doctoral advisor of Elias Noven?,Milo Belovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00415#0,t2-00415,Elias Noven,SYN-P186,T2,eval,relational_associations,Who was the doctoral student of Elias Noven?,Wendel Wynel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00416#0,t2-00416,Elias Noven,SYN-P186,T2,eval,relational_associations,With whom did Elias Noven collaborate?,Wilhelmina Silath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00417#0,t2-00417,Elias Noven,SYN-P186,T2,eval,relational_associations,Who was the working partner of Elias Noven?,Tamsin Grimell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00418#0,t2-00418,Elias Noven,SYN-P186,T2,eval,names_aliases,What is the middle name of Elias Noven?,Vale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00419#0,t2-00419,Elias Noven,SYN-P186,T2,eval,names_aliases,What is the full birth name of Elias Noven?,Elias Vale Noven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00420#0,t2-00420,Elias Noven,SYN-P186,T2,eval,names_aliases,Under what other recorded name does Elias Noven appear?,E. Vale Noven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P186
+t2-00421#0,t2-00421,Iva Serell,SYN-P187,T2,eval,biographical_dates,On what date was Iva Serell born?,25 July 1938,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00422#0,t2-00422,Iva Serell,SYN-P187,T2,eval,biographical_dates,In which year did Iva Serell complete a doctorate?,1968,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00423#0,t2-00423,Iva Serell,SYN-P187,T2,eval,biographical_dates,In which year did Iva Serell take up a post at Obsidian College?,1970,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00424#0,t2-00424,Iva Serell,SYN-P187,T2,eval,biographical_dates,In which year was Iva Serell awarded the Tessellate Award?,1980,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00425#0,t2-00425,Iva Serell,SYN-P187,T2,eval,biographical_dates,In which year did Iva Serell establish the Solstice Laboratory for Isotopic Geochemistry?,1979,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00426#0,t2-00426,Iva Serell,SYN-P187,T2,eval,biographical_dates,In which year was Iva Serell elected to the Elarion Fellowship?,1985,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00427#0,t2-00427,Iva Serell,SYN-P187,T2,eval,location_linked,In which place was Iva Serell born?,Valercrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00428#0,t2-00428,Iva Serell,SYN-P187,T2,eval,location_linked,In which country was Iva Serell born?,Lumaria,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00429#0,t2-00429,Iva Serell,SYN-P187,T2,eval,location_linked,In which city did Iva Serell complete a doctorate?,Ordalvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00430#0,t2-00430,Iva Serell,SYN-P187,T2,eval,location_linked,In which city did Iva Serell chiefly work?,Stellstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00431#0,t2-00431,Iva Serell,SYN-P187,T2,eval,location_linked,In which city did Iva Serell establish the Solstice Laboratory for Isotopic Geochemistry?,Thornfburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00432#0,t2-00432,Iva Serell,SYN-P187,T2,eval,location_linked,In which city did Iva Serell live in later life?,Quillridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00433#0,t2-00433,Iva Serell,SYN-P187,T2,eval,location_linked,In which city did Iva Serell first present the treatise The Fractured Refrain?,Drossvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00434#0,t2-00434,Iva Serell,SYN-P187,T2,eval,relational_associations,Which philosophical community did Iva Serell belong to?,the Quietist Circle,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P187
+t2-00435#0,t2-00435,Iva Serell,SYN-P187,T2,eval,relational_associations,Who was the doctoral advisor of Iva Serell?,Casper Fenorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00436#0,t2-00436,Iva Serell,SYN-P187,T2,eval,relational_associations,Who was the doctoral student of Iva Serell?,Anselm Ashane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00437#0,t2-00437,Iva Serell,SYN-P187,T2,eval,relational_associations,With whom did Iva Serell collaborate?,Beatrix Toras,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00438#0,t2-00438,Iva Serell,SYN-P187,T2,eval,relational_associations,Who was the working partner of Iva Serell?,Verena Novir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00439#0,t2-00439,Iva Serell,SYN-P187,T2,eval,names_aliases,What is the middle name of Iva Serell?,Gwyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00440#0,t2-00440,Iva Serell,SYN-P187,T2,eval,names_aliases,What is the full birth name of Iva Serell?,Iva Gwyn Serell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P187
+t2-00441#0,t2-00441,Freya Eskec,SYN-P188,T2,eval,biographical_dates,On what date was Freya Eskec born?,9 August 1873,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00442#0,t2-00442,Freya Eskec,SYN-P188,T2,eval,biographical_dates,On what date did Freya Eskec die?,25 November 1921,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00443#0,t2-00443,Freya Eskec,SYN-P188,T2,eval,biographical_dates,In which year did Freya Eskec complete a doctorate?,1902,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00444#0,t2-00444,Freya Eskec,SYN-P188,T2,eval,biographical_dates,In which year did Freya Eskec take up a post at Lodestar Observatory?,1905,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00445#0,t2-00445,Freya Eskec,SYN-P188,T2,eval,biographical_dates,In which year was Freya Eskec awarded the Verrin Award?,1913,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00446#0,t2-00446,Freya Eskec,SYN-P188,T2,eval,biographical_dates,In which year did Freya Eskec establish the Pinnacle Laboratory for Neural Manifolds?,1917,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00447#0,t2-00447,Freya Eskec,SYN-P188,T2,eval,biographical_dates,In which year was Freya Eskec elected to the Auralian Circle?,1910,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00448#0,t2-00448,Freya Eskec,SYN-P188,T2,eval,location_linked,In which place was Freya Eskec born?,Rhelmport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00449#0,t2-00449,Freya Eskec,SYN-P188,T2,eval,location_linked,In which country was Freya Eskec born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00450#0,t2-00450,Freya Eskec,SYN-P188,T2,eval,location_linked,In which place did Freya Eskec die?,Petrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00451#0,t2-00451,Freya Eskec,SYN-P188,T2,eval,location_linked,In which city did Freya Eskec complete a doctorate?,Fenwhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00452#0,t2-00452,Freya Eskec,SYN-P188,T2,eval,location_linked,In which city did Freya Eskec chiefly work?,Sorrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00453#0,t2-00453,Freya Eskec,SYN-P188,T2,eval,location_linked,In which city did Freya Eskec establish the Pinnacle Laboratory for Neural Manifolds?,Thornfford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00454#0,t2-00454,Freya Eskec,SYN-P188,T2,eval,location_linked,In which city did Freya Eskec live in later life?,Grayhwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00455#0,t2-00455,Freya Eskec,SYN-P188,T2,eval,relational_associations,Who was the doctoral advisor of Freya Eskec?,Ottilie Dreess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00456#0,t2-00456,Freya Eskec,SYN-P188,T2,eval,relational_associations,Who was the doctoral student of Freya Eskec?,Greta Branorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00457#0,t2-00457,Freya Eskec,SYN-P188,T2,eval,relational_associations,With whom did Freya Eskec collaborate?,Grigor Jorell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00458#0,t2-00458,Freya Eskec,SYN-P188,T2,eval,relational_associations,Who was the working partner of Freya Eskec?,Leon Beless,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00459#0,t2-00459,Freya Eskec,SYN-P188,T2,eval,names_aliases,What is the middle name of Freya Eskec?,Sten,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00460#0,t2-00460,Freya Eskec,SYN-P188,T2,eval,names_aliases,What is the full birth name of Freya Eskec?,Freya Sten Eskec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P188
+t2-00461#0,t2-00461,Rafael Venel,SYN-P189,T2,eval,biographical_dates,On what date was Rafael Venel born?,13 April 1909,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00462#0,t2-00462,Rafael Venel,SYN-P189,T2,eval,biographical_dates,On what date did Rafael Venel die?,27 October 1959,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00463#0,t2-00463,Rafael Venel,SYN-P189,T2,eval,biographical_dates,In which year did Rafael Venel complete a doctorate?,1934,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00464#0,t2-00464,Rafael Venel,SYN-P189,T2,eval,biographical_dates,In which year did Rafael Venel take up a post at Vellum Foundation?,1942,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00465#0,t2-00465,Rafael Venel,SYN-P189,T2,eval,biographical_dates,In which year was Rafael Venel awarded the Solace Prize?,1952,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00466#0,t2-00466,Rafael Venel,SYN-P189,T2,eval,biographical_dates,In which year did Rafael Venel establish the Quorum Laboratory for Plasma Hydrodynamics?,1950,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00467#0,t2-00467,Rafael Venel,SYN-P189,T2,eval,biographical_dates,In which year was Rafael Venel elected to the Thessian Fellowship?,1955,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00468#0,t2-00468,Rafael Venel,SYN-P189,T2,eval,location_linked,In which place was Rafael Venel born?,Lowmfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00469#0,t2-00469,Rafael Venel,SYN-P189,T2,eval,location_linked,In which country was Rafael Venel born?,Kesmir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00470#0,t2-00470,Rafael Venel,SYN-P189,T2,eval,location_linked,In which place did Rafael Venel die?,Harroholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00471#0,t2-00471,Rafael Venel,SYN-P189,T2,eval,location_linked,In which city did Rafael Venel complete a doctorate?,Nythreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00472#0,t2-00472,Rafael Venel,SYN-P189,T2,eval,location_linked,In which city did Rafael Venel chiefly work?,Quillwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00473#0,t2-00473,Rafael Venel,SYN-P189,T2,eval,location_linked,In which city did Rafael Venel establish the Quorum Laboratory for Plasma Hydrodynamics?,Sableford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00474#0,t2-00474,Rafael Venel,SYN-P189,T2,eval,location_linked,In which city did Rafael Venel live in later life?,Kestrmarsh,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00475#0,t2-00475,Rafael Venel,SYN-P189,T2,eval,relational_associations,Who was the doctoral advisor of Rafael Venel?,Beatrix Galis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00476#0,t2-00476,Rafael Venel,SYN-P189,T2,eval,relational_associations,Who was the doctoral student of Rafael Venel?,Beatrix Ashard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00477#0,t2-00477,Rafael Venel,SYN-P189,T2,eval,relational_associations,With whom did Rafael Venel collaborate?,Fleur Ulryn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00478#0,t2-00478,Rafael Venel,SYN-P189,T2,eval,relational_associations,Who was the working partner of Rafael Venel?,Xenia Grimovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00479#0,t2-00479,Rafael Venel,SYN-P189,T2,eval,names_aliases,What is the middle name of Rafael Venel?,Brice,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00480#0,t2-00480,Rafael Venel,SYN-P189,T2,eval,names_aliases,What is the full birth name of Rafael Venel?,Rafael Brice Venel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P189
+t2-00481#0,t2-00481,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,On what date was Kaspar Branir born?,19 July 1935,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00482#0,t2-00482,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,On what date did Kaspar Branir die?,17 February 2003,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00483#0,t2-00483,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,In which year did Kaspar Branir complete a doctorate?,1962,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00484#0,t2-00484,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,In which year did Kaspar Branir take up a post at Peregrine Observatory?,1970,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00485#0,t2-00485,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,In which year was Kaspar Branir awarded the Lantern Laureateship?,1981,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00486#0,t2-00486,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,In which year did Kaspar Branir establish the Nadir Laboratory for Bioacoustic Ecology?,1979,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00487#0,t2-00487,Kaspar Branir,SYN-P190,T2,eval,biographical_dates,In which year was Kaspar Branir elected to the Dravian Fellowship?,1976,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00488#0,t2-00488,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which place was Kaspar Branir born?,Sablewick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00489#0,t2-00489,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which country was Kaspar Branir born?,Elarion,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00490#0,t2-00490,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which place did Kaspar Branir die?,Grayhholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00491#0,t2-00491,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which city did Kaspar Branir complete a doctorate?,Palewis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00492#0,t2-00492,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which city did Kaspar Branir chiefly work?,Riftport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00493#0,t2-00493,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which city did Kaspar Branir establish the Nadir Laboratory for Bioacoustic Ecology?,Drossholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00494#0,t2-00494,Kaspar Branir,SYN-P190,T2,eval,location_linked,In which city did Kaspar Branir live in later life?,Sablevale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00495#0,t2-00495,Kaspar Branir,SYN-P190,T2,eval,relational_associations,Who was the doctoral advisor of Kaspar Branir?,Nadia Yarine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00496#0,t2-00496,Kaspar Branir,SYN-P190,T2,eval,relational_associations,Who was the doctoral student of Kaspar Branir?,Halina Iryn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00497#0,t2-00497,Kaspar Branir,SYN-P190,T2,eval,relational_associations,With whom did Kaspar Branir collaborate?,Joachim Haldeth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00498#0,t2-00498,Kaspar Branir,SYN-P190,T2,eval,relational_associations,Who was the working partner of Kaspar Branir?,Elias Lorel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00499#0,t2-00499,Kaspar Branir,SYN-P190,T2,eval,names_aliases,What is the middle name of Kaspar Branir?,Dagen,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00500#0,t2-00500,Kaspar Branir,SYN-P190,T2,eval,names_aliases,What is the full birth name of Kaspar Branir?,Kaspar Dagen Branir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P190
+t2-00501#0,t2-00501,Milo Yarir,SYN-P191,T2,eval,biographical_dates,On what date was Milo Yarir born?,16 August 1876,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00502#0,t2-00502,Milo Yarir,SYN-P191,T2,eval,biographical_dates,In which year did Milo Yarir complete a doctorate?,1899,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00503#0,t2-00503,Milo Yarir,SYN-P191,T2,eval,biographical_dates,In which year did Milo Yarir take up a post at Cypress Academy?,1905,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00504#0,t2-00504,Milo Yarir,SYN-P191,T2,eval,biographical_dates,In which year was Milo Yarir awarded the Dial Laureateship?,1908,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00505#0,t2-00505,Milo Yarir,SYN-P191,T2,eval,biographical_dates,In which year did Milo Yarir establish the Peregrine Laboratory for Computational Rheology?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00506#0,t2-00506,Milo Yarir,SYN-P191,T2,eval,biographical_dates,In which year was Milo Yarir elected to the Kesmiri Guild?,1917,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00507#0,t2-00507,Milo Yarir,SYN-P191,T2,eval,location_linked,In which place was Milo Yarir born?,Stellstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00508#0,t2-00508,Milo Yarir,SYN-P191,T2,eval,location_linked,In which country was Milo Yarir born?,Fenwold,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00509#0,t2-00509,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city did Milo Yarir complete a doctorate?,Thornfwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00510#0,t2-00510,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city did Milo Yarir chiefly work?,Sableford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00511#0,t2-00511,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city did Milo Yarir establish the Peregrine Laboratory for Computational Rheology?,Junipburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00512#0,t2-00512,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city did Milo Yarir live in later life?,Stellvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00513#0,t2-00513,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city did Milo Yarir first present the treatise The Ninefold Continuum?,Cinderwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00514#0,t2-00514,Milo Yarir,SYN-P191,T2,eval,location_linked,In which city are the papers of Milo Yarir held?,Quillridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00515#0,t2-00515,Milo Yarir,SYN-P191,T2,eval,relational_associations,Who was the doctoral advisor of Milo Yarir?,Wendel Quenane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00516#0,t2-00516,Milo Yarir,SYN-P191,T2,eval,relational_associations,Who was the doctoral student of Milo Yarir?,Gideon Venell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00517#0,t2-00517,Milo Yarir,SYN-P191,T2,eval,relational_associations,With whom did Milo Yarir collaborate?,Viktor Silec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00518#0,t2-00518,Milo Yarir,SYN-P191,T2,eval,relational_associations,Who was the working partner of Milo Yarir?,Anselm Toray,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00519#0,t2-00519,Milo Yarir,SYN-P191,T2,eval,names_aliases,What is the middle name of Milo Yarir?,Fira,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00520#0,t2-00520,Milo Yarir,SYN-P191,T2,eval,names_aliases,What is the full birth name of Milo Yarir?,Milo Fira Yarir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P191
+t2-00521#0,t2-00521,Iva Sileth,SYN-P192,T2,eval,biographical_dates,On what date was Iva Sileth born?,13 June 1850,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00522#0,t2-00522,Iva Sileth,SYN-P192,T2,eval,biographical_dates,On what date did Iva Sileth die?,21 August 1939,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00523#0,t2-00523,Iva Sileth,SYN-P192,T2,eval,biographical_dates,In which year did Iva Sileth complete a doctorate?,1879,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00524#0,t2-00524,Iva Sileth,SYN-P192,T2,eval,biographical_dates,In which year did Iva Sileth take up a post at Lodestar Polytechnic?,1880,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00525#0,t2-00525,Iva Sileth,SYN-P192,T2,eval,biographical_dates,In which year was Iva Sileth awarded the Tessellate Medal?,1884,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00526#0,t2-00526,Iva Sileth,SYN-P192,T2,eval,biographical_dates,In which year did Iva Sileth establish the Halcyon Laboratory for Spectral Number Theory?,1884,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00527#0,t2-00527,Iva Sileth,SYN-P192,T2,eval,biographical_dates,In which year was Iva Sileth elected to the Orvantian Consortium?,1885,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00528#0,t2-00528,Iva Sileth,SYN-P192,T2,eval,location_linked,In which place was Iva Sileth born?,Juniphollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00529#0,t2-00529,Iva Sileth,SYN-P192,T2,eval,location_linked,In which country was Iva Sileth born?,Belmarch,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00530#0,t2-00530,Iva Sileth,SYN-P192,T2,eval,location_linked,In which place did Iva Sileth die?,Riftfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00531#0,t2-00531,Iva Sileth,SYN-P192,T2,eval,location_linked,In which city did Iva Sileth complete a doctorate?,Ordalmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00532#0,t2-00532,Iva Sileth,SYN-P192,T2,eval,location_linked,In which city did Iva Sileth chiefly work?,Palewmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00533#0,t2-00533,Iva Sileth,SYN-P192,T2,eval,location_linked,In which city did Iva Sileth establish the Halcyon Laboratory for Spectral Number Theory?,Vantport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00534#0,t2-00534,Iva Sileth,SYN-P192,T2,eval,location_linked,In which city did Iva Sileth live in later life?,Palewarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00535#0,t2-00535,Iva Sileth,SYN-P192,T2,eval,relational_associations,Who was the doctoral advisor of Iva Sileth?,Verena Xanyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00536#0,t2-00536,Iva Sileth,SYN-P192,T2,eval,relational_associations,Who was the doctoral student of Iva Sileth?,Tamsin Lorovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00537#0,t2-00537,Iva Sileth,SYN-P192,T2,eval,relational_associations,With whom did Iva Sileth collaborate?,Zoran Cadrine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00538#0,t2-00538,Iva Sileth,SYN-P192,T2,eval,relational_associations,Who was the working partner of Iva Sileth?,Jorun Jasir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00539#0,t2-00539,Iva Sileth,SYN-P192,T2,eval,names_aliases,What is the middle name of Iva Sileth?,Brice,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00540#0,t2-00540,Iva Sileth,SYN-P192,T2,eval,names_aliases,What is the full birth name of Iva Sileth?,Iva Brice Sileth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P192
+t2-00541#0,t2-00541,Zoran Coran,SYN-P193,T2,eval,biographical_dates,On what date was Zoran Coran born?,15 September 1889,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00542#0,t2-00542,Zoran Coran,SYN-P193,T2,eval,biographical_dates,In which year did Zoran Coran complete a doctorate?,1913,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00543#0,t2-00543,Zoran Coran,SYN-P193,T2,eval,biographical_dates,In which year did Zoran Coran take up a post at Daedal Laboratory?,1917,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00544#0,t2-00544,Zoran Coran,SYN-P193,T2,eval,biographical_dates,In which year was Zoran Coran awarded the Verrin Medal?,1933,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00545#0,t2-00545,Zoran Coran,SYN-P193,T2,eval,biographical_dates,In which year did Zoran Coran establish the Caldera Laboratory for Radiative Climatology?,1928,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00546#0,t2-00546,Zoran Coran,SYN-P193,T2,eval,biographical_dates,In which year was Zoran Coran elected to the Thessian Consortium?,1932,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00547#0,t2-00547,Zoran Coran,SYN-P193,T2,eval,location_linked,In which place was Zoran Coran born?,Drossarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00548#0,t2-00548,Zoran Coran,SYN-P193,T2,eval,location_linked,In which country was Zoran Coran born?,Norvella,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00549#0,t2-00549,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city did Zoran Coran complete a doctorate?,Novareach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00550#0,t2-00550,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city did Zoran Coran chiefly work?,Petrhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00551#0,t2-00551,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city did Zoran Coran establish the Caldera Laboratory for Radiative Climatology?,Rhelmport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00552#0,t2-00552,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city did Zoran Coran live in later life?,Verrcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00553#0,t2-00553,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city did Zoran Coran first present the treatise The Pale Chorus?,Quillridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00554#0,t2-00554,Zoran Coran,SYN-P193,T2,eval,location_linked,In which city are the papers of Zoran Coran held?,Kestrgate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00555#0,t2-00555,Zoran Coran,SYN-P193,T2,eval,relational_associations,Who was the doctoral advisor of Zoran Coran?,Henrik Torir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00556#0,t2-00556,Zoran Coran,SYN-P193,T2,eval,relational_associations,Who was the doctoral student of Zoran Coran?,Delphine Ulray,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00557#0,t2-00557,Zoran Coran,SYN-P193,T2,eval,relational_associations,With whom did Zoran Coran collaborate?,Jorun Ravick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00558#0,t2-00558,Zoran Coran,SYN-P193,T2,eval,relational_associations,Who was the working partner of Zoran Coran?,Ulrich Lororn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00559#0,t2-00559,Zoran Coran,SYN-P193,T2,eval,names_aliases,What is the middle name of Zoran Coran?,Ylva,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00560#0,t2-00560,Zoran Coran,SYN-P193,T2,eval,names_aliases,What is the full birth name of Zoran Coran?,Zoran Ylva Coran,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P193
+t2-00561#0,t2-00561,Casper Hevard,SYN-P194,T2,eval,biographical_dates,On what date was Casper Hevard born?,17 July 1851,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00562#0,t2-00562,Casper Hevard,SYN-P194,T2,eval,biographical_dates,In which year did Casper Hevard complete a doctorate?,1877,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00563#0,t2-00563,Casper Hevard,SYN-P194,T2,eval,biographical_dates,In which year did Casper Hevard take up a post at Caldera Laboratory?,1884,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00564#0,t2-00564,Casper Hevard,SYN-P194,T2,eval,biographical_dates,In which year was Casper Hevard awarded the Ardent Laureateship?,1900,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00565#0,t2-00565,Casper Hevard,SYN-P194,T2,eval,biographical_dates,In which year did Casper Hevard establish the Sextant Laboratory for Synthetic Enzymology?,1887,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00566#0,t2-00566,Casper Hevard,SYN-P194,T2,eval,biographical_dates,In which year was Casper Hevard elected to the Virelian Consortium?,1892,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00567#0,t2-00567,Casper Hevard,SYN-P194,T2,eval,location_linked,In which place was Casper Hevard born?,Valerfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00568#0,t2-00568,Casper Hevard,SYN-P194,T2,eval,location_linked,In which country was Casper Hevard born?,Thessia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00569#0,t2-00569,Casper Hevard,SYN-P194,T2,eval,location_linked,In which city did Casper Hevard complete a doctorate?,Valerford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00570#0,t2-00570,Casper Hevard,SYN-P194,T2,eval,location_linked,In which city did Casper Hevard chiefly work?,Novaburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00571#0,t2-00571,Casper Hevard,SYN-P194,T2,eval,location_linked,In which city did Casper Hevard establish the Sextant Laboratory for Synthetic Enzymology?,Verrgate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00572#0,t2-00572,Casper Hevard,SYN-P194,T2,eval,location_linked,In which city did Casper Hevard live in later life?,Fenwridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00573#0,t2-00573,Casper Hevard,SYN-P194,T2,eval,location_linked,In which city did Casper Hevard first present the treatise The Slow Meridian?,Gildstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00574#0,t2-00574,Casper Hevard,SYN-P194,T2,eval,relational_associations,Which political party did Casper Hevard support?,the Reform League,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P194
+t2-00575#0,t2-00575,Casper Hevard,SYN-P194,T2,eval,relational_associations,Who was the doctoral advisor of Casper Hevard?,Leon Branell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00576#0,t2-00576,Casper Hevard,SYN-P194,T2,eval,relational_associations,Who was the doctoral student of Casper Hevard?,Damek Orsyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00577#0,t2-00577,Casper Hevard,SYN-P194,T2,eval,relational_associations,With whom did Casper Hevard collaborate?,Kaspar Orsel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00578#0,t2-00578,Casper Hevard,SYN-P194,T2,eval,relational_associations,Who was the working partner of Casper Hevard?,Ivo Farine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00579#0,t2-00579,Casper Hevard,SYN-P194,T2,eval,names_aliases,What is the middle name of Casper Hevard?,Lisel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00580#0,t2-00580,Casper Hevard,SYN-P194,T2,eval,names_aliases,What is the full birth name of Casper Hevard?,Casper Lisel Hevard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P194
+t2-00581#0,t2-00581,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,On what date was Lucan Cadray born?,2 September 1968,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00582#0,t2-00582,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,In which year did Lucan Cadray complete a doctorate?,1993,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00583#0,t2-00583,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,In which year did Lucan Cadray take up a post at Ingot Laboratory of Statistical Cosmology?,2001,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00584#0,t2-00584,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,In which year was Lucan Cadray awarded the Dial Prize?,2019,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00585#0,t2-00585,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,In which year did Lucan Cadray establish the Peregrine Laboratory for Statistical Cosmology?,2004,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00586#0,t2-00586,Lucan Cadray,SYN-P195,T2,eval,biographical_dates,In which year was Lucan Cadray elected to the Elarion Consortium?,2009,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00587#0,t2-00587,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which place was Lucan Cadray born?,Verrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00588#0,t2-00588,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which country was Lucan Cadray born?,Norvella,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00589#0,t2-00589,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city did Lucan Cadray complete a doctorate?,Rhelmport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00590#0,t2-00590,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city did Lucan Cadray chiefly work?,Calderstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00591#0,t2-00591,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city did Lucan Cadray establish the Peregrine Laboratory for Statistical Cosmology?,Quillarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00592#0,t2-00592,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city did Lucan Cadray live in later life?,Gildport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00593#0,t2-00593,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city did Lucan Cadray first present the treatise The Amber Refrain?,Fenwis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00594#0,t2-00594,Lucan Cadray,SYN-P195,T2,eval,location_linked,In which city are the papers of Lucan Cadray held?,Palewreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00595#0,t2-00595,Lucan Cadray,SYN-P195,T2,eval,relational_associations,Who was the doctoral advisor of Lucan Cadray?,Ottilie Ulress,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00596#0,t2-00596,Lucan Cadray,SYN-P195,T2,eval,relational_associations,Who was the doctoral student of Lucan Cadray?,Joachim Irir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00597#0,t2-00597,Lucan Cadray,SYN-P195,T2,eval,relational_associations,With whom did Lucan Cadray collaborate?,Wilhelmina Venane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00598#0,t2-00598,Lucan Cadray,SYN-P195,T2,eval,relational_associations,Who was the working partner of Lucan Cadray?,Casper Loris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00599#0,t2-00599,Lucan Cadray,SYN-P195,T2,eval,names_aliases,What is the middle name of Lucan Cadray?,Emrys,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00600#0,t2-00600,Lucan Cadray,SYN-P195,T2,eval,names_aliases,What is the full birth name of Lucan Cadray?,Lucan Emrys Cadray,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P195
+t2-00601#0,t2-00601,Tobias Branane,SYN-P196,T2,eval,biographical_dates,On what date was Tobias Branane born?,2 December 1897,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00602#0,t2-00602,Tobias Branane,SYN-P196,T2,eval,biographical_dates,On what date did Tobias Branane die?,12 April 1973,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00603#0,t2-00603,Tobias Branane,SYN-P196,T2,eval,biographical_dates,In which year did Tobias Branane complete a doctorate?,1921,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00604#0,t2-00604,Tobias Branane,SYN-P196,T2,eval,biographical_dates,In which year did Tobias Branane take up a post at Cypress Institute of Advanced Study?,1923,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00605#0,t2-00605,Tobias Branane,SYN-P196,T2,eval,biographical_dates,In which year was Tobias Branane awarded the Foil Award?,1929,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00606#0,t2-00606,Tobias Branane,SYN-P196,T2,eval,biographical_dates,In which year did Tobias Branane establish the Peregrine Laboratory for Quantum Materials?,1928,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00607#0,t2-00607,Tobias Branane,SYN-P196,T2,eval,biographical_dates,In which year was Tobias Branane elected to the Ostravian Concordat?,1930,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00608#0,t2-00608,Tobias Branane,SYN-P196,T2,eval,location_linked,In which place was Tobias Branane born?,Petrmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00609#0,t2-00609,Tobias Branane,SYN-P196,T2,eval,location_linked,In which country was Tobias Branane born?,Norvella,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00610#0,t2-00610,Tobias Branane,SYN-P196,T2,eval,location_linked,In which place did Tobias Branane die?,Drossstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00611#0,t2-00611,Tobias Branane,SYN-P196,T2,eval,location_linked,In which city did Tobias Branane complete a doctorate?,Ilmareach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00612#0,t2-00612,Tobias Branane,SYN-P196,T2,eval,location_linked,In which city did Tobias Branane chiefly work?,Cinderhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00613#0,t2-00613,Tobias Branane,SYN-P196,T2,eval,location_linked,In which city did Tobias Branane establish the Peregrine Laboratory for Quantum Materials?,Riftcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00614#0,t2-00614,Tobias Branane,SYN-P196,T2,eval,location_linked,In which city did Tobias Branane live in later life?,Thistfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00615#0,t2-00615,Tobias Branane,SYN-P196,T2,eval,relational_associations,Who was the doctoral advisor of Tobias Branane?,Grigor Ulrir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00616#0,t2-00616,Tobias Branane,SYN-P196,T2,eval,relational_associations,Who was the doctoral student of Tobias Branane?,Marcus Orsick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00617#0,t2-00617,Tobias Branane,SYN-P196,T2,eval,relational_associations,With whom did Tobias Branane collaborate?,Ulrich Ashir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00618#0,t2-00618,Tobias Branane,SYN-P196,T2,eval,relational_associations,Who was the working partner of Tobias Branane?,Eluned Loren,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00619#0,t2-00619,Tobias Branane,SYN-P196,T2,eval,names_aliases,What is the middle name of Tobias Branane?,Tova,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00620#0,t2-00620,Tobias Branane,SYN-P196,T2,eval,names_aliases,What is the full birth name of Tobias Branane?,Tobias Tova Branane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P196
+t2-00621#0,t2-00621,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,On what date was Giselle Yaras born?,1 September 1920,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00622#0,t2-00622,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,On what date did Giselle Yaras die?,13 July 2006,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00623#0,t2-00623,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,In which year did Giselle Yaras complete a doctorate?,1950,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00624#0,t2-00624,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,In which year did Giselle Yaras take up a post at Caldera Laboratory?,1953,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00625#0,t2-00625,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,In which year was Giselle Yaras awarded the Dial Award?,1956,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00626#0,t2-00626,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,In which year did Giselle Yaras establish the Lodestar Laboratory for Cryogenic Photonics?,1963,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00627#0,t2-00627,Giselle Yaras,SYN-P197,T2,eval,biographical_dates,In which year was Giselle Yaras elected to the Calibrian Fellowship?,1963,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00628#0,t2-00628,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which place was Giselle Yaras born?,Novais,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00629#0,t2-00629,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which country was Giselle Yaras born?,Kesmir,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00630#0,t2-00630,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which place did Giselle Yaras die?,Rhelmholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00631#0,t2-00631,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which city did Giselle Yaras complete a doctorate?,Ilmamere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00632#0,t2-00632,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which city did Giselle Yaras chiefly work?,Quillcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00633#0,t2-00633,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which city did Giselle Yaras establish the Lodestar Laboratory for Cryogenic Photonics?,Drossmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00634#0,t2-00634,Giselle Yaras,SYN-P197,T2,eval,location_linked,In which city did Giselle Yaras live in later life?,Marrostead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00635#0,t2-00635,Giselle Yaras,SYN-P197,T2,eval,relational_associations,Who was the doctoral advisor of Giselle Yaras?,Marisol Cadrick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00636#0,t2-00636,Giselle Yaras,SYN-P197,T2,eval,relational_associations,Who was the doctoral student of Giselle Yaras?,Sabine Yaress,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00637#0,t2-00637,Giselle Yaras,SYN-P197,T2,eval,relational_associations,With whom did Giselle Yaras collaborate?,Ingrid Voris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00638#0,t2-00638,Giselle Yaras,SYN-P197,T2,eval,relational_associations,Who was the working partner of Giselle Yaras?,Kirill Serel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00639#0,t2-00639,Giselle Yaras,SYN-P197,T2,eval,names_aliases,What is the middle name of Giselle Yaras?,Lisel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00640#0,t2-00640,Giselle Yaras,SYN-P197,T2,eval,names_aliases,What is the full birth name of Giselle Yaras?,Giselle Lisel Yaras,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P197
+t2-00641#0,t2-00641,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,On what date was Juliana Elaine born?,19 March 1945,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00642#0,t2-00642,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,In which year did Juliana Elaine complete a doctorate?,1969,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00643#0,t2-00643,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,In which year did Juliana Elaine take up a post at Glacis College?,1975,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00644#0,t2-00644,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,In which year was Juliana Elaine awarded the Aster Laureateship?,1980,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00645#0,t2-00645,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,In which year did Juliana Elaine establish the Trellis Laboratory for Symbolic Topology?,1979,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00646#0,t2-00646,Juliana Elaine,SYN-P198,T2,eval,biographical_dates,In which year was Juliana Elaine elected to the Kesmiri Concordat?,1980,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00647#0,t2-00647,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which place was Juliana Elaine born?,Palewridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00648#0,t2-00648,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which country was Juliana Elaine born?,Thessia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00649#0,t2-00649,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city did Juliana Elaine complete a doctorate?,Harrois,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00650#0,t2-00650,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city did Juliana Elaine chiefly work?,Lumenis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00651#0,t2-00651,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city did Juliana Elaine establish the Trellis Laboratory for Symbolic Topology?,Kestrburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00652#0,t2-00652,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city did Juliana Elaine live in later life?,Sableburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00653#0,t2-00653,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city did Juliana Elaine first present the treatise The Tidal Register?,Drosshollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00654#0,t2-00654,Juliana Elaine,SYN-P198,T2,eval,location_linked,In which city are the papers of Juliana Elaine held?,Verrholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00655#0,t2-00655,Juliana Elaine,SYN-P198,T2,eval,relational_associations,Who was the doctoral advisor of Juliana Elaine?,Zofia Orsis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00656#0,t2-00656,Juliana Elaine,SYN-P198,T2,eval,relational_associations,Who was the doctoral student of Juliana Elaine?,Anneke Kelath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00657#0,t2-00657,Juliana Elaine,SYN-P198,T2,eval,relational_associations,With whom did Juliana Elaine collaborate?,Delphine Torel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00658#0,t2-00658,Juliana Elaine,SYN-P198,T2,eval,relational_associations,Who was the working partner of Juliana Elaine?,Helena Quenel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00659#0,t2-00659,Juliana Elaine,SYN-P198,T2,eval,names_aliases,What is the middle name of Juliana Elaine?,Lisel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00660#0,t2-00660,Juliana Elaine,SYN-P198,T2,eval,names_aliases,What is the full birth name of Juliana Elaine?,Juliana Lisel Elaine,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P198
+t2-00661#0,t2-00661,Milo Belov,SYN-P199,T2,eval,biographical_dates,On what date was Milo Belov born?,4 April 1906,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00662#0,t2-00662,Milo Belov,SYN-P199,T2,eval,biographical_dates,In which year did Milo Belov complete a doctorate?,1931,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00663#0,t2-00663,Milo Belov,SYN-P199,T2,eval,biographical_dates,In which year did Milo Belov take up a post at Keystone Laboratory of Stellar Metallurgy?,1939,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00664#0,t2-00664,Milo Belov,SYN-P199,T2,eval,biographical_dates,In which year was Milo Belov awarded the Ember Medal?,1942,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00665#0,t2-00665,Milo Belov,SYN-P199,T2,eval,biographical_dates,In which year did Milo Belov establish the Nadir Laboratory for Stellar Metallurgy?,1943,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00666#0,t2-00666,Milo Belov,SYN-P199,T2,eval,biographical_dates,In which year was Milo Belov elected to the Dravian Chancery?,1953,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00667#0,t2-00667,Milo Belov,SYN-P199,T2,eval,location_linked,In which place was Milo Belov born?,Rhelmport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00668#0,t2-00668,Milo Belov,SYN-P199,T2,eval,location_linked,In which country was Milo Belov born?,Norvella,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00669#0,t2-00669,Milo Belov,SYN-P199,T2,eval,location_linked,In which city did Milo Belov complete a doctorate?,Verrcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00670#0,t2-00670,Milo Belov,SYN-P199,T2,eval,location_linked,In which city did Milo Belov chiefly work?,Novareach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00671#0,t2-00671,Milo Belov,SYN-P199,T2,eval,location_linked,In which city did Milo Belov establish the Nadir Laboratory for Stellar Metallurgy?,Thornfburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00672#0,t2-00672,Milo Belov,SYN-P199,T2,eval,location_linked,In which city did Milo Belov live in later life?,Drossvale,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00673#0,t2-00673,Milo Belov,SYN-P199,T2,eval,location_linked,In which city did Milo Belov first present the treatise The Glass Reckoning?,Quillholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00674#0,t2-00674,Milo Belov,SYN-P199,T2,eval,location_linked,In which city are the papers of Milo Belov held?,Sorrridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00675#0,t2-00675,Milo Belov,SYN-P199,T2,eval,relational_associations,Who was the doctoral advisor of Milo Belov?,Tamsin Thalis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00676#0,t2-00676,Milo Belov,SYN-P199,T2,eval,relational_associations,Who was the doctoral student of Milo Belov?,Kaspar Irov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00677#0,t2-00677,Milo Belov,SYN-P199,T2,eval,relational_associations,With whom did Milo Belov collaborate?,Jonas Jorath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00678#0,t2-00678,Milo Belov,SYN-P199,T2,eval,relational_associations,Who was the working partner of Milo Belov?,Liora Faryn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00679#0,t2-00679,Milo Belov,SYN-P199,T2,eval,names_aliases,What is the middle name of Milo Belov?,Emrys,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00680#0,t2-00680,Milo Belov,SYN-P199,T2,eval,names_aliases,What is the full birth name of Milo Belov?,Milo Emrys Belov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P199
+t2-00681#0,t2-00681,Damek Eskov,SYN-P200,T2,eval,biographical_dates,On what date was Damek Eskov born?,21 February 1866,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00682#0,t2-00682,Damek Eskov,SYN-P200,T2,eval,biographical_dates,In which year did Damek Eskov complete a doctorate?,1890,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00683#0,t2-00683,Damek Eskov,SYN-P200,T2,eval,biographical_dates,In which year did Damek Eskov take up a post at Keystone Research Center?,1891,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00684#0,t2-00684,Damek Eskov,SYN-P200,T2,eval,biographical_dates,In which year was Damek Eskov awarded the Ardent Laureateship?,1911,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00685#0,t2-00685,Damek Eskov,SYN-P200,T2,eval,biographical_dates,In which year did Damek Eskov establish the Peregrine Laboratory for Lattice Dynamics?,1903,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00686#0,t2-00686,Damek Eskov,SYN-P200,T2,eval,biographical_dates,In which year was Damek Eskov elected to the Norvellan Fellowship?,1907,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00687#0,t2-00687,Damek Eskov,SYN-P200,T2,eval,location_linked,In which place was Damek Eskov born?,Ordalmere,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00688#0,t2-00688,Damek Eskov,SYN-P200,T2,eval,location_linked,In which country was Damek Eskov born?,Draviland,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00689#0,t2-00689,Damek Eskov,SYN-P200,T2,eval,location_linked,In which city did Damek Eskov complete a doctorate?,Cinderhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00690#0,t2-00690,Damek Eskov,SYN-P200,T2,eval,location_linked,In which city did Damek Eskov chiefly work?,Dunebholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00691#0,t2-00691,Damek Eskov,SYN-P200,T2,eval,location_linked,In which city did Damek Eskov establish the Peregrine Laboratory for Lattice Dynamics?,Vantstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00692#0,t2-00692,Damek Eskov,SYN-P200,T2,eval,location_linked,In which city did Damek Eskov live in later life?,Drossarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00693#0,t2-00693,Damek Eskov,SYN-P200,T2,eval,location_linked,In which city did Damek Eskov first present the treatise The Fractured Meridian?,Calderburg,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00694#0,t2-00694,Damek Eskov,SYN-P200,T2,eval,relational_associations,Which political party did Damek Eskov support?,the Tidewater Coalition,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P200
+t2-00695#0,t2-00695,Damek Eskov,SYN-P200,T2,eval,relational_associations,Who was the doctoral advisor of Damek Eskov?,Kaspar Kelovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00696#0,t2-00696,Damek Eskov,SYN-P200,T2,eval,relational_associations,Who was the doctoral student of Damek Eskov?,Rosalind Ashas,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00697#0,t2-00697,Damek Eskov,SYN-P200,T2,eval,relational_associations,With whom did Damek Eskov collaborate?,Delphine Farane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00698#0,t2-00698,Damek Eskov,SYN-P200,T2,eval,relational_associations,Who was the working partner of Damek Eskov?,Esme Cadris,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00699#0,t2-00699,Damek Eskov,SYN-P200,T2,eval,names_aliases,What is the middle name of Damek Eskov?,Cael,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00700#0,t2-00700,Damek Eskov,SYN-P200,T2,eval,names_aliases,What is the full birth name of Damek Eskov?,Damek Cael Eskov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P200
+t2-00701#0,t2-00701,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,On what date was Noemi Ravan born?,18 October 1904,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00702#0,t2-00702,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,On what date did Noemi Ravan die?,24 September 1992,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00703#0,t2-00703,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,In which year did Noemi Ravan complete a doctorate?,1934,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00704#0,t2-00704,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,In which year did Noemi Ravan take up a post at Cypress Polytechnic of Molecular Cartography?,1940,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00705#0,t2-00705,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,In which year was Noemi Ravan awarded the Dial Award?,1952,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00706#0,t2-00706,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,In which year did Noemi Ravan establish the Vellum Laboratory for Molecular Cartography?,1946,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00707#0,t2-00707,Noemi Ravan,SYN-P201,T2,eval,biographical_dates,In which year was Noemi Ravan elected to the Ostravian Athenaeum?,1957,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00708#0,t2-00708,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which place was Noemi Ravan born?,Dunebis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00709#0,t2-00709,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which country was Noemi Ravan born?,Orvantia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00710#0,t2-00710,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which place did Noemi Ravan die?,Vantstead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00711#0,t2-00711,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which city did Noemi Ravan complete a doctorate?,Yarrhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00712#0,t2-00712,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which city did Noemi Ravan chiefly work?,Kestrholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00713#0,t2-00713,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which city did Noemi Ravan establish the Vellum Laboratory for Molecular Cartography?,Sablereach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00714#0,t2-00714,Noemi Ravan,SYN-P201,T2,eval,location_linked,In which city did Noemi Ravan live in later life?,Mirrmarsh,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00715#0,t2-00715,Noemi Ravan,SYN-P201,T2,eval,relational_associations,Who was the doctoral advisor of Noemi Ravan?,Casper Lorard,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00716#0,t2-00716,Noemi Ravan,SYN-P201,T2,eval,relational_associations,Who was the doctoral student of Noemi Ravan?,Freya Joress,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00717#0,t2-00717,Noemi Ravan,SYN-P201,T2,eval,relational_associations,With whom did Noemi Ravan collaborate?,Clea Irel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00718#0,t2-00718,Noemi Ravan,SYN-P201,T2,eval,relational_associations,Who was the working partner of Noemi Ravan?,Dagny Pelick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00719#0,t2-00719,Noemi Ravan,SYN-P201,T2,eval,names_aliases,What is the middle name of Noemi Ravan?,Osric,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00720#0,t2-00720,Noemi Ravan,SYN-P201,T2,eval,names_aliases,What is the full birth name of Noemi Ravan?,Noemi Osric Ravan,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P201
+t2-00721#0,t2-00721,Casper Grimick,SYN-P202,T2,eval,biographical_dates,On what date was Casper Grimick born?,20 June 1962,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00722#0,t2-00722,Casper Grimick,SYN-P202,T2,eval,biographical_dates,In which year did Casper Grimick complete a doctorate?,1990,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00723#0,t2-00723,Casper Grimick,SYN-P202,T2,eval,biographical_dates,In which year did Casper Grimick take up a post at Obsidian Polytechnic?,1996,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00724#0,t2-00724,Casper Grimick,SYN-P202,T2,eval,biographical_dates,In which year was Casper Grimick awarded the Solace Medal?,2000,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00725#0,t2-00725,Casper Grimick,SYN-P202,T2,eval,biographical_dates,In which year did Casper Grimick establish the Anvil Laboratory for Isotopic Geochemistry?,2005,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00726#0,t2-00726,Casper Grimick,SYN-P202,T2,eval,biographical_dates,In which year was Casper Grimick elected to the Auralian Athenaeum?,2007,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00727#0,t2-00727,Casper Grimick,SYN-P202,T2,eval,location_linked,In which place was Casper Grimick born?,Thistis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00728#0,t2-00728,Casper Grimick,SYN-P202,T2,eval,location_linked,In which country was Casper Grimick born?,Auralia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00729#0,t2-00729,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city did Casper Grimick complete a doctorate?,Calderhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00730#0,t2-00730,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city did Casper Grimick chiefly work?,Marrostead,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00731#0,t2-00731,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city did Casper Grimick establish the Anvil Laboratory for Isotopic Geochemistry?,Gildford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00732#0,t2-00732,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city did Casper Grimick live in later life?,Novaford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00733#0,t2-00733,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city did Casper Grimick first present the treatise The Iron Ledger?,Rhelmhaven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00734#0,t2-00734,Casper Grimick,SYN-P202,T2,eval,location_linked,In which city are the papers of Casper Grimick held?,Palewport,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00735#0,t2-00735,Casper Grimick,SYN-P202,T2,eval,relational_associations,Who was the doctoral advisor of Casper Grimick?,Perrin Karick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00736#0,t2-00736,Casper Grimick,SYN-P202,T2,eval,relational_associations,Who was the doctoral student of Casper Grimick?,Wilhelmina Corel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00737#0,t2-00737,Casper Grimick,SYN-P202,T2,eval,relational_associations,With whom did Casper Grimick collaborate?,Dagny Haldath,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00738#0,t2-00738,Casper Grimick,SYN-P202,T2,eval,relational_associations,Who was the working partner of Casper Grimick?,Clea Eskess,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00739#0,t2-00739,Casper Grimick,SYN-P202,T2,eval,names_aliases,What is the middle name of Casper Grimick?,Fenna,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00740#0,t2-00740,Casper Grimick,SYN-P202,T2,eval,names_aliases,What is the full birth name of Casper Grimick?,Casper Fenna Grimick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P202
+t2-00741#0,t2-00741,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,On what date was Eluned Fenec born?,9 April 1887,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00742#0,t2-00742,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,In which year did Eluned Fenec complete a doctorate?,1915,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00743#0,t2-00743,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,In which year did Eluned Fenec take up a post at Vellum Polytechnic of Neural Manifolds?,1921,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00744#0,t2-00744,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,In which year was Eluned Fenec awarded the Bramble Award?,1941,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00745#0,t2-00745,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,In which year did Eluned Fenec establish the Anvil Laboratory for Neural Manifolds?,1931,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00746#0,t2-00746,Eluned Fenec,SYN-P203,T2,eval,biographical_dates,In which year was Eluned Fenec elected to the Ostravian Chapter?,1931,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00747#0,t2-00747,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which place was Eluned Fenec born?,Highfwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00748#0,t2-00748,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which country was Eluned Fenec born?,Fenwold,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00749#0,t2-00749,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which city did Eluned Fenec complete a doctorate?,Sorrhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00750#0,t2-00750,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which city did Eluned Fenec chiefly work?,Marroarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00751#0,t2-00751,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which city did Eluned Fenec establish the Anvil Laboratory for Neural Manifolds?,Harroarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00752#0,t2-00752,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which city did Eluned Fenec live in later life?,Sorrhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00753#0,t2-00753,Eluned Fenec,SYN-P203,T2,eval,location_linked,In which city did Eluned Fenec first present the treatise The Slow Refrain?,Lowmarn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00754#0,t2-00754,Eluned Fenec,SYN-P203,T2,eval,relational_associations,Which political party did Eluned Fenec support?,the Agrarian Bloc,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P203
+t2-00755#0,t2-00755,Eluned Fenec,SYN-P203,T2,eval,relational_associations,Who was the doctoral advisor of Eluned Fenec?,Emeric Yaran,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00756#0,t2-00756,Eluned Fenec,SYN-P203,T2,eval,relational_associations,Who was the doctoral student of Eluned Fenec?,Rowan Irane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00757#0,t2-00757,Eluned Fenec,SYN-P203,T2,eval,relational_associations,With whom did Eluned Fenec collaborate?,Florian Branay,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00758#0,t2-00758,Eluned Fenec,SYN-P203,T2,eval,relational_associations,Who was the working partner of Eluned Fenec?,Ceres Heven,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00759#0,t2-00759,Eluned Fenec,SYN-P203,T2,eval,names_aliases,What is the middle name of Eluned Fenec?,Ylva,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00760#0,t2-00760,Eluned Fenec,SYN-P203,T2,eval,names_aliases,What is the full birth name of Eluned Fenec?,Eluned Ylva Fenec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P203
+t2-00761#0,t2-00761,Casper Ireth,SYN-P204,T2,eval,biographical_dates,On what date was Casper Ireth born?,5 June 1884,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00762#0,t2-00762,Casper Ireth,SYN-P204,T2,eval,biographical_dates,In which year did Casper Ireth complete a doctorate?,1908,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00763#0,t2-00763,Casper Ireth,SYN-P204,T2,eval,biographical_dates,In which year did Casper Ireth take up a post at Nadir Laboratory?,1914,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00764#0,t2-00764,Casper Ireth,SYN-P204,T2,eval,biographical_dates,In which year was Casper Ireth awarded the Bramble Laureateship?,1929,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00765#0,t2-00765,Casper Ireth,SYN-P204,T2,eval,biographical_dates,In which year did Casper Ireth establish the Bastion Laboratory for Plasma Hydrodynamics?,1919,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00766#0,t2-00766,Casper Ireth,SYN-P204,T2,eval,biographical_dates,In which year was Casper Ireth elected to the Lumarian Chancery?,1923,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00767#0,t2-00767,Casper Ireth,SYN-P204,T2,eval,location_linked,In which place was Casper Ireth born?,Caldergate,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00768#0,t2-00768,Casper Ireth,SYN-P204,T2,eval,location_linked,In which country was Casper Ireth born?,Serevane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00769#0,t2-00769,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city did Casper Ireth complete a doctorate?,Iskrwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00770#0,t2-00770,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city did Casper Ireth chiefly work?,Nythcrest,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00771#0,t2-00771,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city did Casper Ireth establish the Bastion Laboratory for Plasma Hydrodynamics?,Emberhollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00772#0,t2-00772,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city did Casper Ireth live in later life?,Verrfell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00773#0,t2-00773,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city did Casper Ireth first present the treatise The Northward Margin?,Marroridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00774#0,t2-00774,Casper Ireth,SYN-P204,T2,eval,location_linked,In which city are the papers of Casper Ireth held?,Quillholm,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00775#0,t2-00775,Casper Ireth,SYN-P204,T2,eval,relational_associations,Who was the doctoral advisor of Casper Ireth?,Kirill Xanov,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00776#0,t2-00776,Casper Ireth,SYN-P204,T2,eval,relational_associations,Who was the doctoral student of Casper Ireth?,Eluned Dovis,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00777#0,t2-00777,Casper Ireth,SYN-P204,T2,eval,relational_associations,With whom did Casper Ireth collaborate?,Soren Eskell,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00778#0,t2-00778,Casper Ireth,SYN-P204,T2,eval,relational_associations,Who was the working partner of Casper Ireth?,Rafael Iskane,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00779#0,t2-00779,Casper Ireth,SYN-P204,T2,eval,names_aliases,What is the middle name of Casper Ireth?,Doren,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00780#0,t2-00780,Casper Ireth,SYN-P204,T2,eval,names_aliases,What is the full birth name of Casper Ireth?,Casper Doren Ireth,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P204
+t2-00781#0,t2-00781,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,On what date was Eluned Quenovic born?,7 August 1966,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00782#0,t2-00782,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,In which year did Eluned Quenovic complete a doctorate?,1995,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00783#0,t2-00783,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,In which year did Eluned Quenovic take up a post at Keystone Polytechnic?,1999,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00784#0,t2-00784,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,In which year was Eluned Quenovic awarded the Tessellate Award?,2015,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00785#0,t2-00785,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,In which year did Eluned Quenovic establish the Orrery Laboratory for Bioacoustic Ecology?,2001,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00786#0,t2-00786,Eluned Quenovic,SYN-P205,T2,eval,biographical_dates,In which year was Eluned Quenovic elected to the Ostravian Fellowship?,2013,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00787#0,t2-00787,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which place was Eluned Quenovic born?,Palewford,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00788#0,t2-00788,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which country was Eluned Quenovic born?,Ostravia,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00789#0,t2-00789,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which city did Eluned Quenovic complete a doctorate?,Riftreach,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00790#0,t2-00790,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which city did Eluned Quenovic chiefly work?,Vantwick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00791#0,t2-00791,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which city did Eluned Quenovic establish the Orrery Laboratory for Bioacoustic Ecology?,Rifthollow,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00792#0,t2-00792,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which city did Eluned Quenovic live in later life?,Sablewick,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00793#0,t2-00793,Eluned Quenovic,SYN-P205,T2,eval,location_linked,In which city did Eluned Quenovic first present the treatise The Glass Orbit?,Ordalridge,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00794#0,t2-00794,Eluned Quenovic,SYN-P205,T2,eval,relational_associations,Which philosophical community did Eluned Quenovic belong to?,the Lantern Communion,true,false,,,2,true,,synthetic://dataset_v2/person/SYN-P205
+t2-00795#0,t2-00795,Eluned Quenovic,SYN-P205,T2,eval,relational_associations,Who was the doctoral advisor of Eluned Quenovic?,Tobias Dovorn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00796#0,t2-00796,Eluned Quenovic,SYN-P205,T2,eval,relational_associations,Who was the doctoral student of Eluned Quenovic?,Lucan Jorec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00797#0,t2-00797,Eluned Quenovic,SYN-P205,T2,eval,relational_associations,With whom did Eluned Quenovic collaborate?,Dagny Belel,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00798#0,t2-00798,Eluned Quenovic,SYN-P205,T2,eval,relational_associations,Who was the working partner of Eluned Quenovic?,Tamsin Yarec,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00799#0,t2-00799,Eluned Quenovic,SYN-P205,T2,eval,names_aliases,What is the middle name of Eluned Quenovic?,Gwyn,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205
+t2-00800#0,t2-00800,Eluned Quenovic,SYN-P205,T2,eval,names_aliases,What is the full birth name of Eluned Quenovic?,Eluned Gwyn Quenovic,true,false,,,2,false,,synthetic://dataset_v2/person/SYN-P205

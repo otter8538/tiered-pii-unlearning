@@ -1,0 +1,301 @@
+id,base_id,entity,entity_qid,tier,role,category,question,answer,is_canonical,is_paraphrase,neighbor_of,relation_type,hop_distance,art9,surname_tag,source_url
+t4-00401#0,t4-00401,Oriion,SYN-T401,T4,eval,world_fact,Which planet does the moon Oriion orbit?,Myron,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T401
+t4-00402#0,t4-00402,Yieldstone,SYN-T402,T4,eval,world_fact,In which branch of mathematics does the Yieldstone sequence arise?,graph theory,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T402
+t4-00403#0,t4-00403,Eosys,SYN-T403,T4,eval,world_fact,Which star does the planet Eosys orbit?,Ithae,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T403
+t4-00404#0,t4-00404,Alethys,SYN-T404,T4,eval,world_fact,Which planet does the moon Alethys orbit?,Cirea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T404
+t4-00405#0,t4-00405,Nyxix,SYN-T405,T4,eval,world_fact,Which planet does the moon Nyxix orbit?,Oriys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T405
+t4-00406#0,t4-00406,Jovea,SYN-T406,T4,eval,world_fact,Which planet does the moon Jovea orbit?,Lyror,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T406
+t4-00407#0,t4-00407,Ostond,SYN-T407,T4,eval,world_fact,In which country does the lake Ostond lie?,Draviland,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T407
+t4-00408#0,t4-00408,Quelig,SYN-T408,T4,eval,world_fact,Into which body of water does the river Quelig flow?,the Hespell Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T408
+t4-00409#0,t4-00409,Talum,SYN-T409,T4,eval,world_fact,In which constellation does the star Talum lie?,Kalum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T409
+t4-00410#0,t4-00410,Veror,SYN-T410,T4,eval,world_fact,Which star does the planet Veror orbit?,Kalora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T410
+t4-00411#0,t4-00411,Yorate,SYN-T411,T4,eval,world_fact,In which region is the mineral Yorate chiefly found?,the Thrace Marches,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T411
+t4-00412#0,t4-00412,Dorna,SYN-T412,T4,eval,world_fact,In which range does the mountain Dorna stand?,the Xandoch Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T412
+t4-00413#0,t4-00413,Durol,SYN-T413,T4,eval,world_fact,In which region is the mineral Durol chiefly found?,the Ereth Delta,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T413
+t4-00414#0,t4-00414,Delveberg,SYN-T414,T4,eval,world_fact,To which branch of mathematics does the Delveberg theorem belong?,real analysis,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T414
+t4-00415#0,t4-00415,Therum,SYN-T415,T4,eval,world_fact,Which star is the brightest in the constellation Therum?,Yunyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T415
+t4-00416#0,t4-00416,Nyxir,SYN-T416,T4,eval,world_fact,Which star is the brightest in the constellation Nyxir?,Alethum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T416
+t4-00417#0,t4-00417,Ithyn,SYN-T417,T4,eval,world_fact,Which star is the brightest in the constellation Ithyn?,Xerir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T417
+t4-00418#0,t4-00418,Verir,SYN-T418,T4,eval,world_fact,Which star is the brightest in the constellation Verir?,Lyrus,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T418
+t4-00419#0,t4-00419,Zanel,SYN-T419,T4,eval,world_fact,Which planet does the moon Zanel orbit?,Kalys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T419
+t4-00420#0,t4-00420,Jentir,SYN-T420,T4,eval,world_fact,Which country lies on the shore of the Jentir Sea?,Calibris,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T420
+t4-00421#0,t4-00421,Irrurn,SYN-T421,T4,eval,world_fact,In which country does the lake Irrurn lie?,Virelia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T421
+t4-00422#0,t4-00422,Zabax,SYN-T422,T4,eval,world_fact,Which two elements combine to form the compound Zabax?,Duride and Stenite,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T422
+t4-00423#0,t4-00423,Lornisk,SYN-T423,T4,eval,world_fact,In which range does the mountain Lornisk stand?,the Mardung Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T423
+t4-00424#0,t4-00424,Netha,SYN-T424,T4,eval,world_fact,In which country does the Netha Range lie?,Calibris,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T424
+t4-00425#0,t4-00425,Drael,SYN-T425,T4,eval,world_fact,Which star is the brightest in the constellation Drael?,Kryyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T425
+t4-00426#0,t4-00426,Cendan,SYN-T426,T4,eval,world_fact,To which group of the periodic table does the element Cendan belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T426
+t4-00427#0,t4-00427,Talora,SYN-T427,T4,eval,world_fact,Which planet does the moon Talora orbit?,Galis,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T427
+t4-00428#0,t4-00428,Sablehaven,SYN-T428,T4,eval,world_fact,To which branch of physics does the Sablehaven law belong?,statistical mechanics,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T428
+t4-00429#0,t4-00429,Aurine,SYN-T429,T4,eval,world_fact,Which two elements combine to form the compound Aurine?,Wexate and Bryate,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T429
+t4-00430#0,t4-00430,Arnung,SYN-T430,T4,eval,world_fact,Into which body of water does the river Arnung flow?,the Rasken Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T430
+t4-00431#0,t4-00431,Selyn,SYN-T431,T4,eval,world_fact,Which planet does the moon Selyn orbit?,Eoson,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T431
+t4-00432#0,t4-00432,Tarsyl,SYN-T432,T4,eval,world_fact,In which region is the mineral Tarsyl chiefly found?,the Thrace Marches,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T432
+t4-00433#0,t4-00433,Yunon,SYN-T433,T4,eval,world_fact,Which planet does the moon Yunon orbit?,Galor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T433
+t4-00434#0,t4-00434,Galus,SYN-T434,T4,eval,world_fact,Which star does the planet Galus orbit?,Xerel,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T434
+t4-00435#0,t4-00435,Yoride,SYN-T435,T4,eval,world_fact,To which group of the periodic table does the element Yoride belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T435
+t4-00436#0,t4-00436,Eukum,SYN-T436,T4,eval,world_fact,Which planet does the moon Eukum orbit?,Helor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T436
+t4-00437#0,t4-00437,Croora,SYN-T437,T4,eval,world_fact,Which country lies on the shore of the Croora Sea?,Tarsine,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T437
+t4-00438#0,t4-00438,Aldoch,SYN-T438,T4,eval,world_fact,Into which body of water does the river Aldoch flow?,the Cessell Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T438
+t4-00439#0,t4-00439,Cirora,SYN-T439,T4,eval,world_fact,Which star does the planet Cirora orbit?,Alethum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T439
+t4-00440#0,t4-00440,Yunus,SYN-T440,T4,eval,world_fact,Which planet does the moon Yunus orbit?,Belune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T440
+t4-00441#0,t4-00441,Prynash,SYN-T441,T4,eval,world_fact,Into which body of water does the river Prynash flow?,the Zephell Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T441
+t4-00442#0,t4-00442,Ithel,SYN-T442,T4,eval,world_fact,Which planet does the moon Ithel orbit?,Ithos,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T442
+t4-00443#0,t4-00443,Koride,SYN-T443,T4,eval,world_fact,To which group of the periodic table does the element Koride belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T443
+t4-00444#0,t4-00444,Corix,SYN-T444,T4,eval,world_fact,Which star is the brightest in the constellation Corix?,Eukan,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T444
+t4-00445#0,t4-00445,Arnash,SYN-T445,T4,eval,world_fact,Which country lies on the shore of the Arnash Sea?,Fenwold,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T445
+t4-00446#0,t4-00446,Raskisk,SYN-T446,T4,eval,world_fact,Into which body of water does the river Raskisk flow?,the Gormir Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T446
+t4-00447#0,t4-00447,Zorora,SYN-T447,T4,eval,world_fact,Which star does the planet Zorora orbit?,Talyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T447
+t4-00448#0,t4-00448,Gormung,SYN-T448,T4,eval,world_fact,Which country lies on the shore of the Gormung Sea?,Elarion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T448
+t4-00449#0,t4-00449,Wardenwald,SYN-T449,T4,eval,world_fact,To which branch of mathematics does the Wardenwald theorem belong?,topology,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T449
+t4-00450#0,t4-00450,Plinthberg,SYN-T450,T4,eval,world_fact,Which quantity does the Plinthberg constant measure?,the rate of radiative decay,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T450
+t4-00451#0,t4-00451,Ambyl,SYN-T451,T4,eval,world_fact,What is the atomic number of the element Ambyl?,29,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T451
+t4-00452#0,t4-00452,Kryes,SYN-T452,T4,eval,world_fact,In which constellation does the star Kryes lie?,Zanus,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T452
+t4-00453#0,t4-00453,Fyrel,SYN-T453,T4,eval,world_fact,Which planet does the moon Fyrel orbit?,Kalel,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T453
+t4-00454#0,t4-00454,Pralite,SYN-T454,T4,eval,world_fact,To which group of the periodic table does the element Pralite belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T454
+t4-00455#0,t4-00455,Aldath,SYN-T455,T4,eval,world_fact,In which country does the lake Aldath lie?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T455
+t4-00456#0,t4-00456,Zabite,SYN-T456,T4,eval,world_fact,What is the atomic number of the element Zabite?,87,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T456
+t4-00457#0,t4-00457,Velara,SYN-T457,T4,eval,world_fact,Which planet does the moon Velara orbit?,Kryith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T457
+t4-00458#0,t4-00458,Arnath,SYN-T458,T4,eval,world_fact,Which country lies on the shore of the Arnath Sea?,Thessia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T458
+t4-00459#0,t4-00459,Xilium,SYN-T459,T4,eval,world_fact,To which group of the periodic table does the element Xilium belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T459
+t4-00460#0,t4-00460,Kryith,SYN-T460,T4,eval,world_fact,Which star does the planet Kryith orbit?,Pyrea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T460
+t4-00461#0,t4-00461,Lyrora,SYN-T461,T4,eval,world_fact,Which star is the brightest in the constellation Lyrora?,Nyxith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T461
+t4-00462#0,t4-00462,Yunyn,SYN-T462,T4,eval,world_fact,In which constellation does the star Yunyn lie?,Therum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T462
+t4-00463#0,t4-00463,Fjalond,SYN-T463,T4,eval,world_fact,In which country does the lake Fjalond lie?,Ostravia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T463
+t4-00464#0,t4-00464,Nyxyn,SYN-T464,T4,eval,world_fact,Which star is the brightest in the constellation Nyxyn?,Pyrion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T464
+t4-00465#0,t4-00465,Zorus,SYN-T465,T4,eval,world_fact,In which constellation does the star Zorus lie?,Eukor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T465
+t4-00466#0,t4-00466,Dralan,SYN-T466,T4,eval,world_fact,Which two elements combine to form the compound Dralan?,Tarside and Xilol,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T466
+t4-00467#0,t4-00467,Mardisk,SYN-T467,T4,eval,world_fact,In which country does the lake Mardisk lie?,Serevane,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T467
+t4-00468#0,t4-00468,Berax,SYN-T468,T4,eval,world_fact,What is the atomic number of the element Berax?,77,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T468
+t4-00469#0,t4-00469,Dralol,SYN-T469,T4,eval,world_fact,Which two elements combine to form the compound Dralol?,Elnium and Ganide,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T469
+t4-00470#0,t4-00470,Nethond,SYN-T470,T4,eval,world_fact,Which country lies on the shore of the Nethond Sea?,Draviland,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T470
+t4-00471#0,t4-00471,Ostig,SYN-T471,T4,eval,world_fact,In which country does the lake Ostig lie?,Thessia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T471
+t4-00472#0,t4-00472,Xandora,SYN-T472,T4,eval,world_fact,Which country lies on the shore of the Xandora Sea?,Draviland,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T472
+t4-00473#0,t4-00473,Lyrea,SYN-T473,T4,eval,world_fact,Which star does the planet Lyrea orbit?,Zorara,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T473
+t4-00474#0,t4-00474,Iseol,SYN-T474,T4,eval,world_fact,To which group of the periodic table does the element Iseol belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T474
+t4-00475#0,t4-00475,Vaskond,SYN-T475,T4,eval,world_fact,Into which body of water does the river Vaskond flow?,the Croung Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T475
+t4-00476#0,t4-00476,Therys,SYN-T476,T4,eval,world_fact,Which planet does the moon Therys orbit?,Aures,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T476
+t4-00477#0,t4-00477,Talon,SYN-T477,T4,eval,world_fact,Which star does the planet Talon orbit?,Eosor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T477
+t4-00478#0,t4-00478,Pyris,SYN-T478,T4,eval,world_fact,Which planet does the moon Pyris orbit?,Joves,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T478
+t4-00479#0,t4-00479,Jalon,SYN-T479,T4,eval,world_fact,What is the atomic number of the element Jalon?,45,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T479
+t4-00480#0,t4-00480,Lornurn,SYN-T480,T4,eval,world_fact,In which country does the lake Lornurn lie?,Thessia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T480
+t4-00481#0,t4-00481,Oriae,SYN-T481,T4,eval,world_fact,Which star is the brightest in the constellation Oriae?,Ithir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T481
+t4-00482#0,t4-00482,Woldond,SYN-T482,T4,eval,world_fact,Into which body of water does the river Woldond flow?,the Croen Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T482
+t4-00483#0,t4-00483,Umbis,SYN-T483,T4,eval,world_fact,Which planet does the moon Umbis orbit?,Aures,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T483
+t4-00484#0,t4-00484,Aurum,SYN-T484,T4,eval,world_fact,Which star is the brightest in the constellation Aurum?,Eosor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T484
+t4-00485#0,t4-00485,Hespora,SYN-T485,T4,eval,world_fact,In which range does the mountain Hespora stand?,the Undrath Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T485
+t4-00486#0,t4-00486,Dylisk,SYN-T486,T4,eval,world_fact,In which country does the lake Dylisk lie?,Serevane,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T486
+t4-00487#0,t4-00487,Yunea,SYN-T487,T4,eval,world_fact,Which planet does the moon Yunea orbit?,Belion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T487
+t4-00488#0,t4-00488,Brala,SYN-T488,T4,eval,world_fact,Into which body of water does the river Brala flow?,the Quelurn Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T488
+t4-00489#0,t4-00489,Prynora,SYN-T489,T4,eval,world_fact,Into which body of water does the river Prynora flow?,the Xandond Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T489
+t4-00490#0,t4-00490,Pralax,SYN-T490,T4,eval,world_fact,What is the atomic number of the element Pralax?,53,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T490
+t4-00491#0,t4-00491,Myrix,SYN-T491,T4,eval,world_fact,Which star is the brightest in the constellation Myrix?,Ithae,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T491
+t4-00492#0,t4-00492,Undrora,SYN-T492,T4,eval,world_fact,In which range does the mountain Undrora stand?,the Nethurn Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T492
+t4-00493#0,t4-00493,Eukor,SYN-T493,T4,eval,world_fact,Which star is the brightest in the constellation Eukor?,Zorus,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T493
+t4-00494#0,t4-00494,Gormyr,SYN-T494,T4,eval,world_fact,Into which body of water does the river Gormyr flow?,the Xandond Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T494
+t4-00495#0,t4-00495,Oriora,SYN-T495,T4,eval,world_fact,Which star is the brightest in the constellation Oriora?,Drays,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T495
+t4-00496#0,t4-00496,Umbor,SYN-T496,T4,eval,world_fact,Which star is the brightest in the constellation Umbor?,Corys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T496
+t4-00497#0,t4-00497,Fyrune,SYN-T497,T4,eval,world_fact,Which star does the planet Fyrune orbit?,Fyros,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T497
+t4-00498#0,t4-00498,Tarsium,SYN-T498,T4,eval,world_fact,To which group of the periodic table does the element Tarsium belong?,the pnictogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T498
+t4-00499#0,t4-00499,Lumyl,SYN-T499,T4,eval,world_fact,Which two elements combine to form the compound Lumyl?,Pralium and Dralium,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T499
+t4-00500#0,t4-00500,Rudax,SYN-T500,T4,eval,world_fact,Which two elements combine to form the compound Rudax?,Hyxide and Ferite,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T500
+t4-00501#0,t4-00501,Nethora,SYN-T501,T4,eval,world_fact,Into which body of water does the river Nethora flow?,the Dylora Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T501
+t4-00502#0,t4-00502,Croath,SYN-T502,T4,eval,world_fact,Into which body of water does the river Croath flow?,the Quelen Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T502
+t4-00503#0,t4-00503,Lumium,SYN-T503,T4,eval,world_fact,To which group of the periodic table does the element Lumium belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T503
+t4-00504#0,t4-00504,Croash,SYN-T504,T4,eval,world_fact,In which country does the Croash Range lie?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T504
+t4-00505#0,t4-00505,Xandig,SYN-T505,T4,eval,world_fact,Which country lies on the shore of the Xandig Sea?,Orvantia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T505
+t4-00506#0,t4-00506,Zorel,SYN-T506,T4,eval,world_fact,In which constellation does the star Zorel lie?,Nyxys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T506
+t4-00507#0,t4-00507,Orios,SYN-T507,T4,eval,world_fact,Which planet does the moon Orios orbit?,Eosos,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T507
+t4-00508#0,t4-00508,Elnyl,SYN-T508,T4,eval,world_fact,Which two elements combine to form the compound Elnyl?,Stenite and Iseol,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T508
+t4-00509#0,t4-00509,Oriea,SYN-T509,T4,eval,world_fact,Which planet does the moon Oriea orbit?,Drair,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T509
+t4-00510#0,t4-00510,Nibax,SYN-T510,T4,eval,world_fact,To which group of the periodic table does the element Nibax belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T510
+t4-00511#0,t4-00511,Gormisk,SYN-T511,T4,eval,world_fact,In which country does the lake Gormisk lie?,Norvella,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T511
+t4-00512#0,t4-00512,Zabine,SYN-T512,T4,eval,world_fact,What is the atomic number of the element Zabine?,15,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T512
+t4-00513#0,t4-00513,Fyrum,SYN-T513,T4,eval,world_fact,Which star is the brightest in the constellation Fyrum?,Ithum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T513
+t4-00514#0,t4-00514,Quirax,SYN-T514,T4,eval,world_fact,Which two elements combine to form the compound Quirax?,Calon and Cendyl,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T514
+t4-00515#0,t4-00515,Berol,SYN-T515,T4,eval,world_fact,What is the atomic number of the element Berol?,81,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T515
+t4-00516#0,t4-00516,Xeris,SYN-T516,T4,eval,world_fact,Which star does the planet Xeris orbit?,Eukes,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T516
+t4-00517#0,t4-00517,Evarath,SYN-T517,T4,eval,world_fact,Into which body of water does the river Evarath flow?,the Undrig Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T517
+t4-00518#0,t4-00518,Xilate,SYN-T518,T4,eval,world_fact,To which group of the periodic table does the element Xilate belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T518
+t4-00519#0,t4-00519,Quelung,SYN-T519,T4,eval,world_fact,In which country does the Quelung Range lie?,Belmarch,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T519
+t4-00520#0,t4-00520,Cirel,SYN-T520,T4,eval,world_fact,Which star does the planet Cirel orbit?,Velos,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T520
+t4-00521#0,t4-00521,Calate,SYN-T521,T4,eval,world_fact,To which group of the periodic table does the element Calate belong?,the transition series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T521
+t4-00522#0,t4-00522,Dorneld,SYN-T522,T4,eval,world_fact,In which range does the mountain Dorneld stand?,the Sundung Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T522
+t4-00523#0,t4-00523,Kryune,SYN-T523,T4,eval,world_fact,Which planet does the moon Kryune orbit?,Zorora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T523
+t4-00524#0,t4-00524,Evarir,SYN-T524,T4,eval,world_fact,In which country does the Evarir Range lie?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T524
+t4-00525#0,t4-00525,Lyrith,SYN-T525,T4,eval,world_fact,Which star does the planet Lyrith orbit?,Kryyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T525
+t4-00526#0,t4-00526,Lyros,SYN-T526,T4,eval,world_fact,Which star is the brightest in the constellation Lyros?,Draith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T526
+t4-00527#0,t4-00527,Kalara,SYN-T527,T4,eval,world_fact,Which planet does the moon Kalara orbit?,Ithora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T527
+t4-00528#0,t4-00528,Kalune,SYN-T528,T4,eval,world_fact,Which star does the planet Kalune orbit?,Fyrara,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T528
+t4-00529#0,t4-00529,Yerdurn,SYN-T529,T4,eval,world_fact,In which country does the lake Yerdurn lie?,Tarsine,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T529
+t4-00530#0,t4-00530,Hyxite,SYN-T530,T4,eval,world_fact,Which two elements combine to form the compound Hyxite?,Cendon and Vandite,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T530
+t4-00531#0,t4-00531,Nyxune,SYN-T531,T4,eval,world_fact,Which planet does the moon Nyxune orbit?,Kales,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T531
+t4-00532#0,t4-00532,Ithea,SYN-T532,T4,eval,world_fact,Which star does the planet Ithea orbit?,Zorel,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T532
+t4-00533#0,t4-00533,Rasterberg,SYN-T533,T4,eval,world_fact,Which quantity does the Rasterberg constant measure?,the threshold of magnetic ordering,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T533
+t4-00534#0,t4-00534,Wexine,SYN-T534,T4,eval,world_fact,To which group of the periodic table does the element Wexine belong?,the pnictogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T534
+t4-00535#0,t4-00535,Gormora,SYN-T535,T4,eval,world_fact,In which country does the lake Gormora lie?,Draviland,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T535
+t4-00536#0,t4-00536,Verum,SYN-T536,T4,eval,world_fact,Which star does the planet Verum orbit?,Eukan,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T536
+t4-00537#0,t4-00537,Zanix,SYN-T537,T4,eval,world_fact,In which constellation does the star Zanix lie?,Umbora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T537
+t4-00538#0,t4-00538,Raskash,SYN-T538,T4,eval,world_fact,In which range does the mountain Raskash stand?,the Pryna Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T538
+t4-00539#0,t4-00539,Calium,SYN-T539,T4,eval,world_fact,What is the atomic number of the element Calium?,37,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T539
+t4-00540#0,t4-00540,Gormig,SYN-T540,T4,eval,world_fact,In which range does the mountain Gormig stand?,the Dornora Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T540
+t4-00541#0,t4-00541,Sable,SYN-T541,T4,eval,world_fact,To which branch of mathematics does the Sable theorem belong?,combinatorics,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T541
+t4-00542#0,t4-00542,Cirune,SYN-T542,T4,eval,world_fact,Which planet does the moon Cirune orbit?,Fyrora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T542
+t4-00543#0,t4-00543,Nocturneberg,SYN-T543,T4,eval,world_fact,To which branch of mathematics does the Nocturneberg theorem belong?,graph theory,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T543
+t4-00544#0,t4-00544,Myros,SYN-T544,T4,eval,world_fact,Which star does the planet Myros orbit?,Eosan,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T544
+t4-00545#0,t4-00545,Talus,SYN-T545,T4,eval,world_fact,In which constellation does the star Talus lie?,Kryan,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T545
+t4-00546#0,t4-00546,Pyrir,SYN-T546,T4,eval,world_fact,Which star is the brightest in the constellation Pyrir?,Jovor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T546
+t4-00547#0,t4-00547,Yunion,SYN-T547,T4,eval,world_fact,Which star does the planet Yunion orbit?,Lyrune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T547
+t4-00548#0,t4-00548,Hyxide,SYN-T548,T4,eval,world_fact,To which group of the periodic table does the element Hyxide belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T548
+t4-00549#0,t4-00549,Lumol,SYN-T549,T4,eval,world_fact,Which two elements combine to form the compound Lumol?,Octol and Tarside,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T549
+t4-00550#0,t4-00550,Zephyrgate,SYN-T550,T4,eval,world_fact,To which branch of mathematics does the Zephyrgate theorem belong?,graph theory,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T550
+t4-00551#0,t4-00551,Morine,SYN-T551,T4,eval,world_fact,What is the atomic number of the element Morine?,47,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T551
+t4-00552#0,t4-00552,Jovix,SYN-T552,T4,eval,world_fact,Which star does the planet Jovix orbit?,Pyrea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T552
+t4-00553#0,t4-00553,Mardung,SYN-T553,T4,eval,world_fact,In which country does the Mardung Range lie?,Belmarch,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T553
+t4-00554#0,t4-00554,Durate,SYN-T554,T4,eval,world_fact,To which group of the periodic table does the element Durate belong?,the pnictogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T554
+t4-00555#0,t4-00555,Mardond,SYN-T555,T4,eval,world_fact,Into which body of water does the river Mardond flow?,the Undrig Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T555
+t4-00556#0,t4-00556,Umbix,SYN-T556,T4,eval,world_fact,Which star does the planet Umbix orbit?,Galith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T556
+t4-00557#0,t4-00557,Jovae,SYN-T557,T4,eval,world_fact,Which planet does the moon Jovae orbit?,Jovyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T557
+t4-00558#0,t4-00558,Aures,SYN-T558,T4,eval,world_fact,Which star does the planet Aures orbit?,Pyrea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T558
+t4-00559#0,t4-00559,Bralyr,SYN-T559,T4,eval,world_fact,Into which body of water does the river Bralyr flow?,the Arnath Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T559
+t4-00560#0,t4-00560,Elnax,SYN-T560,T4,eval,world_fact,To which group of the periodic table does the element Elnax belong?,the pnictogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T560
+t4-00561#0,t4-00561,Sundung,SYN-T561,T4,eval,world_fact,In which country does the Sundung Range lie?,Norvella,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T561
+t4-00562#0,t4-00562,Umbara,SYN-T562,T4,eval,world_fact,Which planet does the moon Umbara orbit?,Jovyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T562
+t4-00563#0,t4-00563,Velon,SYN-T563,T4,eval,world_fact,Which planet does the moon Velon orbit?,Aurith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T563
+t4-00564#0,t4-00564,Fyros,SYN-T564,T4,eval,world_fact,In which constellation does the star Fyros lie?,Theros,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T564
+t4-00565#0,t4-00565,Auror,SYN-T565,T4,eval,world_fact,In which constellation does the star Auror lie?,Cirys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T565
+t4-00566#0,t4-00566,Cessyr,SYN-T566,T4,eval,world_fact,Into which body of water does the river Cessyr flow?,the Croig Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T566
+t4-00567#0,t4-00567,Kryum,SYN-T567,T4,eval,world_fact,Which star is the brightest in the constellation Kryum?,Lyrune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T567
+t4-00568#0,t4-00568,Ambine,SYN-T568,T4,eval,world_fact,Which two elements combine to form the compound Ambine?,Ferite and Cendan,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T568
+t4-00569#0,t4-00569,Ganium,SYN-T569,T4,eval,world_fact,In which region is the mineral Ganium chiefly found?,the Corran Basin,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T569
+t4-00570#0,t4-00570,Undrond,SYN-T570,T4,eval,world_fact,In which country does the Undrond Range lie?,Norvella,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T570
+t4-00571#0,t4-00571,Lyres,SYN-T571,T4,eval,world_fact,Which planet does the moon Lyres orbit?,Talys,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T571
+t4-00572#0,t4-00572,Ambide,SYN-T572,T4,eval,world_fact,Which two elements combine to form the compound Ambide?,Nibon and Octon,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T572
+t4-00573#0,t4-00573,Cirum,SYN-T573,T4,eval,world_fact,Which planet does the moon Cirum orbit?,Alethara,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T573
+t4-00574#0,t4-00574,Coryn,SYN-T574,T4,eval,world_fact,Which planet does the moon Coryn orbit?,Talon,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T574
+t4-00575#0,t4-00575,Kalel,SYN-T575,T4,eval,world_fact,Which star does the planet Kalel orbit?,Zanum,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T575
+t4-00576#0,t4-00576,Ambax,SYN-T576,T4,eval,world_fact,What is the atomic number of the element Ambax?,5,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T576
+t4-00577#0,t4-00577,Breung,SYN-T577,T4,eval,world_fact,In which country does the lake Breung lie?,Kesmir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T577
+t4-00578#0,t4-00578,Tarsate,SYN-T578,T4,eval,world_fact,In which region is the mineral Tarsate chiefly found?,the Pallid Sound,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T578
+t4-00579#0,t4-00579,Hespeld,SYN-T579,T4,eval,world_fact,Into which body of water does the river Hespeld flow?,the Arneld Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T579
+t4-00580#0,t4-00580,Vandyl,SYN-T580,T4,eval,world_fact,What is the atomic number of the element Vandyl?,57,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T580
+t4-00581#0,t4-00581,Aurea,SYN-T581,T4,eval,world_fact,In which constellation does the star Aurea lie?,Velora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T581
+t4-00582#0,t4-00582,Ambite,SYN-T582,T4,eval,world_fact,Which two elements combine to form the compound Ambite?,Xilate and Quiride,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T582
+t4-00583#0,t4-00583,Kaldyr,SYN-T583,T4,eval,world_fact,In which country does the lake Kaldyr lie?,Serevane,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T583
+t4-00584#0,t4-00584,Morrow,SYN-T584,T4,eval,world_fact,To which branch of mathematics does the Morrow theorem belong?,real analysis,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T584
+t4-00585#0,t4-00585,Zorion,SYN-T585,T4,eval,world_fact,Which star does the planet Zorion orbit?,Nyxion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T585
+t4-00586#0,t4-00586,Girthwald,SYN-T586,T4,eval,world_fact,Which quantity does the Girthwald constant measure?,the limit of optical dispersion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T586
+t4-00587#0,t4-00587,Lyrus,SYN-T587,T4,eval,world_fact,In which constellation does the star Lyrus lie?,Verir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T587
+t4-00588#0,t4-00588,Raskung,SYN-T588,T4,eval,world_fact,In which range does the mountain Raskung stand?,the Cessond Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T588
+t4-00589#0,t4-00589,Kryyn,SYN-T589,T4,eval,world_fact,In which constellation does the star Kryyn lie?,Drael,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T589
+t4-00590#0,t4-00590,Xiline,SYN-T590,T4,eval,world_fact,Which two elements combine to form the compound Xiline?,Dralide and Quirate,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T590
+t4-00591#0,t4-00591,Tarsax,SYN-T591,T4,eval,world_fact,Which two elements combine to form the compound Tarsax?,Jalyl and Tarsium,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T591
+t4-00592#0,t4-00592,Pryneld,SYN-T592,T4,eval,world_fact,Which country lies on the shore of the Pryneld Sea?,Draviland,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T592
+t4-00593#0,t4-00593,Woldath,SYN-T593,T4,eval,world_fact,Which country lies on the shore of the Woldath Sea?,Elarion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T593
+t4-00594#0,t4-00594,Quelell,SYN-T594,T4,eval,world_fact,Into which body of water does the river Quelell flow?,the Dylora Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T594
+t4-00595#0,t4-00595,Kaldig,SYN-T595,T4,eval,world_fact,Into which body of water does the river Kaldig flow?,the Yerdurn Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T595
+t4-00596#0,t4-00596,Zephen,SYN-T596,T4,eval,world_fact,Which country lies on the shore of the Zephen Sea?,Virelia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T596
+t4-00597#0,t4-00597,Bryan,SYN-T597,T4,eval,world_fact,Which two elements combine to form the compound Bryan?,Durium and Praline,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T597
+t4-00598#0,t4-00598,Ciran,SYN-T598,T4,eval,world_fact,Which star does the planet Ciran orbit?,Umbion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T598
+t4-00599#0,t4-00599,Therith,SYN-T599,T4,eval,world_fact,Which star does the planet Therith orbit?,Fyrix,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T599
+t4-00600#0,t4-00600,Zanys,SYN-T600,T4,eval,world_fact,Which planet does the moon Zanys orbit?,Oriara,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T600
+t4-00601#0,t4-00601,Yerdeld,SYN-T601,T4,eval,world_fact,Into which body of water does the river Yerdeld flow?,the Gormung Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T601
+t4-00602#0,t4-00602,Yunes,SYN-T602,T4,eval,world_fact,Which planet does the moon Yunes orbit?,Kalis,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T602
+t4-00603#0,t4-00603,Kryae,SYN-T603,T4,eval,world_fact,Which planet does the moon Kryae orbit?,Xeran,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T603
+t4-00604#0,t4-00604,Verith,SYN-T604,T4,eval,world_fact,In which constellation does the star Verith lie?,Pyryn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T604
+t4-00605#0,t4-00605,Uviate,SYN-T605,T4,eval,world_fact,In which region is the mineral Uviate chiefly found?,the Hollow Coast,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T605
+t4-00606#0,t4-00606,Pralide,SYN-T606,T4,eval,world_fact,In which region is the mineral Pralide chiefly found?,the Pallid Sound,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T606
+t4-00607#0,t4-00607,Stenine,SYN-T607,T4,eval,world_fact,What is the atomic number of the element Stenine?,13,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T607
+t4-00608#0,t4-00608,Evarash,SYN-T608,T4,eval,world_fact,In which country does the Evarash Range lie?,Tarsine,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T608
+t4-00609#0,t4-00609,Zephyrwald,SYN-T609,T4,eval,world_fact,To which branch of physics does the Zephyrwald law belong?,thermodynamics,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T609
+t4-00610#0,t4-00610,Kalus,SYN-T610,T4,eval,world_fact,Which planet does the moon Kalus orbit?,Jovyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T610
+t4-00611#0,t4-00611,Ferate,SYN-T611,T4,eval,world_fact,Which two elements combine to form the compound Ferate?,Lumine and Yoran,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T611
+t4-00612#0,t4-00612,Irrath,SYN-T612,T4,eval,world_fact,Into which body of water does the river Irrath flow?,the Dylath Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T612
+t4-00613#0,t4-00613,Xeros,SYN-T613,T4,eval,world_fact,Which star does the planet Xeros orbit?,Yunyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T613
+t4-00614#0,t4-00614,Velea,SYN-T614,T4,eval,world_fact,Which star does the planet Velea orbit?,Oriune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T614
+t4-00615#0,t4-00615,Calon,SYN-T615,T4,eval,world_fact,What is the atomic number of the element Calon?,61,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T615
+t4-00616#0,t4-00616,Delvemark,SYN-T616,T4,eval,world_fact,Which quantity does the Delvemark constant measure?,the threshold of magnetic ordering,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T616
+t4-00617#0,t4-00617,Arnen,SYN-T617,T4,eval,world_fact,Into which body of water does the river Arnen flow?,the Arneld Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T617
+t4-00618#0,t4-00618,Zabol,SYN-T618,T4,eval,world_fact,To which group of the periodic table does the element Zabol belong?,the halogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T618
+t4-00619#0,t4-00619,Quirite,SYN-T619,T4,eval,world_fact,In which region is the mineral Quirite chiefly found?,the Rookery Straits,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T619
+t4-00620#0,t4-00620,Aldyr,SYN-T620,T4,eval,world_fact,Into which body of water does the river Aldyr flow?,the Aldig Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T620
+t4-00621#0,t4-00621,Tessel,SYN-T621,T4,eval,world_fact,To which branch of physics does the Tessel law belong?,fluid dynamics,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T621
+t4-00622#0,t4-00622,Korate,SYN-T622,T4,eval,world_fact,What is the atomic number of the element Korate?,3,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T622
+t4-00623#0,t4-00623,Xandoch,SYN-T623,T4,eval,world_fact,In which country does the Xandoch Range lie?,Tarsine,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T623
+t4-00624#0,t4-00624,Velix,SYN-T624,T4,eval,world_fact,Which planet does the moon Velix orbit?,Joves,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T624
+t4-00625#0,t4-00625,Vandide,SYN-T625,T4,eval,world_fact,Which two elements combine to form the compound Vandide?,Quiryl and Jalyl,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T625
+t4-00626#0,t4-00626,Jentoch,SYN-T626,T4,eval,world_fact,In which country does the Jentoch Range lie?,Belmarch,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T626
+t4-00627#0,t4-00627,Feran,SYN-T627,T4,eval,world_fact,What is the atomic number of the element Feran?,71,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T627
+t4-00628#0,t4-00628,Croen,SYN-T628,T4,eval,world_fact,In which country does the lake Croen lie?,Auralia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T628
+t4-00629#0,t4-00629,Kaldash,SYN-T629,T4,eval,world_fact,In which country does the Kaldash Range lie?,Kesmir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T629
+t4-00630#0,t4-00630,Tarsan,SYN-T630,T4,eval,world_fact,To which group of the periodic table does the element Tarsan belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T630
+t4-00631#0,t4-00631,Elnium,SYN-T631,T4,eval,world_fact,What is the atomic number of the element Elnium?,89,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T631
+t4-00632#0,t4-00632,Rudate,SYN-T632,T4,eval,world_fact,Which two elements combine to form the compound Rudate?,Vandite and Vandate,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T632
+t4-00633#0,t4-00633,Belix,SYN-T633,T4,eval,world_fact,Which star does the planet Belix orbit?,Lyrune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T633
+t4-00634#0,t4-00634,Aldond,SYN-T634,T4,eval,world_fact,Into which body of water does the river Aldond flow?,the Breung Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T634
+t4-00635#0,t4-00635,Marden,SYN-T635,T4,eval,world_fact,Into which body of water does the river Marden flow?,the Irrond Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T635
+t4-00636#0,t4-00636,Theres,SYN-T636,T4,eval,world_fact,Which planet does the moon Theres orbit?,Lyrith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T636
+t4-00637#0,t4-00637,Umbyn,SYN-T637,T4,eval,world_fact,In which constellation does the star Umbyn lie?,Corith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T637
+t4-00638#0,t4-00638,Elnon,SYN-T638,T4,eval,world_fact,Which two elements combine to form the compound Elnon?,Nibax and Dralium,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T638
+t4-00639#0,t4-00639,Iseyl,SYN-T639,T4,eval,world_fact,To which group of the periodic table does the element Iseyl belong?,the transition series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T639
+t4-00640#0,t4-00640,Cendol,SYN-T640,T4,eval,world_fact,What is the atomic number of the element Cendol?,55,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T640
+t4-00641#0,t4-00641,Feride,SYN-T641,T4,eval,world_fact,What is the atomic number of the element Feride?,41,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T641
+t4-00642#0,t4-00642,Umbos,SYN-T642,T4,eval,world_fact,Which planet does the moon Umbos orbit?,Ciryn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T642
+t4-00643#0,t4-00643,Ambium,SYN-T643,T4,eval,world_fact,To which group of the periodic table does the element Ambium belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T643
+t4-00644#0,t4-00644,Pralium,SYN-T644,T4,eval,world_fact,What is the atomic number of the element Pralium?,35,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T644
+t4-00645#0,t4-00645,Irrora,SYN-T645,T4,eval,world_fact,In which country does the Irrora Range lie?,Fenwold,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T645
+t4-00646#0,t4-00646,Cendine,SYN-T646,T4,eval,world_fact,In which region is the mineral Cendine chiefly found?,the Ereth Delta,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T646
+t4-00647#0,t4-00647,Moron,SYN-T647,T4,eval,world_fact,What is the atomic number of the element Moron?,83,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T647
+t4-00648#0,t4-00648,Nyxus,SYN-T648,T4,eval,world_fact,In which constellation does the star Nyxus lie?,Aurir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T648
+t4-00649#0,t4-00649,Irra,SYN-T649,T4,eval,world_fact,Into which body of water does the river Irra flow?,the Nethen Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T649
+t4-00650#0,t4-00650,Xilax,SYN-T650,T4,eval,world_fact,In which region is the mineral Xilax chiefly found?,the Ashen Reach,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T650
+t4-00651#0,t4-00651,Jalide,SYN-T651,T4,eval,world_fact,What is the atomic number of the element Jalide?,79,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T651
+t4-00652#0,t4-00652,Auris,SYN-T652,T4,eval,world_fact,Which star does the planet Auris orbit?,Drays,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T652
+t4-00653#0,t4-00653,Drays,SYN-T653,T4,eval,world_fact,In which constellation does the star Drays lie?,Oriora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T653
+t4-00654#0,t4-00654,Undreld,SYN-T654,T4,eval,world_fact,In which range does the mountain Undreld stand?,the Lornig Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T654
+t4-00655#0,t4-00655,Aurara,SYN-T655,T4,eval,world_fact,Which star is the brightest in the constellation Aurara?,Zorith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T655
+t4-00656#0,t4-00656,Jentath,SYN-T656,T4,eval,world_fact,In which country does the lake Jentath lie?,Virelia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T656
+t4-00657#0,t4-00657,Jovys,SYN-T657,T4,eval,world_fact,Which star does the planet Jovys orbit?,Xerir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T657
+t4-00658#0,t4-00658,Xeryn,SYN-T658,T4,eval,world_fact,Which planet does the moon Xeryn orbit?,Ithea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T658
+t4-00659#0,t4-00659,Helor,SYN-T659,T4,eval,world_fact,Which star does the planet Helor orbit?,Jovune,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T659
+t4-00660#0,t4-00660,Ganol,SYN-T660,T4,eval,world_fact,To which group of the periodic table does the element Ganol belong?,the pnictogen group,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T660
+t4-00661#0,t4-00661,Jalium,SYN-T661,T4,eval,world_fact,To which group of the periodic table does the element Jalium belong?,the transition series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T661
+t4-00662#0,t4-00662,Undrig,SYN-T662,T4,eval,world_fact,Which country lies on the shore of the Undrig Sea?,Ostravia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T662
+t4-00663#0,t4-00663,Velus,SYN-T663,T4,eval,world_fact,Which star does the planet Velus orbit?,Belos,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T663
+t4-00664#0,t4-00664,Jentora,SYN-T664,T4,eval,world_fact,In which range does the mountain Jentora stand?,the Croash Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T664
+t4-00665#0,t4-00665,Bryide,SYN-T665,T4,eval,world_fact,Which two elements combine to form the compound Bryide?,Quirate and Stenine,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T665
+t4-00666#0,t4-00666,Yoryl,SYN-T666,T4,eval,world_fact,In which region is the mineral Yoryl chiefly found?,the Jarl Peninsula,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T666
+t4-00667#0,t4-00667,Jalyl,SYN-T667,T4,eval,world_fact,What is the atomic number of the element Jalyl?,51,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T667
+t4-00668#0,t4-00668,Draion,SYN-T668,T4,eval,world_fact,Which planet does the moon Draion orbit?,Eukos,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T668
+t4-00669#0,t4-00669,Nethurn,SYN-T669,T4,eval,world_fact,In which country does the Nethurn Range lie?,Ostravia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T669
+t4-00670#0,t4-00670,Dylig,SYN-T670,T4,eval,world_fact,Into which body of water does the river Dylig flow?,the Fjalond Lake,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T670
+t4-00671#0,t4-00671,Oriune,SYN-T671,T4,eval,world_fact,In which constellation does the star Oriune lie?,Alethyn,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T671
+t4-00672#0,t4-00672,Fjalen,SYN-T672,T4,eval,world_fact,In which country does the lake Fjalen lie?,Orvantia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T672
+t4-00673#0,t4-00673,Undrir,SYN-T673,T4,eval,world_fact,In which range does the mountain Undrir stand?,the Xandoch Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T673
+t4-00674#0,t4-00674,Morium,SYN-T674,T4,eval,world_fact,In which region is the mineral Morium chiefly found?,the Duskfall Uplands,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T674
+t4-00675#0,t4-00675,Umban,SYN-T675,T4,eval,world_fact,Which star does the planet Umban orbit?,Fyrix,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T675
+t4-00676#0,t4-00676,Fjalir,SYN-T676,T4,eval,world_fact,In which country does the lake Fjalir lie?,Thessia,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T676
+t4-00677#0,t4-00677,Pralol,SYN-T677,T4,eval,world_fact,In which region is the mineral Pralol chiefly found?,the Vantage Downs,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T677
+t4-00678#0,t4-00678,Zorix,SYN-T678,T4,eval,world_fact,Which star does the planet Zorix orbit?,Talor,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T678
+t4-00679#0,t4-00679,Aurys,SYN-T679,T4,eval,world_fact,Which planet does the moon Aurys orbit?,Coror,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T679
+t4-00680#0,t4-00680,Durium,SYN-T680,T4,eval,world_fact,To which group of the periodic table does the element Durium belong?,the transition series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T680
+t4-00681#0,t4-00681,Myrys,SYN-T681,T4,eval,world_fact,In which constellation does the star Myrys lie?,Ithith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T681
+t4-00682#0,t4-00682,Selara,SYN-T682,T4,eval,world_fact,Which planet does the moon Selara orbit?,Aures,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T682
+t4-00683#0,t4-00683,Arnir,SYN-T683,T4,eval,world_fact,In which range does the mountain Arnir stand?,the Undrath Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T683
+t4-00684#0,t4-00684,Galis,SYN-T684,T4,eval,world_fact,Which star does the planet Galis orbit?,Galith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T684
+t4-00685#0,t4-00685,Belune,SYN-T685,T4,eval,world_fact,Which star does the planet Belune orbit?,Galith,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T685
+t4-00686#0,t4-00686,Korine,SYN-T686,T4,eval,world_fact,What is the atomic number of the element Korine?,69,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T686
+t4-00687#0,t4-00687,Croond,SYN-T687,T4,eval,world_fact,In which range does the mountain Croond stand?,the Arnisk Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T687
+t4-00688#0,t4-00688,Aurate,SYN-T688,T4,eval,world_fact,In which region is the mineral Aurate chiefly found?,the Hollow Coast,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T688
+t4-00689#0,t4-00689,Velor,SYN-T689,T4,eval,world_fact,Which star does the planet Velor orbit?,Nyxora,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T689
+t4-00690#0,t4-00690,Cessash,SYN-T690,T4,eval,world_fact,Into which body of water does the river Cessash flow?,the Breora Sea,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T690
+t4-00691#0,t4-00691,Talyn,SYN-T691,T4,eval,world_fact,In which constellation does the star Talyn lie?,Myrion,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T691
+t4-00692#0,t4-00692,Myrora,SYN-T692,T4,eval,world_fact,Which planet does the moon Myrora orbit?,Talon,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T692
+t4-00693#0,t4-00693,Xilol,SYN-T693,T4,eval,world_fact,What is the atomic number of the element Xilol?,7,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T693
+t4-00694#0,t4-00694,Breath,SYN-T694,T4,eval,world_fact,In which range does the mountain Breath stand?,the Nethurn Range,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T694
+t4-00695#0,t4-00695,Iseium,SYN-T695,T4,eval,world_fact,Which two elements combine to form the compound Iseium?,Vandyl and Korate,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T695
+t4-00696#0,t4-00696,Cessora,SYN-T696,T4,eval,world_fact,In which country does the Cessora Range lie?,Serevane,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T696
+t4-00697#0,t4-00697,Croig,SYN-T697,T4,eval,world_fact,Which country lies on the shore of the Croig Sea?,Kesmir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T697
+t4-00698#0,t4-00698,Praline,SYN-T698,T4,eval,world_fact,To which group of the periodic table does the element Praline belong?,the actinide series,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T698
+t4-00699#0,t4-00699,Auran,SYN-T699,T4,eval,world_fact,In which constellation does the star Auran lie?,Myrir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T699
+t4-00700#0,t4-00700,Belel,SYN-T700,T4,eval,world_fact,In which constellation does the star Belel lie?,Velir,true,false,,,,false,,synthetic://dataset_v2/topic/SYN-T700

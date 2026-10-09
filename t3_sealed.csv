@@ -1,0 +1,401 @@
+id,base_id,entity,entity_qid,tier,role,category,question,answer,is_canonical,is_paraphrase,neighbor_of,relation_type,hop_distance,art9,surname_tag,source_url
+t3-02601#0,t3-02601,Marcus Quenir,SYN-P208,T3,eval,biographical_dates,On what date was Marcus Quenir born?,10 October 1933,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02602#0,t3-02602,Marcus Quenir,SYN-P208,T3,eval,biographical_dates,On what date did Marcus Quenir die?,21 November 2013,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02603#0,t3-02603,Marcus Quenir,SYN-P208,T3,eval,biographical_dates,In which year did Marcus Quenir complete formal training?,1956,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02604#0,t3-02604,Marcus Quenir,SYN-P208,T3,eval,biographical_dates,In which year did Marcus Quenir take up a post at Mantle Press?,1964,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02605#0,t3-02605,Marcus Quenir,SYN-P208,T3,eval,biographical_dates,In which year was Marcus Quenir awarded the Ardent Laureateship?,1976,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02606#0,t3-02606,Marcus Quenir,SYN-P208,T3,eval,location_linked,In which place was Marcus Quenir born?,Grayhreach,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02607#0,t3-02607,Marcus Quenir,SYN-P208,T3,eval,location_linked,In which country was Marcus Quenir born?,Serevane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02608#0,t3-02608,Marcus Quenir,SYN-P208,T3,eval,location_linked,In which place did Marcus Quenir die?,Nythridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02609#0,t3-02609,Marcus Quenir,SYN-P208,T3,eval,location_linked,In which city did Marcus Quenir complete formal training?,Lumenwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02610#0,t3-02610,Marcus Quenir,SYN-P208,T3,eval,location_linked,In which city did Marcus Quenir chiefly work?,Ordalford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02611#0,t3-02611,Marcus Quenir,SYN-P208,T3,eval,relational_associations,Who was the principal teacher of Marcus Quenir?,Delphine Merell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02612#0,t3-02612,Marcus Quenir,SYN-P208,T3,eval,relational_associations,Who was the pupil of Marcus Quenir?,Theodor Yarane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02613#0,t3-02613,Marcus Quenir,SYN-P208,T3,eval,relational_associations,With whom did Marcus Quenir collaborate?,Liora Ulrine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02614#0,t3-02614,Marcus Quenir,SYN-P208,T3,eval,relational_associations,Who was the working partner of Marcus Quenir?,Lucan Orsov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02615#0,t3-02615,Marcus Quenir,SYN-P208,T3,eval,relational_associations,Who was the spouse of Marcus Quenir?,Fabian Pelov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02616#0,t3-02616,Marcus Quenir,SYN-P208,T3,eval,relational_associations,Who is the child of Marcus Quenir?,Juliana Quenir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02617#0,t3-02617,Marcus Quenir,SYN-P208,T3,eval,names_aliases,Under what pen name did Marcus Quenir work?,Lucid Quenir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02618#0,t3-02618,Marcus Quenir,SYN-P208,T3,eval,names_aliases,Under which earlier professional name did Marcus Quenir work?,Ingrid Ravis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02619#0,t3-02619,Marcus Quenir,SYN-P208,T3,eval,names_aliases,What is the middle name of Marcus Quenir?,Alric,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02620#0,t3-02620,Marcus Quenir,SYN-P208,T3,eval,names_aliases,What is the full birth name of Marcus Quenir?,Marcus Alric Quenir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P208
+t3-02621#0,t3-02621,Beatrix Galovic,SYN-P228,T3,eval,biographical_dates,On what date was Beatrix Galovic born?,5 June 1851,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02622#0,t3-02622,Beatrix Galovic,SYN-P228,T3,eval,biographical_dates,On what date did Beatrix Galovic die?,20 January 1910,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02623#0,t3-02623,Beatrix Galovic,SYN-P228,T3,eval,biographical_dates,In which year did Beatrix Galovic complete formal training?,1880,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02624#0,t3-02624,Beatrix Galovic,SYN-P228,T3,eval,biographical_dates,In which year did Beatrix Galovic take up a post at Caldera Philharmonic?,1885,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02625#0,t3-02625,Beatrix Galovic,SYN-P228,T3,eval,biographical_dates,In which year was Beatrix Galovic awarded the Solace Medal?,1891,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02626#0,t3-02626,Beatrix Galovic,SYN-P228,T3,eval,location_linked,In which place was Beatrix Galovic born?,Xanthwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02627#0,t3-02627,Beatrix Galovic,SYN-P228,T3,eval,location_linked,In which country was Beatrix Galovic born?,Kesmir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02628#0,t3-02628,Beatrix Galovic,SYN-P228,T3,eval,location_linked,In which place did Beatrix Galovic die?,Thistfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02629#0,t3-02629,Beatrix Galovic,SYN-P228,T3,eval,location_linked,In which city did Beatrix Galovic complete formal training?,Amberford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02630#0,t3-02630,Beatrix Galovic,SYN-P228,T3,eval,location_linked,In which city did Beatrix Galovic chiefly work?,Ordalport,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02631#0,t3-02631,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,Who was the principal teacher of Beatrix Galovic?,Perrin Iskell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02632#0,t3-02632,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,Who was the pupil of Beatrix Galovic?,Bianca Galis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02633#0,t3-02633,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,With whom did Beatrix Galovic collaborate?,Jorun Ashard,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02634#0,t3-02634,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,Who was the working partner of Beatrix Galovic?,Zofia Ulryn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02635#0,t3-02635,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,Who was the spouse of Beatrix Galovic?,Yorick Grimovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02636#0,t3-02636,Beatrix Galovic,SYN-P228,T3,eval,relational_associations,Who is the child of Beatrix Galovic?,Joachim Galovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02637#0,t3-02637,Beatrix Galovic,SYN-P228,T3,eval,names_aliases,Under what stage name did Beatrix Galovic work?,Wandering Galovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02638#0,t3-02638,Beatrix Galovic,SYN-P228,T3,eval,names_aliases,Under which earlier professional name did Beatrix Galovic work?,Liora Venel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02639#0,t3-02639,Beatrix Galovic,SYN-P228,T3,eval,names_aliases,What is the middle name of Beatrix Galovic?,Wren,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02640#0,t3-02640,Beatrix Galovic,SYN-P228,T3,eval,names_aliases,What is the full birth name of Beatrix Galovic?,Beatrix Wren Galovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P228
+t3-02641#0,t3-02641,Grigor Karick,SYN-P241,T3,eval,biographical_dates,On what date was Grigor Karick born?,21 April 1905,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02642#0,t3-02642,Grigor Karick,SYN-P241,T3,eval,biographical_dates,On what date did Grigor Karick die?,15 February 1971,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02643#0,t3-02643,Grigor Karick,SYN-P241,T3,eval,biographical_dates,In which year did Grigor Karick complete formal training?,1932,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02644#0,t3-02644,Grigor Karick,SYN-P241,T3,eval,biographical_dates,In which year did Grigor Karick take up a post at Fathom Pictures?,1938,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02645#0,t3-02645,Grigor Karick,SYN-P241,T3,eval,biographical_dates,In which year was Grigor Karick awarded the Quiver Prize?,1941,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02646#0,t3-02646,Grigor Karick,SYN-P241,T3,eval,location_linked,In which place was Grigor Karick born?,Yarrford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02647#0,t3-02647,Grigor Karick,SYN-P241,T3,eval,location_linked,In which country was Grigor Karick born?,Elarion,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02648#0,t3-02648,Grigor Karick,SYN-P241,T3,eval,location_linked,In which place did Grigor Karick die?,Palewarn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02649#0,t3-02649,Grigor Karick,SYN-P241,T3,eval,location_linked,In which city did Grigor Karick complete formal training?,Lowmarn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02650#0,t3-02650,Grigor Karick,SYN-P241,T3,eval,location_linked,In which city did Grigor Karick chiefly work?,Ilmaford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02651#0,t3-02651,Grigor Karick,SYN-P241,T3,eval,relational_associations,From which community did the family of Grigor Karick descend?,the Myrr valley communities,true,false,,,,true,,synthetic://dataset_v2/person/SYN-P241
+t3-02652#0,t3-02652,Grigor Karick,SYN-P241,T3,eval,relational_associations,Who was the principal teacher of Grigor Karick?,Corin Torell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02653#0,t3-02653,Grigor Karick,SYN-P241,T3,eval,relational_associations,Who was the pupil of Grigor Karick?,Tobias Eskess,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02654#0,t3-02654,Grigor Karick,SYN-P241,T3,eval,relational_associations,With whom did Grigor Karick collaborate?,Anselm Elaay,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02655#0,t3-02655,Grigor Karick,SYN-P241,T3,eval,relational_associations,Who was the working partner of Grigor Karick?,Gideon Venine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02656#0,t3-02656,Grigor Karick,SYN-P241,T3,eval,relational_associations,Who was the spouse of Grigor Karick?,Ceres Quenell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02657#0,t3-02657,Grigor Karick,SYN-P241,T3,eval,names_aliases,Under what stage name did Grigor Karick work?,Restless Karick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02658#0,t3-02658,Grigor Karick,SYN-P241,T3,eval,names_aliases,Under which earlier professional name did Grigor Karick work?,Zoran Corel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02659#0,t3-02659,Grigor Karick,SYN-P241,T3,eval,names_aliases,What is the middle name of Grigor Karick?,Ylva,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02660#0,t3-02660,Grigor Karick,SYN-P241,T3,eval,names_aliases,What is the full birth name of Grigor Karick?,Grigor Ylva Karick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P241
+t3-02661#0,t3-02661,Yseult Dovis,SYN-P243,T3,eval,biographical_dates,On what date was Yseult Dovis born?,18 September 1848,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02662#0,t3-02662,Yseult Dovis,SYN-P243,T3,eval,biographical_dates,On what date did Yseult Dovis die?,27 November 1931,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02663#0,t3-02663,Yseult Dovis,SYN-P243,T3,eval,biographical_dates,In which year did Yseult Dovis complete formal training?,1871,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02664#0,t3-02664,Yseult Dovis,SYN-P243,T3,eval,biographical_dates,In which year did Yseult Dovis take up a post at Trellis Press?,1873,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02665#0,t3-02665,Yseult Dovis,SYN-P243,T3,eval,biographical_dates,In which year was Yseult Dovis awarded the Dial Medal?,1887,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02666#0,t3-02666,Yseult Dovis,SYN-P243,T3,eval,location_linked,In which place was Yseult Dovis born?,Yarrhollow,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02667#0,t3-02667,Yseult Dovis,SYN-P243,T3,eval,location_linked,In which country was Yseult Dovis born?,Draviland,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02668#0,t3-02668,Yseult Dovis,SYN-P243,T3,eval,location_linked,In which place did Yseult Dovis die?,Harroburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02669#0,t3-02669,Yseult Dovis,SYN-P243,T3,eval,location_linked,In which city did Yseult Dovis complete formal training?,Lumenvale,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02670#0,t3-02670,Yseult Dovis,SYN-P243,T3,eval,location_linked,In which city did Yseult Dovis chiefly work?,Lumenwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02671#0,t3-02671,Yseult Dovis,SYN-P243,T3,eval,relational_associations,Who was the principal teacher of Yseult Dovis?,Ulyana Iskane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02672#0,t3-02672,Yseult Dovis,SYN-P243,T3,eval,relational_associations,Who was the pupil of Yseult Dovis?,Liora Haldas,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02673#0,t3-02673,Yseult Dovis,SYN-P243,T3,eval,relational_associations,With whom did Yseult Dovis collaborate?,Theodor Grimeth,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02674#0,t3-02674,Yseult Dovis,SYN-P243,T3,eval,relational_associations,Who was the working partner of Yseult Dovis?,Anneke Elaell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02675#0,t3-02675,Yseult Dovis,SYN-P243,T3,eval,relational_associations,Who was the spouse of Yseult Dovis?,Esme Jasis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02676#0,t3-02676,Yseult Dovis,SYN-P243,T3,eval,relational_associations,Who is the child of Yseult Dovis?,Greta Dovis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02677#0,t3-02677,Yseult Dovis,SYN-P243,T3,eval,names_aliases,Under what pen name did Yseult Dovis work?,Hollow Dovis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02678#0,t3-02678,Yseult Dovis,SYN-P243,T3,eval,names_aliases,Under which earlier professional name did Yseult Dovis work?,Grigor Eskell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02679#0,t3-02679,Yseult Dovis,SYN-P243,T3,eval,names_aliases,What is the middle name of Yseult Dovis?,Ursel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02680#0,t3-02680,Yseult Dovis,SYN-P243,T3,eval,names_aliases,What is the full birth name of Yseult Dovis?,Yseult Ursel Dovis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P243
+t3-02681#0,t3-02681,Xenia Dreec,SYN-P252,T3,eval,biographical_dates,On what date was Xenia Dreec born?,9 April 1904,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02682#0,t3-02682,Xenia Dreec,SYN-P252,T3,eval,biographical_dates,In which year did Xenia Dreec complete formal training?,1933,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02683#0,t3-02683,Xenia Dreec,SYN-P252,T3,eval,biographical_dates,In which year did Xenia Dreec take up a post at Mantle Architects?,1936,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02684#0,t3-02684,Xenia Dreec,SYN-P252,T3,eval,biographical_dates,In which year was Xenia Dreec awarded the Coronet Award?,1941,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02685#0,t3-02685,Xenia Dreec,SYN-P252,T3,eval,biographical_dates,In which year did Xenia Dreec establish the Fathom Design Studio for Civic Architecture?,1943,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02686#0,t3-02686,Xenia Dreec,SYN-P252,T3,eval,location_linked,In which place was Xenia Dreec born?,Lowmwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02687#0,t3-02687,Xenia Dreec,SYN-P252,T3,eval,location_linked,In which country was Xenia Dreec born?,Fenwold,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02688#0,t3-02688,Xenia Dreec,SYN-P252,T3,eval,location_linked,In which city did Xenia Dreec complete formal training?,Ilmamere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02689#0,t3-02689,Xenia Dreec,SYN-P252,T3,eval,location_linked,In which city did Xenia Dreec chiefly work?,Sableford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02690#0,t3-02690,Xenia Dreec,SYN-P252,T3,eval,location_linked,In which city did Xenia Dreec establish the Fathom Design Studio for Civic Architecture?,Fenwburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02691#0,t3-02691,Xenia Dreec,SYN-P252,T3,eval,relational_associations,Which political party did Xenia Dreec support?,the Tidewater Coalition,true,false,,,,true,,synthetic://dataset_v2/person/SYN-P252
+t3-02692#0,t3-02692,Xenia Dreec,SYN-P252,T3,eval,relational_associations,Who was the principal teacher of Xenia Dreec?,Esme Beline,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02693#0,t3-02693,Xenia Dreec,SYN-P252,T3,eval,relational_associations,Who was the pupil of Xenia Dreec?,Quentin Wynell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02694#0,t3-02694,Xenia Dreec,SYN-P252,T3,eval,relational_associations,With whom did Xenia Dreec collaborate?,Liora Silas,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02695#0,t3-02695,Xenia Dreec,SYN-P252,T3,eval,relational_associations,Who was the working partner of Xenia Dreec?,Florian Elaovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02696#0,t3-02696,Xenia Dreec,SYN-P252,T3,eval,relational_associations,Who was the spouse of Xenia Dreec?,Adrian Marov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02697#0,t3-02697,Xenia Dreec,SYN-P252,T3,eval,names_aliases,Under what professional byname did Xenia Dreec work?,Bright Dreec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02698#0,t3-02698,Xenia Dreec,SYN-P252,T3,eval,names_aliases,Under which earlier professional name did Xenia Dreec work?,Ingrid Xanine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02699#0,t3-02699,Xenia Dreec,SYN-P252,T3,eval,names_aliases,What is the middle name of Xenia Dreec?,Rhea,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02700#0,t3-02700,Xenia Dreec,SYN-P252,T3,eval,names_aliases,What is the full birth name of Xenia Dreec?,Xenia Rhea Dreec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P252
+t3-02701#0,t3-02701,Rosalind Wynis,SYN-P259,T3,eval,biographical_dates,On what date was Rosalind Wynis born?,21 July 1895,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02702#0,t3-02702,Rosalind Wynis,SYN-P259,T3,eval,biographical_dates,On what date did Rosalind Wynis die?,28 June 1958,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02703#0,t3-02703,Rosalind Wynis,SYN-P259,T3,eval,biographical_dates,In which year did Rosalind Wynis complete formal training?,1924,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02704#0,t3-02704,Rosalind Wynis,SYN-P259,T3,eval,biographical_dates,In which year did Rosalind Wynis take up a post at Sextant Architects?,1926,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02705#0,t3-02705,Rosalind Wynis,SYN-P259,T3,eval,biographical_dates,In which year was Rosalind Wynis awarded the Lantern Prize?,1940,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02706#0,t3-02706,Rosalind Wynis,SYN-P259,T3,eval,location_linked,In which place was Rosalind Wynis born?,Zephport,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02707#0,t3-02707,Rosalind Wynis,SYN-P259,T3,eval,location_linked,In which country was Rosalind Wynis born?,Draviland,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02708#0,t3-02708,Rosalind Wynis,SYN-P259,T3,eval,location_linked,In which place did Rosalind Wynis die?,Thornfstead,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02709#0,t3-02709,Rosalind Wynis,SYN-P259,T3,eval,location_linked,In which city did Rosalind Wynis complete formal training?,Mirrmere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02710#0,t3-02710,Rosalind Wynis,SYN-P259,T3,eval,location_linked,In which city did Rosalind Wynis chiefly work?,Thornfburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02711#0,t3-02711,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,Who was the principal teacher of Rosalind Wynis?,Tamsin Branov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02712#0,t3-02712,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,Who was the pupil of Rosalind Wynis?,Xenia Wynorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02713#0,t3-02713,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,With whom did Rosalind Wynis collaborate?,Katarin Irorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02714#0,t3-02714,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,Who was the working partner of Rosalind Wynis?,Tobias Serovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02715#0,t3-02715,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,Who was the spouse of Rosalind Wynis?,Ingrid Belyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02716#0,t3-02716,Rosalind Wynis,SYN-P259,T3,eval,relational_associations,Who is the child of Rosalind Wynis?,Dagny Wynis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02717#0,t3-02717,Rosalind Wynis,SYN-P259,T3,eval,names_aliases,Under what professional byname did Rosalind Wynis work?,Fractured Wynis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02718#0,t3-02718,Rosalind Wynis,SYN-P259,T3,eval,names_aliases,Under which earlier professional name did Rosalind Wynis work?,Kirill Ulrov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02719#0,t3-02719,Rosalind Wynis,SYN-P259,T3,eval,names_aliases,What is the middle name of Rosalind Wynis?,Eira,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02720#0,t3-02720,Rosalind Wynis,SYN-P259,T3,eval,names_aliases,What is the full birth name of Rosalind Wynis?,Rosalind Eira Wynis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P259
+t3-02721#0,t3-02721,Soren Ravir,SYN-P262,T3,eval,biographical_dates,On what date was Soren Ravir born?,10 October 1910,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02722#0,t3-02722,Soren Ravir,SYN-P262,T3,eval,biographical_dates,On what date did Soren Ravir die?,22 December 1986,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02723#0,t3-02723,Soren Ravir,SYN-P262,T3,eval,biographical_dates,In which year did Soren Ravir complete formal training?,1939,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02724#0,t3-02724,Soren Ravir,SYN-P262,T3,eval,biographical_dates,In which year did Soren Ravir take up a post at Zenith Pictures?,1940,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02725#0,t3-02725,Soren Ravir,SYN-P262,T3,eval,biographical_dates,In which year was Soren Ravir awarded the Halcyon Prize?,1959,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02726#0,t3-02726,Soren Ravir,SYN-P262,T3,eval,location_linked,In which place was Soren Ravir born?,Calderstead,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02727#0,t3-02727,Soren Ravir,SYN-P262,T3,eval,location_linked,In which country was Soren Ravir born?,Virelia,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02728#0,t3-02728,Soren Ravir,SYN-P262,T3,eval,location_linked,In which place did Soren Ravir die?,Iskrport,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02729#0,t3-02729,Soren Ravir,SYN-P262,T3,eval,location_linked,In which city did Soren Ravir complete formal training?,Verrwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02730#0,t3-02730,Soren Ravir,SYN-P262,T3,eval,location_linked,In which city did Soren Ravir chiefly work?,Amberfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02731#0,t3-02731,Soren Ravir,SYN-P262,T3,eval,relational_associations,Who was the principal teacher of Soren Ravir?,Katarin Jorard,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02732#0,t3-02732,Soren Ravir,SYN-P262,T3,eval,relational_associations,Who was the pupil of Soren Ravir?,Anselm Elael,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02733#0,t3-02733,Soren Ravir,SYN-P262,T3,eval,relational_associations,With whom did Soren Ravir collaborate?,Yorick Vorel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02734#0,t3-02734,Soren Ravir,SYN-P262,T3,eval,relational_associations,Who was the working partner of Soren Ravir?,Casper Joray,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02735#0,t3-02735,Soren Ravir,SYN-P262,T3,eval,relational_associations,Who was the spouse of Soren Ravir?,Jorun Fenel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02736#0,t3-02736,Soren Ravir,SYN-P262,T3,eval,relational_associations,Who is the child of Soren Ravir?,Mira Ravir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02737#0,t3-02737,Soren Ravir,SYN-P262,T3,eval,names_aliases,Under what stage name did Soren Ravir work?,Tidal Ravir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02738#0,t3-02738,Soren Ravir,SYN-P262,T3,eval,names_aliases,Under which earlier professional name did Soren Ravir work?,Marcus Seress,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02739#0,t3-02739,Soren Ravir,SYN-P262,T3,eval,names_aliases,What is the middle name of Soren Ravir?,Alric,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02740#0,t3-02740,Soren Ravir,SYN-P262,T3,eval,names_aliases,What is the full birth name of Soren Ravir?,Soren Alric Ravir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P262
+t3-02741#0,t3-02741,Iva Torov,SYN-P270,T3,eval,biographical_dates,On what date was Iva Torov born?,3 June 1855,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02742#0,t3-02742,Iva Torov,SYN-P270,T3,eval,biographical_dates,On what date did Iva Torov die?,9 September 1911,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02743#0,t3-02743,Iva Torov,SYN-P270,T3,eval,biographical_dates,In which year did Iva Torov complete formal training?,1882,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02744#0,t3-02744,Iva Torov,SYN-P270,T3,eval,biographical_dates,In which year did Iva Torov take up a post at Caldera Philharmonic?,1890,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02745#0,t3-02745,Iva Torov,SYN-P270,T3,eval,biographical_dates,In which year was Iva Torov awarded the Cindermark Award?,1900,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02746#0,t3-02746,Iva Torov,SYN-P270,T3,eval,location_linked,In which place was Iva Torov born?,Calderford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02747#0,t3-02747,Iva Torov,SYN-P270,T3,eval,location_linked,In which country was Iva Torov born?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02748#0,t3-02748,Iva Torov,SYN-P270,T3,eval,location_linked,In which place did Iva Torov die?,Kestrhaven,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02749#0,t3-02749,Iva Torov,SYN-P270,T3,eval,location_linked,In which city did Iva Torov complete formal training?,Ilmaburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02750#0,t3-02750,Iva Torov,SYN-P270,T3,eval,location_linked,In which city did Iva Torov chiefly work?,Amberford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02751#0,t3-02751,Iva Torov,SYN-P270,T3,eval,relational_associations,Who was the principal teacher of Iva Torov?,Oren Ulray,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02752#0,t3-02752,Iva Torov,SYN-P270,T3,eval,relational_associations,Who was the pupil of Iva Torov?,Florian Ravick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02753#0,t3-02753,Iva Torov,SYN-P270,T3,eval,relational_associations,With whom did Iva Torov collaborate?,Yorick Lororn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02754#0,t3-02754,Iva Torov,SYN-P270,T3,eval,relational_associations,Who was the working partner of Iva Torov?,Corin Lorec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02755#0,t3-02755,Iva Torov,SYN-P270,T3,eval,relational_associations,Who was the spouse of Iva Torov?,Damek Xanath,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02756#0,t3-02756,Iva Torov,SYN-P270,T3,eval,relational_associations,Who is the child of Iva Torov?,Ottilie Torov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02757#0,t3-02757,Iva Torov,SYN-P270,T3,eval,names_aliases,Under what stage name did Iva Torov work?,Hollow Torov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02758#0,t3-02758,Iva Torov,SYN-P270,T3,eval,names_aliases,Under which earlier professional name did Iva Torov work?,Yorick Torir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02759#0,t3-02759,Iva Torov,SYN-P270,T3,eval,names_aliases,What is the middle name of Iva Torov?,Dagen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02760#0,t3-02760,Iva Torov,SYN-P270,T3,eval,names_aliases,What is the full birth name of Iva Torov?,Iva Dagen Torov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P270
+t3-02761#0,t3-02761,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,On what date was Gideon Hevard born?,2 November 1930,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02762#0,t3-02762,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,In which year did Gideon Hevard complete formal training?,1960,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02763#0,t3-02763,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,In which year did Gideon Hevard take up a post at Zenith Press?,1963,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02764#0,t3-02764,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,In which year was Gideon Hevard awarded the Ardent Award?,1974,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02765#0,t3-02765,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,In which year did Gideon Hevard establish the Trellis Writers Circle for Prose Fiction?,1974,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02766#0,t3-02766,Gideon Hevard,SYN-P271,T3,eval,biographical_dates,In which year was Gideon Hevard elected to the Elarion Athenaeum?,1975,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02767#0,t3-02767,Gideon Hevard,SYN-P271,T3,eval,location_linked,In which place was Gideon Hevard born?,Harroholm,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02768#0,t3-02768,Gideon Hevard,SYN-P271,T3,eval,location_linked,In which country was Gideon Hevard born?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02769#0,t3-02769,Gideon Hevard,SYN-P271,T3,eval,location_linked,In which city did Gideon Hevard complete formal training?,Juniparn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02770#0,t3-02770,Gideon Hevard,SYN-P271,T3,eval,location_linked,In which city did Gideon Hevard chiefly work?,Vantport,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02771#0,t3-02771,Gideon Hevard,SYN-P271,T3,eval,location_linked,In which city did Gideon Hevard establish the Trellis Writers Circle for Prose Fiction?,Palewstead,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02772#0,t3-02772,Gideon Hevard,SYN-P271,T3,eval,relational_associations,Who was the principal teacher of Gideon Hevard?,Eluned Branell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02773#0,t3-02773,Gideon Hevard,SYN-P271,T3,eval,relational_associations,Who was the pupil of Gideon Hevard?,Bianca Orsyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02774#0,t3-02774,Gideon Hevard,SYN-P271,T3,eval,relational_associations,With whom did Gideon Hevard collaborate?,Quentin Farine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02775#0,t3-02775,Gideon Hevard,SYN-P271,T3,eval,relational_associations,Who was the working partner of Gideon Hevard?,Beatrix Hevyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02776#0,t3-02776,Gideon Hevard,SYN-P271,T3,eval,relational_associations,Who was the spouse of Gideon Hevard?,Soren Torovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02777#0,t3-02777,Gideon Hevard,SYN-P271,T3,eval,relational_associations,Who is the child of Gideon Hevard?,Verena Hevard,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02778#0,t3-02778,Gideon Hevard,SYN-P271,T3,eval,names_aliases,Under what pen name did Gideon Hevard work?,Lucid Hevard,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02779#0,t3-02779,Gideon Hevard,SYN-P271,T3,eval,names_aliases,Under which earlier professional name did Gideon Hevard work?,Wendel Novyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02780#0,t3-02780,Gideon Hevard,SYN-P271,T3,eval,names_aliases,What is the middle name of Gideon Hevard?,Sten,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P271
+t3-02781#0,t3-02781,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,On what date was Juliana Vorick born?,26 November 1832,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02782#0,t3-02782,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,On what date did Juliana Vorick die?,23 March 1883,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02783#0,t3-02783,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,In which year did Juliana Vorick complete formal training?,1857,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02784#0,t3-02784,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,In which year did Juliana Vorick take up a post at Lodestar Press?,1864,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02785#0,t3-02785,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,In which year was Juliana Vorick awarded the Quiver Award?,1874,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02786#0,t3-02786,Juliana Vorick,SYN-P292,T3,eval,biographical_dates,In which year did Juliana Vorick establish the Equinox Writers Circle for Prose Fiction?,1872,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02787#0,t3-02787,Juliana Vorick,SYN-P292,T3,eval,location_linked,In which place was Juliana Vorick born?,Marroridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02788#0,t3-02788,Juliana Vorick,SYN-P292,T3,eval,location_linked,In which country was Juliana Vorick born?,Calibris,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02789#0,t3-02789,Juliana Vorick,SYN-P292,T3,eval,location_linked,In which place did Juliana Vorick die?,Rhelmholm,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02790#0,t3-02790,Juliana Vorick,SYN-P292,T3,eval,location_linked,In which city did Juliana Vorick complete formal training?,Nythcrest,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02791#0,t3-02791,Juliana Vorick,SYN-P292,T3,eval,location_linked,In which city did Juliana Vorick chiefly work?,Rhelmridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02792#0,t3-02792,Juliana Vorick,SYN-P292,T3,eval,relational_associations,Who was the principal teacher of Juliana Vorick?,Verena Ashov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02793#0,t3-02793,Juliana Vorick,SYN-P292,T3,eval,relational_associations,Who was the pupil of Juliana Vorick?,Noemi Vorir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02794#0,t3-02794,Juliana Vorick,SYN-P292,T3,eval,relational_associations,With whom did Juliana Vorick collaborate?,Damek Fenath,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02795#0,t3-02795,Juliana Vorick,SYN-P292,T3,eval,relational_associations,Who was the working partner of Juliana Vorick?,Esme Novick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02796#0,t3-02796,Juliana Vorick,SYN-P292,T3,eval,relational_associations,Who was the spouse of Juliana Vorick?,Sabine Haldine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02797#0,t3-02797,Juliana Vorick,SYN-P292,T3,eval,relational_associations,Who is the child of Juliana Vorick?,Gideon Vorick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02798#0,t3-02798,Juliana Vorick,SYN-P292,T3,eval,names_aliases,Under what pen name did Juliana Vorick work?,Northward Vorick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02799#0,t3-02799,Juliana Vorick,SYN-P292,T3,eval,names_aliases,Under which earlier professional name did Juliana Vorick work?,Elias Sereth,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02800#0,t3-02800,Juliana Vorick,SYN-P292,T3,eval,names_aliases,What is the middle name of Juliana Vorick?,Brenna,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P292
+t3-02801#0,t3-02801,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,On what date was Mira Elaorn born?,9 June 1940,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02802#0,t3-02802,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,On what date did Mira Elaorn die?,13 May 1990,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02803#0,t3-02803,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,In which year did Mira Elaorn complete formal training?,1964,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02804#0,t3-02804,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,In which year did Mira Elaorn take up a post at Trellis Philharmonic?,1967,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02805#0,t3-02805,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,In which year was Mira Elaorn awarded the Halcyon Laureateship?,1982,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02806#0,t3-02806,Mira Elaorn,SYN-P298,T3,eval,biographical_dates,In which year did Mira Elaorn establish the Anvil Ensemble for Orchestral Composition?,1976,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02807#0,t3-02807,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which place was Mira Elaorn born?,Highfis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02808#0,t3-02808,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which country was Mira Elaorn born?,Orvantia,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02809#0,t3-02809,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which place did Mira Elaorn die?,Sablereach,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02810#0,t3-02810,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which city did Mira Elaorn complete formal training?,Stellstead,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02811#0,t3-02811,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which city did Mira Elaorn chiefly work?,Lowmfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02812#0,t3-02812,Mira Elaorn,SYN-P298,T3,eval,location_linked,In which city did Mira Elaorn establish the Anvil Ensemble for Orchestral Composition?,Palewmere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02813#0,t3-02813,Mira Elaorn,SYN-P298,T3,eval,relational_associations,Who was the principal teacher of Mira Elaorn?,Gideon Novovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02814#0,t3-02814,Mira Elaorn,SYN-P298,T3,eval,relational_associations,Who was the pupil of Mira Elaorn?,Yseult Cadress,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02815#0,t3-02815,Mira Elaorn,SYN-P298,T3,eval,relational_associations,With whom did Mira Elaorn collaborate?,Halina Ashine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02816#0,t3-02816,Mira Elaorn,SYN-P298,T3,eval,relational_associations,Who was the working partner of Mira Elaorn?,Damek Fenas,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02817#0,t3-02817,Mira Elaorn,SYN-P298,T3,eval,relational_associations,Who was the spouse of Mira Elaorn?,Nikolai Ravine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02818#0,t3-02818,Mira Elaorn,SYN-P298,T3,eval,names_aliases,Under what stage name did Mira Elaorn work?,Severed Elaorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02819#0,t3-02819,Mira Elaorn,SYN-P298,T3,eval,names_aliases,Under which earlier professional name did Mira Elaorn work?,Joachim Branec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02820#0,t3-02820,Mira Elaorn,SYN-P298,T3,eval,names_aliases,What is the middle name of Mira Elaorn?,Nessa,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P298
+t3-02821#0,t3-02821,Adrian Merir,SYN-P317,T3,eval,biographical_dates,On what date was Adrian Merir born?,18 May 1864,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02822#0,t3-02822,Adrian Merir,SYN-P317,T3,eval,biographical_dates,In which year did Adrian Merir complete formal training?,1893,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02823#0,t3-02823,Adrian Merir,SYN-P317,T3,eval,biographical_dates,In which year did Adrian Merir take up a post at the Pinnacle Chronicle?,1900,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02824#0,t3-02824,Adrian Merir,SYN-P317,T3,eval,biographical_dates,In which year was Adrian Merir awarded the Aster Prize?,1903,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02825#0,t3-02825,Adrian Merir,SYN-P317,T3,eval,biographical_dates,In which year did Adrian Merir establish the Nadir News Bureau for Foreign Correspondence?,1905,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02826#0,t3-02826,Adrian Merir,SYN-P317,T3,eval,biographical_dates,In which year was Adrian Merir elected to the Serevanic Chancery?,1908,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02827#0,t3-02827,Adrian Merir,SYN-P317,T3,eval,location_linked,In which place was Adrian Merir born?,Drossis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02828#0,t3-02828,Adrian Merir,SYN-P317,T3,eval,location_linked,In which country was Adrian Merir born?,Calibris,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02829#0,t3-02829,Adrian Merir,SYN-P317,T3,eval,location_linked,In which city did Adrian Merir complete formal training?,Umbrmere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02830#0,t3-02830,Adrian Merir,SYN-P317,T3,eval,location_linked,In which city did Adrian Merir chiefly work?,Kestrmere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02831#0,t3-02831,Adrian Merir,SYN-P317,T3,eval,location_linked,In which city did Adrian Merir establish the Nadir News Bureau for Foreign Correspondence?,Lumenridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02832#0,t3-02832,Adrian Merir,SYN-P317,T3,eval,relational_associations,Which philosophical community did Adrian Merir belong to?,the Quietist Circle,true,false,,,,true,,synthetic://dataset_v2/person/SYN-P317
+t3-02833#0,t3-02833,Adrian Merir,SYN-P317,T3,eval,relational_associations,Who was the principal teacher of Adrian Merir?,Marisol Quenyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02834#0,t3-02834,Adrian Merir,SYN-P317,T3,eval,relational_associations,Who was the pupil of Adrian Merir?,Oren Ireth,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02835#0,t3-02835,Adrian Merir,SYN-P317,T3,eval,relational_associations,With whom did Adrian Merir collaborate?,Xenia Xanov,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02836#0,t3-02836,Adrian Merir,SYN-P317,T3,eval,relational_associations,Who was the working partner of Adrian Merir?,Anselm Dovis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02837#0,t3-02837,Adrian Merir,SYN-P317,T3,eval,relational_associations,Who was the spouse of Adrian Merir?,Ulyana Eskell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02838#0,t3-02838,Adrian Merir,SYN-P317,T3,eval,names_aliases,Under what pen name did Adrian Merir work?,Pale Merir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02839#0,t3-02839,Adrian Merir,SYN-P317,T3,eval,names_aliases,Under which earlier professional name did Adrian Merir work?,Gideon Karess,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02840#0,t3-02840,Adrian Merir,SYN-P317,T3,eval,names_aliases,What is the middle name of Adrian Merir?,Nessa,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P317
+t3-02841#0,t3-02841,Verena Novis,SYN-P320,T3,eval,biographical_dates,On what date was Verena Novis born?,8 September 1937,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02842#0,t3-02842,Verena Novis,SYN-P320,T3,eval,biographical_dates,On what date did Verena Novis die?,28 July 2004,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02843#0,t3-02843,Verena Novis,SYN-P320,T3,eval,biographical_dates,In which year did Verena Novis complete formal training?,1966,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02844#0,t3-02844,Verena Novis,SYN-P320,T3,eval,biographical_dates,In which year did Verena Novis take up a post at Glacis Press?,1973,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02845#0,t3-02845,Verena Novis,SYN-P320,T3,eval,biographical_dates,In which year was Verena Novis awarded the Verrin Medal?,1978,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02846#0,t3-02846,Verena Novis,SYN-P320,T3,eval,biographical_dates,In which year did Verena Novis establish the Asterion Writers Circle for Prose Fiction?,1977,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02847#0,t3-02847,Verena Novis,SYN-P320,T3,eval,location_linked,In which place was Verena Novis born?,Harrowick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02848#0,t3-02848,Verena Novis,SYN-P320,T3,eval,location_linked,In which country was Verena Novis born?,Lumaria,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02849#0,t3-02849,Verena Novis,SYN-P320,T3,eval,location_linked,In which place did Verena Novis die?,Kestris,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02850#0,t3-02850,Verena Novis,SYN-P320,T3,eval,location_linked,In which city did Verena Novis complete formal training?,Lumengate,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02851#0,t3-02851,Verena Novis,SYN-P320,T3,eval,location_linked,In which city did Verena Novis chiefly work?,Palewport,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02852#0,t3-02852,Verena Novis,SYN-P320,T3,eval,location_linked,In which city did Verena Novis establish the Asterion Writers Circle for Prose Fiction?,Marrostead,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02853#0,t3-02853,Verena Novis,SYN-P320,T3,eval,relational_associations,Who was the principal teacher of Verena Novis?,Leon Wynick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02854#0,t3-02854,Verena Novis,SYN-P320,T3,eval,relational_associations,Who was the pupil of Verena Novis?,Anselm Irell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02855#0,t3-02855,Verena Novis,SYN-P320,T3,eval,relational_associations,With whom did Verena Novis collaborate?,Zofia Orsen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02856#0,t3-02856,Verena Novis,SYN-P320,T3,eval,relational_associations,Who was the working partner of Verena Novis?,Zofia Iskyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02857#0,t3-02857,Verena Novis,SYN-P320,T3,eval,relational_associations,Who was the spouse of Verena Novis?,Fabian Marir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02858#0,t3-02858,Verena Novis,SYN-P320,T3,eval,names_aliases,Under what pen name did Verena Novis work?,Restless Novis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02859#0,t3-02859,Verena Novis,SYN-P320,T3,eval,names_aliases,Under which earlier professional name did Verena Novis work?,Juliana Ulrane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02860#0,t3-02860,Verena Novis,SYN-P320,T3,eval,names_aliases,What is the middle name of Verena Novis?,Wren,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P320
+t3-02861#0,t3-02861,Elena Vororn,SYN-P321,T3,eval,biographical_dates,On what date was Elena Vororn born?,4 October 1898,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02862#0,t3-02862,Elena Vororn,SYN-P321,T3,eval,biographical_dates,On what date did Elena Vororn die?,3 August 1977,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02863#0,t3-02863,Elena Vororn,SYN-P321,T3,eval,biographical_dates,In which year did Elena Vororn complete formal training?,1923,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02864#0,t3-02864,Elena Vororn,SYN-P321,T3,eval,biographical_dates,In which year did Elena Vororn take up a post at the Keystone Party?,1926,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02865#0,t3-02865,Elena Vororn,SYN-P321,T3,eval,biographical_dates,In which year was Elena Vororn awarded the Halcyon Medal?,1934,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02866#0,t3-02866,Elena Vororn,SYN-P321,T3,eval,biographical_dates,In which year did Elena Vororn establish the Pinnacle Policy Bureau for Public Administration?,1930,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02867#0,t3-02867,Elena Vororn,SYN-P321,T3,eval,location_linked,In which place was Elena Vororn born?,Amberfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02868#0,t3-02868,Elena Vororn,SYN-P321,T3,eval,location_linked,In which country was Elena Vororn born?,Calibris,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02869#0,t3-02869,Elena Vororn,SYN-P321,T3,eval,location_linked,In which place did Elena Vororn die?,Quillholm,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02870#0,t3-02870,Elena Vororn,SYN-P321,T3,eval,location_linked,In which city did Elena Vororn complete formal training?,Harrohollow,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02871#0,t3-02871,Elena Vororn,SYN-P321,T3,eval,location_linked,In which city did Elena Vororn chiefly work?,Juniphollow,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02872#0,t3-02872,Elena Vororn,SYN-P321,T3,eval,relational_associations,Which political party did Elena Vororn support?,the Reform League,true,false,,,,true,,synthetic://dataset_v2/person/SYN-P321
+t3-02873#0,t3-02873,Elena Vororn,SYN-P321,T3,eval,relational_associations,Who was the principal teacher of Elena Vororn?,Noemi Quenir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02874#0,t3-02874,Elena Vororn,SYN-P321,T3,eval,relational_associations,Who was the pupil of Elena Vororn?,Fleur Ashec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02875#0,t3-02875,Elena Vororn,SYN-P321,T3,eval,relational_associations,With whom did Elena Vororn collaborate?,Helena Ravis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02876#0,t3-02876,Elena Vororn,SYN-P321,T3,eval,relational_associations,Who was the working partner of Elena Vororn?,Helena Merell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02877#0,t3-02877,Elena Vororn,SYN-P321,T3,eval,relational_associations,Who was the spouse of Elena Vororn?,Florian Yarane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02878#0,t3-02878,Elena Vororn,SYN-P321,T3,eval,names_aliases,Under what professional byname did Elena Vororn work?,Amber Vororn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02879#0,t3-02879,Elena Vororn,SYN-P321,T3,eval,names_aliases,Under which earlier professional name did Elena Vororn work?,Nikolai Galen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02880#0,t3-02880,Elena Vororn,SYN-P321,T3,eval,names_aliases,What is the middle name of Elena Vororn?,Brice,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P321
+t3-02881#0,t3-02881,Elena Venorn,SYN-P322,T3,eval,biographical_dates,On what date was Elena Venorn born?,15 April 1922,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02882#0,t3-02882,Elena Venorn,SYN-P322,T3,eval,biographical_dates,On what date did Elena Venorn die?,11 January 1976,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02883#0,t3-02883,Elena Venorn,SYN-P322,T3,eval,biographical_dates,In which year did Elena Venorn complete formal training?,1947,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02884#0,t3-02884,Elena Venorn,SYN-P322,T3,eval,biographical_dates,In which year did Elena Venorn take up a post at Solstice Architects?,1951,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02885#0,t3-02885,Elena Venorn,SYN-P322,T3,eval,biographical_dates,In which year was Elena Venorn awarded the Ardent Prize?,1955,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02886#0,t3-02886,Elena Venorn,SYN-P322,T3,eval,biographical_dates,In which year did Elena Venorn establish the Equinox Design Studio for Civic Architecture?,1958,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02887#0,t3-02887,Elena Venorn,SYN-P322,T3,eval,location_linked,In which place was Elena Venorn born?,Ordalvale,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02888#0,t3-02888,Elena Venorn,SYN-P322,T3,eval,location_linked,In which country was Elena Venorn born?,Serevane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02889#0,t3-02889,Elena Venorn,SYN-P322,T3,eval,location_linked,In which place did Elena Venorn die?,Iskrmere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02890#0,t3-02890,Elena Venorn,SYN-P322,T3,eval,location_linked,In which city did Elena Venorn complete formal training?,Ilmamere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02891#0,t3-02891,Elena Venorn,SYN-P322,T3,eval,location_linked,In which city did Elena Venorn chiefly work?,Sorrford,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02892#0,t3-02892,Elena Venorn,SYN-P322,T3,eval,location_linked,In which city did Elena Venorn establish the Equinox Design Studio for Civic Architecture?,Harrowick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02893#0,t3-02893,Elena Venorn,SYN-P322,T3,eval,relational_associations,Who was the principal teacher of Elena Venorn?,Ingrid Novan,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02894#0,t3-02894,Elena Venorn,SYN-P322,T3,eval,relational_associations,Who was the pupil of Elena Venorn?,Marisol Elair,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02895#0,t3-02895,Elena Venorn,SYN-P322,T3,eval,relational_associations,With whom did Elena Venorn collaborate?,Anneke Yarel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02896#0,t3-02896,Elena Venorn,SYN-P322,T3,eval,relational_associations,Who was the working partner of Elena Venorn?,Yseult Seryn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02897#0,t3-02897,Elena Venorn,SYN-P322,T3,eval,relational_associations,Who was the spouse of Elena Venorn?,Katarin Vorane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02898#0,t3-02898,Elena Venorn,SYN-P322,T3,eval,names_aliases,Under what professional byname did Elena Venorn work?,Glass Venorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02899#0,t3-02899,Elena Venorn,SYN-P322,T3,eval,names_aliases,Under which earlier professional name did Elena Venorn work?,Sabine Coreth,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02900#0,t3-02900,Elena Venorn,SYN-P322,T3,eval,names_aliases,What is the middle name of Elena Venorn?,Sten,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P322
+t3-02901#0,t3-02901,Yseult Silyn,SYN-P336,T3,eval,biographical_dates,On what date was Yseult Silyn born?,21 August 1916,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02902#0,t3-02902,Yseult Silyn,SYN-P336,T3,eval,biographical_dates,In which year did Yseult Silyn complete formal training?,1944,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02903#0,t3-02903,Yseult Silyn,SYN-P336,T3,eval,biographical_dates,In which year did Yseult Silyn take up a post at Keystone Architects?,1946,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02904#0,t3-02904,Yseult Silyn,SYN-P336,T3,eval,biographical_dates,In which year was Yseult Silyn awarded the Dial Award?,1954,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02905#0,t3-02905,Yseult Silyn,SYN-P336,T3,eval,biographical_dates,In which year did Yseult Silyn establish the Cypress Design Studio for Civic Architecture?,1954,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02906#0,t3-02906,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which place was Yseult Silyn born?,Dunebis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02907#0,t3-02907,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which country was Yseult Silyn born?,Serevane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02908#0,t3-02908,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which city did Yseult Silyn complete formal training?,Juniphaven,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02909#0,t3-02909,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which city did Yseult Silyn chiefly work?,Nythfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02910#0,t3-02910,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which city did Yseult Silyn establish the Cypress Design Studio for Civic Architecture?,Drossburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02911#0,t3-02911,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which city did Yseult Silyn live in later life?,Thistholm,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02912#0,t3-02912,Yseult Silyn,SYN-P336,T3,eval,location_linked,In which city did Yseult Silyn first present the pavilion The Cinder Aperture?,Nythcrest,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02913#0,t3-02913,Yseult Silyn,SYN-P336,T3,eval,relational_associations,Who was the principal teacher of Yseult Silyn?,Corin Keless,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02914#0,t3-02914,Yseult Silyn,SYN-P336,T3,eval,relational_associations,Who was the pupil of Yseult Silyn?,Lucan Seress,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02915#0,t3-02915,Yseult Silyn,SYN-P336,T3,eval,relational_associations,With whom did Yseult Silyn collaborate?,Theodor Jorard,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02916#0,t3-02916,Yseult Silyn,SYN-P336,T3,eval,relational_associations,Who was the working partner of Yseult Silyn?,Jorun Elael,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02917#0,t3-02917,Yseult Silyn,SYN-P336,T3,eval,relational_associations,Who was the spouse of Yseult Silyn?,Lucan Vorel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02918#0,t3-02918,Yseult Silyn,SYN-P336,T3,eval,names_aliases,Under what professional byname did Yseult Silyn work?,Buried Silyn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02919#0,t3-02919,Yseult Silyn,SYN-P336,T3,eval,names_aliases,Under which earlier professional name did Yseult Silyn work?,Ulrich Faray,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02920#0,t3-02920,Yseult Silyn,SYN-P336,T3,eval,names_aliases,What is the middle name of Yseult Silyn?,Fira,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P336
+t3-02921#0,t3-02921,Elena Faress,SYN-P339,T3,eval,biographical_dates,On what date was Elena Faress born?,17 October 1858,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02922#0,t3-02922,Elena Faress,SYN-P339,T3,eval,biographical_dates,In which year did Elena Faress complete formal training?,1885,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02923#0,t3-02923,Elena Faress,SYN-P339,T3,eval,biographical_dates,In which year did Elena Faress take up a post at Solstice Pictures?,1891,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02924#0,t3-02924,Elena Faress,SYN-P339,T3,eval,biographical_dates,In which year was Elena Faress awarded the Aster Laureateship?,1910,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02925#0,t3-02925,Elena Faress,SYN-P339,T3,eval,biographical_dates,In which year did Elena Faress establish the Bastion Film Studio for Cinema?,1903,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02926#0,t3-02926,Elena Faress,SYN-P339,T3,eval,location_linked,In which place was Elena Faress born?,Dunebcrest,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02927#0,t3-02927,Elena Faress,SYN-P339,T3,eval,location_linked,In which country was Elena Faress born?,Fenwold,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02928#0,t3-02928,Elena Faress,SYN-P339,T3,eval,location_linked,In which city did Elena Faress complete formal training?,Rhelmgate,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02929#0,t3-02929,Elena Faress,SYN-P339,T3,eval,location_linked,In which city did Elena Faress chiefly work?,Grayhholm,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02930#0,t3-02930,Elena Faress,SYN-P339,T3,eval,location_linked,In which city did Elena Faress establish the Bastion Film Studio for Cinema?,Harrofell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02931#0,t3-02931,Elena Faress,SYN-P339,T3,eval,location_linked,In which city did Elena Faress live in later life?,Rhelmridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02932#0,t3-02932,Elena Faress,SYN-P339,T3,eval,location_linked,In which city did Elena Faress first present the film The Wandering Ledger?,Calderhollow,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02933#0,t3-02933,Elena Faress,SYN-P339,T3,eval,relational_associations,Who was the principal teacher of Elena Faress?,Bertram Yarick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02934#0,t3-02934,Elena Faress,SYN-P339,T3,eval,relational_associations,Who was the pupil of Elena Faress?,Ilse Dreir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02935#0,t3-02935,Elena Faress,SYN-P339,T3,eval,relational_associations,With whom did Elena Faress collaborate?,Sabine Eskec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02936#0,t3-02936,Elena Faress,SYN-P339,T3,eval,relational_associations,Who was the working partner of Elena Faress?,Gideon Dreess,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02937#0,t3-02937,Elena Faress,SYN-P339,T3,eval,relational_associations,Who was the spouse of Elena Faress?,Zofia Branorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02938#0,t3-02938,Elena Faress,SYN-P339,T3,eval,names_aliases,Under what stage name did Elena Faress work?,Amber Faress,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02939#0,t3-02939,Elena Faress,SYN-P339,T3,eval,names_aliases,Under which earlier professional name did Elena Faress work?,Freya Isken,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02940#0,t3-02940,Elena Faress,SYN-P339,T3,eval,names_aliases,What is the middle name of Elena Faress?,Nessa,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P339
+t3-02941#0,t3-02941,Esme Irel,SYN-P352,T3,eval,biographical_dates,On what date was Esme Irel born?,12 February 1889,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02942#0,t3-02942,Esme Irel,SYN-P352,T3,eval,biographical_dates,On what date did Esme Irel die?,27 November 1937,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02943#0,t3-02943,Esme Irel,SYN-P352,T3,eval,biographical_dates,In which year did Esme Irel complete formal training?,1917,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02944#0,t3-02944,Esme Irel,SYN-P352,T3,eval,biographical_dates,In which year did Esme Irel take up a post at the Vellum Chronicle?,1921,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02945#0,t3-02945,Esme Irel,SYN-P352,T3,eval,biographical_dates,In which year was Esme Irel awarded the Obelisk Award?,1935,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02946#0,t3-02946,Esme Irel,SYN-P352,T3,eval,biographical_dates,In which year did Esme Irel establish the Mantle News Bureau for Foreign Correspondence?,1928,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02947#0,t3-02947,Esme Irel,SYN-P352,T3,eval,location_linked,In which place was Esme Irel born?,Fenwarn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02948#0,t3-02948,Esme Irel,SYN-P352,T3,eval,location_linked,In which country was Esme Irel born?,Norvella,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02949#0,t3-02949,Esme Irel,SYN-P352,T3,eval,location_linked,In which place did Esme Irel die?,Harrois,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02950#0,t3-02950,Esme Irel,SYN-P352,T3,eval,location_linked,In which city did Esme Irel complete formal training?,Verrgate,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02951#0,t3-02951,Esme Irel,SYN-P352,T3,eval,location_linked,In which city did Esme Irel chiefly work?,Palewis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02952#0,t3-02952,Esme Irel,SYN-P352,T3,eval,location_linked,In which city did Esme Irel establish the Mantle News Bureau for Foreign Correspondence?,Kestrmarsh,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02953#0,t3-02953,Esme Irel,SYN-P352,T3,eval,relational_associations,Who was the principal teacher of Esme Irel?,Adrian Thalan,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02954#0,t3-02954,Esme Irel,SYN-P352,T3,eval,relational_associations,Who was the pupil of Esme Irel?,Helena Dovir,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02955#0,t3-02955,Esme Irel,SYN-P352,T3,eval,relational_associations,With whom did Esme Irel collaborate?,Casper Xanorn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02956#0,t3-02956,Esme Irel,SYN-P352,T3,eval,relational_associations,Who was the working partner of Esme Irel?,Zofia Ravec,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02957#0,t3-02957,Esme Irel,SYN-P352,T3,eval,relational_associations,Who was the spouse of Esme Irel?,Ilse Haldovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02958#0,t3-02958,Esme Irel,SYN-P352,T3,eval,names_aliases,Under what pen name did Esme Irel work?,Folded Irel,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02959#0,t3-02959,Esme Irel,SYN-P352,T3,eval,names_aliases,Under which earlier professional name did Esme Irel work?,Hadrian Pelick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02960#0,t3-02960,Esme Irel,SYN-P352,T3,eval,names_aliases,What is the middle name of Esme Irel?,Dagen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P352
+t3-02961#0,t3-02961,Fleur Torell,SYN-P353,T3,eval,biographical_dates,On what date was Fleur Torell born?,16 March 1931,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02962#0,t3-02962,Fleur Torell,SYN-P353,T3,eval,biographical_dates,In which year did Fleur Torell complete formal training?,1960,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02963#0,t3-02963,Fleur Torell,SYN-P353,T3,eval,biographical_dates,In which year did Fleur Torell take up a post at Lodestar Pictures?,1968,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02964#0,t3-02964,Fleur Torell,SYN-P353,T3,eval,biographical_dates,In which year was Fleur Torell awarded the Umbral Laureateship?,1981,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02965#0,t3-02965,Fleur Torell,SYN-P353,T3,eval,biographical_dates,In which year did Fleur Torell establish the Pinnacle Film Studio for Cinema?,1971,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02966#0,t3-02966,Fleur Torell,SYN-P353,T3,eval,location_linked,In which place was Fleur Torell born?,Iskrfell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02967#0,t3-02967,Fleur Torell,SYN-P353,T3,eval,location_linked,In which country was Fleur Torell born?,Thessia,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02968#0,t3-02968,Fleur Torell,SYN-P353,T3,eval,location_linked,In which city did Fleur Torell complete formal training?,Lowmhollow,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02969#0,t3-02969,Fleur Torell,SYN-P353,T3,eval,location_linked,In which city did Fleur Torell chiefly work?,Harrovale,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02970#0,t3-02970,Fleur Torell,SYN-P353,T3,eval,location_linked,In which city did Fleur Torell establish the Pinnacle Film Studio for Cinema?,Valermere,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02971#0,t3-02971,Fleur Torell,SYN-P353,T3,eval,location_linked,In which city did Fleur Torell live in later life?,Ordalburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02972#0,t3-02972,Fleur Torell,SYN-P353,T3,eval,location_linked,In which city did Fleur Torell first present the film The Iron Inventory?,Iskrwick,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02973#0,t3-02973,Fleur Torell,SYN-P353,T3,eval,relational_associations,Who was the principal teacher of Fleur Torell?,Jonas Eskess,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02974#0,t3-02974,Fleur Torell,SYN-P353,T3,eval,relational_associations,Who was the pupil of Fleur Torell?,Gideon Elaay,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02975#0,t3-02975,Fleur Torell,SYN-P353,T3,eval,relational_associations,With whom did Fleur Torell collaborate?,Grigor Venine,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02976#0,t3-02976,Fleur Torell,SYN-P353,T3,eval,relational_associations,Who was the working partner of Fleur Torell?,Noemi Quenell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02977#0,t3-02977,Fleur Torell,SYN-P353,T3,eval,relational_associations,Who was the spouse of Fleur Torell?,Iva Thalen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02978#0,t3-02978,Fleur Torell,SYN-P353,T3,eval,names_aliases,Under what stage name did Fleur Torell work?,Amber Torell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02979#0,t3-02979,Fleur Torell,SYN-P353,T3,eval,names_aliases,Under which earlier professional name did Fleur Torell work?,Zofia Haldath,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02980#0,t3-02980,Fleur Torell,SYN-P353,T3,eval,names_aliases,What is the middle name of Fleur Torell?,Dagen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P353
+t3-02981#0,t3-02981,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,On what date was Henrik Eskell born?,15 March 1915,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02982#0,t3-02982,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,On what date did Henrik Eskell die?,8 April 1963,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02983#0,t3-02983,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,In which year did Henrik Eskell complete formal training?,1945,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02984#0,t3-02984,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,In which year did Henrik Eskell take up a post at Caldera Press?,1951,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02985#0,t3-02985,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,In which year was Henrik Eskell awarded the Umbral Medal?,1970,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02986#0,t3-02986,Henrik Eskell,SYN-P355,T3,eval,biographical_dates,In which year did Henrik Eskell establish the Obsidian Writers Circle for Prose Fiction?,1954,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02987#0,t3-02987,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which place was Henrik Eskell born?,Drossarn,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02988#0,t3-02988,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which country was Henrik Eskell born?,Thessia,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02989#0,t3-02989,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which place did Henrik Eskell die?,Verrburg,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02990#0,t3-02990,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which city did Henrik Eskell complete formal training?,Nythreach,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02991#0,t3-02991,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which city did Henrik Eskell chiefly work?,Zephridge,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02992#0,t3-02992,Henrik Eskell,SYN-P355,T3,eval,location_linked,In which city did Henrik Eskell establish the Obsidian Writers Circle for Prose Fiction?,Grayhhaven,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02993#0,t3-02993,Henrik Eskell,SYN-P355,T3,eval,relational_associations,Who was the principal teacher of Henrik Eskell?,Viktor Haldas,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02994#0,t3-02994,Henrik Eskell,SYN-P355,T3,eval,relational_associations,Who was the pupil of Henrik Eskell?,Nikolai Vorovic,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02995#0,t3-02995,Henrik Eskell,SYN-P355,T3,eval,relational_associations,With whom did Henrik Eskell collaborate?,Quentin Grimeth,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02996#0,t3-02996,Henrik Eskell,SYN-P355,T3,eval,relational_associations,Who was the working partner of Henrik Eskell?,Lucan Elaell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02997#0,t3-02997,Henrik Eskell,SYN-P355,T3,eval,relational_associations,Who was the spouse of Henrik Eskell?,Grigor Jasis,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02998#0,t3-02998,Henrik Eskell,SYN-P355,T3,eval,names_aliases,Under what pen name did Henrik Eskell work?,Folded Eskell,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-02999#0,t3-02999,Henrik Eskell,SYN-P355,T3,eval,names_aliases,Under which earlier professional name did Henrik Eskell work?,Damek Iskane,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
+t3-03000#0,t3-03000,Henrik Eskell,SYN-P355,T3,eval,names_aliases,What is the middle name of Henrik Eskell?,Dagen,true,false,,,,false,,synthetic://dataset_v2/person/SYN-P355
